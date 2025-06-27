@@ -1,0 +1,27 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vs-minimal",
+    "sqldeveloper.sqlHistory.historyLimit": 500,
+    "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
+    "sqldeveloper.telemetry.enabled": true,
+    "[python]": {
+
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.defaultColorDecorators": "never",
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "files.associations": {
+        "*.py": "jade"
+    },
+    "python.defaultInterpreterPath": "C:/Program Files/Python313/python.exe",
+    "settingsSync.ignoredSettings": [
+        "-python.defaultInterpreterPath"
+    ],
+    "workbench.settings.applyToAllProfiles": [
+        "python.defaultInterpreterPath"
+    ],
+    "git.confirmSync": false,
+    "git.autofetch": true
+}
