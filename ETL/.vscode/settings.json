@@ -1,6 +1,6 @@
 {
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Default Dark Modern",
     "workbench.iconTheme": "vs-minimal",
     "sqldeveloper.sqlHistory.historyLimit": 500,
     "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
