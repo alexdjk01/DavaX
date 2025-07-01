@@ -11,13 +11,13 @@ connection = oracledb.connect(
 cursor = connection.cursor()
 
 # --- Step 1: Load CSVs
-#pontaj csv
+#timesheet_pontaj csv
 pontaj_df = pd.read_csv("../files/src_timesheet_pontaj.csv")
 pontaj_df["date"] = pd.to_datetime(pontaj_df["date"]).dt.date
 pontaj_df = pontaj_df.where(pd.notnull(pontaj_df), None)
 pontaj_data = list(pontaj_df.itertuples(index=False, name=None))
 
-#absences csv
+#timesheet_absences csv
 absences_df = pd.read_csv("../files/src_timesheet_absences.csv")
 absences_df["date"] = pd.to_datetime(absences_df["date"]).dt.date
 absences_df = absences_df.where(pd.notnull(absences_df), None)
@@ -53,3 +53,5 @@ connection.close()
 
 # print statement to verify if correct
 print("Insert finished successfully.")
+
+# TODO : Insert data from MODELED CSV: meeting (teams) and absence(calendar confluence)

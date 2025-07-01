@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b2058a46-2949-464b-9338-6b6084397593" name="Changes" comment="Modify directory structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Dava.X Academy - ETL Theory training sessions - Attendance report 6-24-25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Dava.X Academy - ETL Theory training sessions - Attendance report 6-26-25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/absences.CSV" beforeDir="false" afterPath="$PROJECT_DIR$/files/raw_absences.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/insert_into_src_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/insert_into_src_tables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/source_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/source_tables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

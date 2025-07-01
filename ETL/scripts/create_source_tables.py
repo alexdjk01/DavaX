@@ -55,3 +55,6 @@ connection.close()
 
 # print statement to verify if correct
 print("Tables created successfully.")
+
+# TODO : Create Source tables for meeting data(teams) and absence(calendar confluence)
+
