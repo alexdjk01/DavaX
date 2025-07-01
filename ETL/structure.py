@@ -3,8 +3,8 @@ import oracledb
 from utils.utils import Utils
 
 connection = oracledb.connect(
-    user='dan',
-    password='davax_pass',
+    user='alex',
+    password='parola',
     dsn='localhost:1521/XEPDB1'
 )
 
