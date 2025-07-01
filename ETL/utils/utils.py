@@ -51,3 +51,48 @@ class Utils:
         columns_sql = ",\n    ".join(column_definitions)
 
         return f"CREATE TABLE {table_name} (\n    {columns_sql}\n)"
+
+    @staticmethod
+    def insert_values_into_tables(table_name, columns):
+        """
+        Generates a parameterized SQL INSERT statement for use with Oracle databases.
+
+        This method builds an INSERT INTO statement using bind variables (e.g., :1, :2, ...)
+        which is compatible with Oracle's `cursor.executemany()` method. It ensures safe 
+        and efficient insertion of multiple rows into the specified table.
+
+        params:
+            table_name (str): The name of the table to insert data into.
+            columns (list[str]): A list of column names in the table to populate.
+
+        return:
+            str: A SQL INSERT statement with bind variables.
+
+        """
+        col_sql = ", ".join(columns)
+        bind_sql = ", ".join([f":{i+1}" for i in range(len(columns))])
+
+        return f"INSERT INTO {table_name} ({col_sql}) VALUES ({bind_sql})"
+
+    @staticmethod
+    def get_column_names(cursor, table_name):
+        """
+        Returns the column names for a given Oracle table.
+
+        params:
+            cursor (oracledb.Cursor): The Oracle DB cursor.
+            table_name (str): The name of the table (case-insensitive).
+
+        return:
+            list[str]: List of column names in the table.
+        """
+        column_names = """
+            SELECT column_name
+                FROM user_tab_columns
+                    WHERE table_name = :1
+            ORDER BY column_id
+        """
+        cursor.execute(column_names, [table_name.upper()])
+
+        # fetch all column names and return them as a list
+        return [row[0] for row in cursor.fetchall()]
