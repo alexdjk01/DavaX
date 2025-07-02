@@ -1,0 +1,192 @@
+absence_id,first_name,last_name,email,absence_type,date,quantity
+1,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-09,8
+2,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-10,8
+3,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-11,8
+4,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-12,8
+5,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-13,1
+6,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,SL,2025-06-16,2
+7,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,AL,2025-06-17,8
+8,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-18,8
+9,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-19,3
+10,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-20,8
+11,David,Postolea,David.Postolea@endava.com,SL,2025-06-23,6
+12,David,Postolea,David.Postolea@endava.com,AL,2025-06-24,3
+13,David,Postolea,David.Postolea@endava.com,UL,2025-06-25,5
+14,David,Postolea,David.Postolea@endava.com,UL,2025-06-26,6
+15,David,Postolea,David.Postolea@endava.com,AL,2025-06-27,8
+16,David,Postolea,David.Postolea@endava.com,UL,2025-06-30,6
+17,David,Postolea,David.Postolea@endava.com,UL,2025-07-01,8
+18,Vlad,Muresan,Vlad.Muresan3@endava.com,UL,2025-05-19,3
+19,Vlad,Muresan,Vlad.Muresan3@endava.com,AL,2025-05-20,2
+20,Vlad,Muresan,Vlad.Muresan3@endava.com,SL,2025-05-21,5
+21,Vlad,Muresan,Vlad.Muresan3@endava.com,UL,2025-05-22,6
+22,Vlad,Muresan,Vlad.Muresan3@endava.com,SL,2025-05-23,8
+23,Vlad,Muresan,Vlad.Muresan3@endava.com,UL,2025-06-30,5
+24,Vlad,Muresan,Vlad.Muresan3@endava.com,AL,2025-07-01,8
+25,Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,UL,2025-05-26,5
+26,Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,AL,2025-05-27,8
+27,Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,AL,2025-05-28,4
+28,Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,UL,2025-05-29,8
+29,Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,UL,2025-05-30,4
+30,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,UL,2025-06-09,5
+31,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,SL,2025-06-10,8
+32,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,AL,2025-06-11,2
+33,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,SL,2025-06-12,5
+34,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,UL,2025-06-13,5
+35,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,UL,2025-06-23,1
+36,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,AL,2025-06-24,6
+37,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,AL,2025-06-25,8
+38,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,UL,2025-06-26,3
+39,Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,UL,2025-06-27,1
+40,George Andrei,Necula,George-Andrei.Necula@endava.com,AL,2025-05-26,4
+41,George Andrei,Necula,George-Andrei.Necula@endava.com,AL,2025-05-27,3
+42,George Andrei,Necula,George-Andrei.Necula@endava.com,SL,2025-05-28,7
+43,George Andrei,Necula,George-Andrei.Necula@endava.com,AL,2025-05-29,8
+44,George Andrei,Necula,George-Andrei.Necula@endava.com,SL,2025-05-30,4
+45,George Andrei,Necula,George-Andrei.Necula@endava.com,UL,2025-06-02,8
+46,George Andrei,Necula,George-Andrei.Necula@endava.com,UL,2025-06-03,5
+47,George Andrei,Necula,George-Andrei.Necula@endava.com,UL,2025-06-04,8
+48,George Andrei,Necula,George-Andrei.Necula@endava.com,AL,2025-06-05,8
+49,George Andrei,Necula,George-Andrei.Necula@endava.com,AL,2025-06-06,8
+50,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,UL,2025-06-09,8
+51,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,AL,2025-06-10,1
+52,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,UL,2025-06-11,8
+53,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,AL,2025-06-12,2
+54,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,UL,2025-06-13,6
+55,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,UL,2025-06-16,8
+56,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,AL,2025-06-17,8
+57,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,AL,2025-06-18,5
+58,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,AL,2025-06-19,8
+59,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,UL,2025-06-20,8
+60,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,UL,2025-06-30,8
+61,Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,SL,2025-07-01,4
+62,Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,UL,2025-06-02,8
+63,Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,UL,2025-06-03,8
+64,Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,SL,2025-06-04,5
+65,Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,SL,2025-06-05,8
+66,Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,UL,2025-06-06,2
+67,Diandra,Fechita,Diandra.Fechita@endava.com,UL,2025-06-16,2
+68,Diandra,Fechita,Diandra.Fechita@endava.com,AL,2025-06-17,8
+69,Diandra,Fechita,Diandra.Fechita@endava.com,UL,2025-06-18,8
+70,Diandra,Fechita,Diandra.Fechita@endava.com,SL,2025-06-19,8
+71,Diandra,Fechita,Diandra.Fechita@endava.com,UL,2025-06-20,8
+72,Diandra,Fechita,Diandra.Fechita@endava.com,UL,2025-06-30,6
+73,Diandra,Fechita,Diandra.Fechita@endava.com,AL,2025-07-01,8
+74,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-05-26,8
+75,Andrei,Margelatu,Andrei.Margelatu@endava.com,SL,2025-05-27,8
+76,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-05-28,8
+77,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-05-29,4
+78,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-05-30,8
+79,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-06-09,3
+80,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-06-10,6
+81,Andrei,Margelatu,Andrei.Margelatu@endava.com,AL,2025-06-11,7
+82,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-06-12,8
+83,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-06-13,3
+84,Andrei,Margelatu,Andrei.Margelatu@endava.com,AL,2025-06-16,8
+85,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-06-17,8
+86,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-06-18,8
+87,Andrei,Margelatu,Andrei.Margelatu@endava.com,SL,2025-06-19,8
+88,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-06-20,3
+89,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-06-30,5
+90,Andrei,Margelatu,Andrei.Margelatu@endava.com,UL,2025-07-01,8
+91,Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,UL,2025-06-09,4
+92,Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,SL,2025-06-10,8
+93,Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,AL,2025-06-11,7
+94,Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,UL,2025-06-12,8
+95,Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,AL,2025-06-13,7
+96,Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,UL,2025-06-30,6
+97,Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,SL,2025-07-01,8
+98,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-05-19,8
+99,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-05-20,3
+100,Ioana,Alexa,Ioana.Alexa@endava.com,AL,2025-05-21,6
+101,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-05-22,2
+102,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-05-23,7
+103,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-05-26,7
+104,Ioana,Alexa,Ioana.Alexa@endava.com,AL,2025-05-27,6
+105,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-05-28,4
+106,Ioana,Alexa,Ioana.Alexa@endava.com,SL,2025-05-29,8
+107,Ioana,Alexa,Ioana.Alexa@endava.com,AL,2025-05-30,1
+108,Ioana,Alexa,Ioana.Alexa@endava.com,SL,2025-06-23,6
+109,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-06-24,5
+110,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-06-25,6
+111,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-06-26,8
+112,Ioana,Alexa,Ioana.Alexa@endava.com,UL,2025-06-27,5
+113,Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,UL,2025-06-02,4
+114,Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,UL,2025-06-03,8
+115,Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,UL,2025-06-04,8
+116,Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,SL,2025-06-05,8
+117,Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,AL,2025-06-06,8
+118,Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,SL,2025-05-26,2
+119,Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,UL,2025-05-27,8
+120,Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,UL,2025-05-28,8
+121,Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,UL,2025-05-29,8
+122,Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,SL,2025-05-30,8
+123,Camelia,Stoica,Camelia.Stoica@endava.com,AL,2025-05-26,8
+124,Camelia,Stoica,Camelia.Stoica@endava.com,UL,2025-05-27,8
+125,Camelia,Stoica,Camelia.Stoica@endava.com,AL,2025-05-28,8
+126,Camelia,Stoica,Camelia.Stoica@endava.com,SL,2025-05-29,2
+127,Camelia,Stoica,Camelia.Stoica@endava.com,SL,2025-05-30,8
+128,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-05-26,4
+129,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-05-27,8
+130,Andrei,Apostol,Andrei.Apostol@endava.com,AL,2025-05-28,8
+131,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-05-29,7
+132,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-05-30,1
+133,Andrei,Apostol,Andrei.Apostol@endava.com,AL,2025-06-16,7
+134,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-06-17,8
+135,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-06-18,1
+136,Andrei,Apostol,Andrei.Apostol@endava.com,AL,2025-06-19,2
+137,Andrei,Apostol,Andrei.Apostol@endava.com,SL,2025-06-20,8
+138,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-06-23,8
+139,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-06-24,4
+140,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-06-25,8
+141,Andrei,Apostol,Andrei.Apostol@endava.com,SL,2025-06-26,5
+142,Andrei,Apostol,Andrei.Apostol@endava.com,UL,2025-06-27,2
+143,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,UL,2025-06-02,2
+144,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,SL,2025-06-03,8
+145,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,AL,2025-06-04,8
+146,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,UL,2025-06-05,4
+147,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,UL,2025-06-06,4
+148,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,AL,2025-06-16,8
+149,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,UL,2025-06-17,7
+150,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,AL,2025-06-18,8
+151,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,UL,2025-06-19,7
+152,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,UL,2025-06-20,3
+153,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,UL,2025-06-30,5
+154,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,UL,2025-07-01,8
+155,Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,UL,2025-06-23,2
+156,Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,UL,2025-06-24,8
+157,Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,SL,2025-06-25,4
+158,Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,AL,2025-06-26,8
+159,Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,SL,2025-06-27,3
+160,Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,UL,2025-06-09,7
+161,Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,AL,2025-06-10,8
+162,Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,UL,2025-06-11,5
+163,Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,SL,2025-06-12,8
+164,Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,UL,2025-06-13,7
+165,Madalina,Puia,Madalina.Puia@endava.com,SL,2025-05-19,3
+166,Madalina,Puia,Madalina.Puia@endava.com,UL,2025-05-20,8
+167,Madalina,Puia,Madalina.Puia@endava.com,AL,2025-05-21,7
+168,Madalina,Puia,Madalina.Puia@endava.com,UL,2025-05-22,2
+169,Madalina,Puia,Madalina.Puia@endava.com,UL,2025-05-23,2
+170,Madalina,Puia,Madalina.Puia@endava.com,UL,2025-06-23,5
+171,Madalina,Puia,Madalina.Puia@endava.com,UL,2025-06-24,8
+172,Madalina,Puia,Madalina.Puia@endava.com,AL,2025-06-25,2
+173,Madalina,Puia,Madalina.Puia@endava.com,UL,2025-06-26,6
+174,Madalina,Puia,Madalina.Puia@endava.com,UL,2025-06-27,5
+175,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,AL,2025-06-16,8
+176,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,UL,2025-06-17,6
+177,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,AL,2025-06-18,5
+178,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,UL,2025-06-19,6
+179,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,SL,2025-06-20,3
+180,Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,UL,2025-05-19,8
+181,Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,SL,2025-05-20,8
+182,Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,UL,2025-05-21,6
+183,Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,UL,2025-05-22,8
+184,Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,AL,2025-05-23,7
+185,Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,SL,2025-06-30,2
+186,Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,UL,2025-07-01,8
+187,Daria,Craciun,Daria.Craciun@endava.com,SL,2025-05-19,1
+188,Daria,Craciun,Daria.Craciun@endava.com,AL,2025-05-20,8
+189,Daria,Craciun,Daria.Craciun@endava.com,UL,2025-05-21,8
+190,Daria,Craciun,Daria.Craciun@endava.com,SL,2025-05-22,8
+191,Daria,Craciun,Daria.Craciun@endava.com,UL,2025-05-23,8
