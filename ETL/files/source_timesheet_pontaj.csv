@@ -1,0 +1,872 @@
+first_name,last_name,email,project_name,current_date,quantity
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-19,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-20,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-21,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-22,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-23,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-26,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-27,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-28,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-29,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-05-30,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-02,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-03,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-04,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-05,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-06,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-13,7
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-16,6
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-19,5
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-23,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-24,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-25,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-26,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-27,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-06-30,8
+Adina,Gheorghevici,Adina.Gheorghevici@endava.com,DavaX,2025-07-01,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-19,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-20,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-21,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-22,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-23,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-26,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-27,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-28,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-29,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-05-30,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-02,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-03,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-04,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-05,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-06,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-09,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-10,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-11,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-12,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-13,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-16,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-17,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-18,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-19,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-20,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-23,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-24,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-25,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-26,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-27,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-06-30,8
+Adrian,Matean,Adrian.Matean@endava.com,DavaX,2025-07-01,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-19,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-20,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-21,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-22,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-23,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-26,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-27,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-28,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-29,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-05-30,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-02,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-03,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-04,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-05,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-06,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-09,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-10,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-11,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-12,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-13,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-16,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-17,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-18,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-19,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-20,8
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-23,2
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-24,5
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-25,3
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-26,2
+David,Postolea,David.Postolea@endava.com,DavaX,2025-06-30,2
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-19,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-20,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-21,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-22,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-23,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-26,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-27,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-28,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-29,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-05-30,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-02,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-03,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-04,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-05,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-06,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-09,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-10,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-11,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-12,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-13,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-16,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-17,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-18,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-19,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-20,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-23,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-24,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-25,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-26,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-27,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-06-30,8
+Sanda,Dobrenco,Sanda.Dobrenco@endava.com,DavaX,2025-07-01,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-19,5
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-20,6
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-21,3
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-22,2
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-26,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-27,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-28,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-29,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-05-30,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-02,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-03,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-04,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-05,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-06,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-09,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-10,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-11,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-12,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-13,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-16,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-17,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-18,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-19,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-20,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-23,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-24,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-25,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-26,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-27,8
+Vlad,Muresan,Vlad.Muresan3@endava.com,DavaX,2025-06-30,3
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-05-19,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-05-20,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-05-21,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-05-22,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-05-23,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-05-26,3
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-05-28,4
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-05-30,4
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-02,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-03,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-04,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-05,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-06,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-09,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-10,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-11,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-12,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-13,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-16,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-17,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-18,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-19,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-20,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-23,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-24,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-25,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-26,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-27,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-06-30,8
+Silviu Vasilica,Luta,Silviu-Vasilica.Luta@endava.com,DavaX,2025-07-01,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-19,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-20,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-21,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-22,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-23,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-26,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-27,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-28,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-29,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-05-30,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-02,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-03,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-04,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-05,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-06,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-09,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-10,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-11,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-12,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-13,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-16,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-17,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-18,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-19,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-20,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-23,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-24,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-25,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-26,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-27,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-06-30,8
+Gabriel,Firisar,Gabriel.Firisar@endava.com,DavaX,2025-07-01,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-19,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-20,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-21,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-22,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-23,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-26,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-27,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-28,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-29,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-05-30,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-02,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-03,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-04,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-05,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-06,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-09,3
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-11,6
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-12,3
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-13,3
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-16,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-17,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-18,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-19,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-20,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-23,7
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-24,2
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-26,5
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-27,7
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-06-30,8
+Stefan Nicolae,Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,DavaX,2025-07-01,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-19,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-20,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-21,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-22,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-23,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-26,4
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-27,5
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-28,1
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-05-30,4
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-03,3
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-09,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-10,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-11,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-12,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-13,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-16,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-17,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-18,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-19,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-20,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-23,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-24,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-25,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-26,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-27,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-06-30,8
+George Andrei,Necula,George-Andrei.Necula@endava.com,DavaX,2025-07-01,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-19,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-20,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-21,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-22,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-23,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-26,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-27,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-28,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-29,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-05-30,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-02,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-03,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-04,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-05,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-06,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-10,7
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-12,6
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-13,2
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-18,3
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-23,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-24,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-25,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-26,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-06-27,8
+Alin Constantin,Florescu,Alin-Constantin.Florescu@endava.com,DavaX,2025-07-01,4
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-19,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-20,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-21,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-22,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-23,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-26,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-27,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-28,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-29,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-05-30,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-04,3
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-06,6
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-09,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-10,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-11,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-12,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-13,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-16,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-17,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-18,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-19,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-20,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-23,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-24,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-25,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-26,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-27,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-06-30,8
+Silviu Mihail,Pavel,Silviu-Mihail.Pavel@endava.com,DavaX,2025-07-01,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-19,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-20,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-21,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-22,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-23,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-26,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-27,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-28,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-29,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-05-30,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-02,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-03,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-04,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-05,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-06,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-09,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-10,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-11,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-12,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-13,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-16,6
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-23,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-24,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-25,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-26,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-27,8
+Diandra,Fechita,Diandra.Fechita@endava.com,DavaX,2025-06-30,2
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-05-19,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-05-20,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-05-21,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-05-22,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-05-23,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-05-29,4
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-02,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-03,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-04,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-05,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-06,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-09,5
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-10,2
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-11,1
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-13,5
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-20,5
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-23,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-24,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-25,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-26,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-27,8
+Andrei,Margelatu,Andrei.Margelatu@endava.com,DavaX,2025-06-30,3
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-19,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-20,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-21,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-22,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-23,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-26,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-27,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-28,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-29,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-05-30,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-02,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-03,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-04,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-05,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-06,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-09,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-10,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-11,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-12,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-13,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-16,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-17,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-18,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-19,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-20,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-23,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-24,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-25,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-26,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-27,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-06-30,8
+Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,DavaX,2025-07-01,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-19,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-20,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-21,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-22,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-23,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-26,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-27,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-28,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-29,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-05-30,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-02,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-03,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-04,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-05,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-06,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-09,4
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-11,1
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-13,1
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-16,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-17,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-18,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-19,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-20,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-23,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-24,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-25,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-26,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-27,8
+Ruben Daniel,Pasca,Ruben-Daniel.Pasca@endava.com,DavaX,2025-06-30,2
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-05-20,5
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-05-21,2
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-05-22,6
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-05-23,1
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-05-26,1
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-05-27,2
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-05-28,4
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-05-30,7
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-02,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-03,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-04,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-05,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-06,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-09,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-10,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-11,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-12,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-13,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-16,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-17,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-18,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-19,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-20,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-23,2
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-24,3
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-25,2
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-27,3
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-06-30,8
+Ioana,Alexa,Ioana.Alexa@endava.com,DavaX,2025-07-01,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-19,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-20,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-21,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-22,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-23,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-26,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-27,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-28,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-29,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-05-30,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-02,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-03,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-04,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-05,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-06,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-09,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-10,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-11,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-12,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-13,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-16,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-17,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-18,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-19,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-20,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-23,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-24,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-25,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-26,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-27,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-06-30,8
+Alice,Tache,Alice.Tache@endava.com,DavaX,2025-07-01,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-19,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-20,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-21,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-22,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-23,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-26,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-27,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-28,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-29,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-05-30,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-02,4
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-09,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-10,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-11,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-12,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-13,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-16,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-17,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-18,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-19,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-20,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-23,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-24,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-25,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-26,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-27,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-06-30,8
+Alexandra Elena,Pitaru,Alexandra-Elena.Pitaru@endava.com,DavaX,2025-07-01,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-19,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-20,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-21,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-22,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-23,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-26,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-27,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-28,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-29,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-05-30,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-02,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-03,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-04,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-05,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-06,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-09,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-10,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-11,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-12,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-13,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-16,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-17,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-18,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-19,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-20,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-23,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-24,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-25,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-26,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-27,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-06-30,8
+Mihnea Sebastian Ilie,Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,DavaX,2025-07-01,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-05-19,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-05-20,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-05-21,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-05-22,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-05-23,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-05-26,6
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-02,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-03,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-04,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-05,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-06,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-09,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-10,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-11,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-12,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-13,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-16,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-17,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-18,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-19,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-20,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-23,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-24,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-25,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-26,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-27,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-06-30,8
+Rodica Elena,Rosca,Rodica-Elena.Rosca@endava.com,DavaX,2025-07-01,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-05-19,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-05-20,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-05-21,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-05-22,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-05-23,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-05-29,6
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-02,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-03,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-04,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-05,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-06,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-09,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-10,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-11,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-12,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-13,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-16,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-17,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-18,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-19,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-20,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-23,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-24,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-25,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-26,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-27,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-06-30,8
+Camelia,Stoica,Camelia.Stoica@endava.com,DavaX,2025-07-01,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-05-19,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-05-20,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-05-21,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-05-22,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-05-23,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-05-26,4
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-05-29,1
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-05-30,7
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-02,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-03,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-04,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-05,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-06,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-09,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-10,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-11,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-12,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-13,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-16,1
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-18,7
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-19,6
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-24,4
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-26,3
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-27,6
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-06-30,8
+Andrei,Apostol,Andrei.Apostol@endava.com,DavaX,2025-07-01,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-19,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-20,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-21,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-22,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-23,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-26,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-27,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-28,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-29,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-05-30,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-02,6
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-05,4
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-06,4
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-09,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-10,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-11,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-12,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-13,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-17,1
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-19,1
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-20,5
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-23,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-24,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-25,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-26,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-27,8
+Alexandru,Bardasu,Alexandru.Bardasu@endava.com,DavaX,2025-06-30,3
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-19,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-20,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-21,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-22,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-23,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-26,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-27,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-28,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-29,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-05-30,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-02,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-03,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-04,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-05,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-06,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-09,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-10,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-11,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-12,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-13,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-16,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-17,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-18,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-19,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-20,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-23,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-24,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-25,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-26,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-27,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-06-30,8
+Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,DavaX,2025-07-01,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-19,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-20,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-21,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-22,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-23,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-26,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-27,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-28,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-29,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-05-30,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-02,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-03,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-04,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-05,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-06,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-09,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-10,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-11,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-12,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-13,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-16,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-17,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-18,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-19,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-20,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-23,6
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-25,4
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-27,5
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-06-30,8
+Sebastian Cristian,Sleam,Sebastian-Cristian.Sleam@endava.com,DavaX,2025-07-01,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-19,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-20,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-21,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-22,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-23,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-26,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-27,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-28,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-29,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-05-30,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-02,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-03,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-04,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-05,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-06,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-09,1
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-11,3
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-13,1
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-16,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-17,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-18,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-19,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-20,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-23,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-24,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-25,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-26,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-27,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-06-30,8
+Mihnea Daniel,Popescu,Mihnea-Daniel.Popescu@endava.com,DavaX,2025-07-01,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-19,5
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-21,1
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-22,6
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-23,6
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-26,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-27,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-28,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-29,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-05-30,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-02,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-03,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-04,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-05,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-06,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-09,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-10,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-11,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-12,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-13,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-16,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-17,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-18,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-19,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-20,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-23,3
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-25,6
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-26,2
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-27,3
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-06-30,8
+Madalina,Puia,Madalina.Puia@endava.com,DavaX,2025-07-01,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-19,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-20,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-21,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-22,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-23,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-26,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-27,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-28,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-29,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-05-30,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-02,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-03,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-04,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-05,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-06,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-09,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-10,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-11,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-12,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-13,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-17,2
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-18,3
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-19,2
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-20,5
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-23,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-24,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-25,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-26,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-27,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-06-30,8
+Alexandru,Chelaru,Alexandru.Chelaru@endava.com,DavaX,2025-07-01,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-05-21,2
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-05-23,1
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-05-26,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-05-27,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-05-28,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-05-29,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-05-30,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-02,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-03,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-04,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-05,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-06,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-09,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-10,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-11,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-12,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-13,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-16,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-17,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-18,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-19,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-20,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-23,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-24,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-25,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-26,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-27,8
+Andrei Alin,Socoteala,Andrei-Alin.Socoteala@endava.com,DavaX,2025-06-30,6
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-05-19,7
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-05-26,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-05-27,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-05-28,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-05-29,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-05-30,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-02,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-03,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-04,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-05,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-06,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-09,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-10,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-11,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-12,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-13,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-16,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-17,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-18,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-19,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-20,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-23,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-24,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-25,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-26,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-27,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-06-30,8
+Daria,Craciun,Daria.Craciun@endava.com,DavaX,2025-07-01,8
