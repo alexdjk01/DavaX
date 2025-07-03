@@ -12,10 +12,14 @@ DB_CONFIG = {
 def get_connection():
     return oracledb.connect(**DB_CONFIG)
 
-def get_employee_id(cursor, email):
-    cursor.execute("SELECT employee_id FROM dim_employees WHERE email = :email", {"email": email})
-    row = cursor.fetchone()
-    return row[0] if row else None
+def get_employee_ids_for_event(cursor, event_id, source_table):
+    cursor.execute(f"""
+        SELECT e.employee_id
+        FROM {source_table} s
+        JOIN dim_employees e ON s.email = e.email
+        WHERE s.event_id = :event_id
+    """, {"event_id": event_id})
+    return [row[0] for row in cursor.fetchall()]
 
 def get_date_id(cursor, event_id):
     cursor.execute("""
@@ -27,25 +31,19 @@ def get_date_id(cursor, event_id):
     row = cursor.fetchone()
     return row[0] if row else None
 
-def get_or_create_event_id(cursor, name, type_, organizer):
-    cursor.execute("""
-        SELECT event_id FROM dim_events
-        WHERE event_name = :name AND event_type = :type AND event_organizer = :org
-    """, {"name": name, "type": type_, "org": organizer})
-    row = cursor.fetchone()
-    if row:
-        return row[0]
-    event_id_var = cursor.var(oracledb.NUMBER)
-    cursor.execute("""
-        INSERT INTO dim_events (event_name, event_type, event_organizer)
-        VALUES (:name, :type, :org) RETURNING event_id INTO :id
-    """, {"name": name, "type": type_, "org": organizer, "id": event_id_var})
-    return event_id_var.getvalue()
-
 def get_project_id(cursor, name):
     cursor.execute("SELECT project_id FROM dim_projects WHERE project_name = :name", {"name": name})
     row = cursor.fetchone()
     return row[0] if row else None
+
+def get_event_quantities(cursor, event_id, source_table):
+    cursor.execute(f"""
+        SELECT e.employee_id, s.quantity
+        FROM {source_table} s
+        JOIN dim_employees e ON s.email = e.email
+        WHERE s.event_id = :event_id
+    """, {"event_id": event_id})
+    return cursor.fetchall()
 
 def insert_fact(cursor, employee_id, event_id, date_id, project_id, quantity):
     cursor.execute("""
@@ -61,40 +59,29 @@ def insert_fact(cursor, employee_id, event_id, date_id, project_id, quantity):
         "prj": project_id, "qty": quantity
     })
 
-def process_csv(file_path, record_fn):
-    with open(file_path, newline='') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            record_fn(row)
+def process_events(cursor, source_table):
+    cursor.execute("SELECT event_id FROM dim_events")
+    all_event_ids = [row[0] for row in cursor.fetchall()]
+    prj = get_project_id(cursor, 'DavaX')
+
+    for event_id in all_event_ids:
+        date_id = get_date_id(cursor, event_id)
+        if source_table == "src_confluence_absences":
+            source = "src_confluence_absences"
+        elif source_table == "src_meetings":
+            source = "src_meetings"
+        else:
+            continue
+
+        for emp_id, qty in get_event_quantities(cursor, event_id, source):
+            insert_fact(cursor, emp_id, event_id, date_id, prj, qty)
 
 def main():
     conn = get_connection()
     cur = conn.cursor()
 
-    def handle_absence(row):
-        emp = get_employee_id(cur, row['email'])
-        evt = get_or_create_event_id(cur, row['absence_type'], row['absence_type'], 'HR System')
-        dt = get_date_id(cur, evt)
-        prj = get_project_id(cur, 'DavaX')
-        insert_fact(cur, emp, evt, dt, prj, float(row['quantity']))
-
-    def handle_pontaj(row):
-        emp = get_employee_id(cur, row['email'])
-        evt = get_or_create_event_id(cur, 'Work', 'Standard Time', 'Self')
-        dt = get_date_id(cur, evt)
-        prj = get_project_id(cur, row['project_name'])
-        insert_fact(cur, emp, evt, dt, prj, float(row['quantity']))
-
-    def handle_meeting(row):
-        emp = get_employee_id(cur, row['email'])
-        evt = get_or_create_event_id(cur, row['meeting_title'], 'Meeting', 'Academy')
-        dt = get_date_id(cur, evt)
-        prj = get_project_id(cur, 'DavaX')
-        insert_fact(cur, emp, evt, dt, prj, float(row['quantity']))
-
-    process_csv("data/src_timesheet_absences.csv", handle_absence)
-    process_csv("data/src_timesheet_pontaj.csv", handle_pontaj)
-    process_csv("data/src_meetings.csv", handle_meeting)
+    process_events(cur, "src_confluence_absences")
+    process_events(cur, "src_meetings")
 
     conn.commit()
     cur.close()
@@ -102,4 +89,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
