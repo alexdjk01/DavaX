@@ -10,7 +10,7 @@ DB_CONFIG = {
 }
 
 def get_connection():
-    return cx_Oracle.connect(**DB_CONFIG)
+    return oracledb.connect(**DB_CONFIG)
 
 def get_employee_id(cursor, email):
     cursor.execute("SELECT employee_id FROM dim_employees WHERE email = :email", {"email": email})
@@ -35,11 +35,12 @@ def get_or_create_event_id(cursor, name, type_, organizer):
     row = cursor.fetchone()
     if row:
         return row[0]
+    event_id_var = cursor.var(oracledb.NUMBER)
     cursor.execute("""
         INSERT INTO dim_events (event_name, event_type, event_organizer)
         VALUES (:name, :type, :org) RETURNING event_id INTO :id
-    """, {"name": name, "type": type_, "org": organizer, "id": cursor.var(cx_Oracle.NUMBER)})
-    return cursor.getimplicitresults()[0][0]
+    """, {"name": name, "type": type_, "org": organizer, "id": event_id_var})
+    return event_id_var.getvalue()
 
 def get_project_id(cursor, name):
     cursor.execute("SELECT project_id FROM dim_projects WHERE project_name = :name", {"name": name})
