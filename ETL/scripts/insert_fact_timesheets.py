@@ -1,5 +1,5 @@
 import csv
-import cx_Oracle
+import oracledb
 from datetime import datetime
 
 
