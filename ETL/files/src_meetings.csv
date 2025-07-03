@@ -1,648 +1,650 @@
-meeting_id,meeting_title,first_name,last_name,email,quantity
-1,Dava.X Academy - ETL Theory training session 1,Alice,Tache,Alice.Tache@endava.com,1.7602777777777778
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Burlica,Alexandru.Burlica@endava.com,1.7466666666666666
-1,Dava.X Academy - ETL Theory training session 1,Emanuel,Luculescu,Emanuel.Luculescu@endava.com,1.7433333333333334
-1,Dava.X Academy - ETL Theory training session 1,Radu,Ioan Maris,Radu-Ioan.Maris@endava.com,1.7441666666666666
-1,Dava.X Academy - ETL Theory training session 1,Daniel,Antoniu Dumitru,Daniel-Antoniu.Dumitru@endava.com,1.7444444444444445
-1,Dava.X Academy - ETL Theory training session 1,Andreea,Grecu,Andreea.Grecu2@endava.com,1.7225
-1,Dava.X Academy - ETL Theory training session 1,Gabriela,Miruna Stan,Gabriela-Miruna.Stan@endava.com,1.9819444444444445
-1,Dava.X Academy - ETL Theory training session 1,Paul,Valentin Vela,Paul-Valentin.Vela@endava.com,1.5833333333333333
-1,Dava.X Academy - ETL Theory training session 1,Alexandra,Simona Danca,Alexandra-Simona.Danca@endava.com,1.7419444444444445
-1,Dava.X Academy - ETL Theory training session 1,Rares,Muresan,Rares.Muresan@endava.com,1.7430555555555556
-1,Dava.X Academy - ETL Theory training session 1,Florina,Eugenia Hategan,Florina---Eugenia.Hategan@endava.com,1.5994444444444444
-1,Dava.X Academy - ETL Theory training session 1,Darius,Cosmin Vararean,Darius-Cosmin.Vararean@endava.com,1.7455555555555555
-1,Dava.X Academy - ETL Theory training session 1,Rares,Anton Brezeanu,Rares-Anton.Brezeanu@endava.com,1.603888888888889
-1,Dava.X Academy - ETL Theory training session 1,Radu,Nicolae,Radu-Mihai.Nicoale@endava.com,1.7402777777777778
-1,Dava.X Academy - ETL Theory training session 1,Stefan,Gabriel Verde,Stefan-Gabriel.Verde@endava.com,1.5666666666666667
-1,Dava.X Academy - ETL Theory training session 1,Stefan,Liute,Stefan.Liute@endava.com,1.9538888888888888
-1,Dava.X Academy - ETL Theory training session 1,Cosmin-Nicusor,Brumariu,Cosmin-Nicusor.Brumariu@endava.com,1.74
-1,Dava.X Academy - ETL Theory training session 1,Arthur,Negosanu,Arthur.Negosanu@endava.com,1.7408333333333332
-1,Dava.X Academy - ETL Theory training session 1,Madalina,Puia,Madalina.Puia@endava.com,1.708888888888889
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Ionut Guriuc,Vlad-Ionut.Guriuc@endava.com,1.738611111111111
-1,Dava.X Academy - ETL Theory training session 1,Sebastian,Cristian Sleam,Sebastian-Cristian.Sleam@endava.com,1.7377777777777779
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Margelatu,Andrei.Margelatu@endava.com,1.2933333333333332
-1,Dava.X Academy - ETL Theory training session 1,Mihnea,Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,1.738888888888889
-1,Dava.X Academy - ETL Theory training session 1,Stefan,Tiberiu Paduraru,Stefan-Tiberiu.Paduraru@endava.com,1.7380555555555555
-1,Dava.X Academy - ETL Theory training session 1,Ferdinand,Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,1.7344444444444445
-1,Dava.X Academy - ETL Theory training session 1,Bianca,Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,1.7344444444444445
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Alexandru Gheorghe,Andrei-Alexandru.Gheorghe@endava.com,1.7338888888888888
-1,Dava.X Academy - ETL Theory training session 1,Ioana,Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,1.7005555555555556
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Mihai Matei,Alexandru-Mihai.Matei@endava.com,1.6052777777777778
-1,Dava.X Academy - ETL Theory training session 1,Adelin,Andrei Fulop,Adelin-Andrei.Fulop@endava.com,1.5711111111111111
-1,Dava.X Academy - ETL Theory training session 1,Marcos,Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,1.7302777777777778
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Madalin Diaconu,Andrei-Madalin.Diaconu@endava.com,1.6358333333333333
-1,Dava.X Academy - ETL Theory training session 1,Sabin,Chirila,Sabin.Chirila@endava.com,1.7294444444444443
-1,Dava.X Academy - ETL Theory training session 1,Luisa,Yi Qing Yang,Luisa-Yi-Qing.Yang@endava.com,1.7241666666666666
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Andries,Andrei.Andries@endava.com,1.721111111111111
-1,Dava.X Academy - ETL Theory training session 1,Dan,Teodor Buzoianu,Dan-Teodor.Buzoianu@endava.com,1.5483333333333333
-1,Dava.X Academy - ETL Theory training session 1,Polina,Ciumac,Polina.Ciumac@endava.com,1.7208333333333334
-1,Dava.X Academy - ETL Theory training session 1,Daniel,Rotaru,Daniel.Rotaru@endava.com,1.72
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Marian Armanu,Alexandru-Marian.Armanu@endava.com,1.7191666666666667
-1,Dava.X Academy - ETL Theory training session 1,Mihai,Alexandru Ionel,Mihai-Alexandru.Ionel@endava.com,1.5425
-1,Dava.X Academy - ETL Theory training session 1,Ioana,Alexia Popa,Ioana-Alexia.Popa@endava.com,1.7138888888888888
-1,Dava.X Academy - ETL Theory training session 1,Sorin,Cristian Miron,Sorin-Cristian.Miron@endava.com,1.7136111111111112
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Ionascu,Andrei.Ionascu@endava.com,1.5522222222222222
-1,Dava.X Academy - ETL Theory training session 1,Bogdan,Ionut Tibuleac,Bogdan-Ionut.Tibuleac@endava.com,1.7127777777777777
-1,Dava.X Academy - ETL Theory training session 1,Teodora,Maximiuc,Teodora.Maximiuc@endava.com,1.7116666666666667
-1,Dava.X Academy - ETL Theory training session 1,Sanda,Dobrenco,Sanda.Dobrenco@endava.com,1.6922222222222223
-1,Dava.X Academy - ETL Theory training session 1,Alexandra,Elena Pitaru,Alexandra-Elena.Pitaru@endava.com,1.7047222222222222
-1,Dava.X Academy - ETL Theory training session 1,Bogdan,Patrania,Bogdan.Patrania@endava.com,1.7013888888888888
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Catrinescu,Alexandru.Catrinescu@endava.com,1.6977777777777778
-1,Dava.X Academy - ETL Theory training session 1,Razvan,Dumitru,Razvan.Dumitru@endava.com,1.696388888888889
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Muresan,Vlad.Muresan3@endava.com,1.6961111111111111
-1,Dava.X Academy - ETL Theory training session 1,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,1.5447222222222223
-1,Dava.X Academy - ETL Theory training session 1,Iasmina,Pagu,Iasmina-Andra.Pagu@endava.com,1.6908333333333334
-1,Dava.X Academy - ETL Theory training session 1,Madalina,Demian,Madalina.Demian@endava.com,1.2875
-1,Dava.X Academy - ETL Theory training session 1,Dumitru,Andrei Iroftei,Dumitru-Andrei.Iroftei@endava.com,1.6869444444444444
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Zosin,Alexandru.Zosin@endava.com,1.6866666666666668
-1,Dava.X Academy - ETL Theory training session 1,Gheorghe-Cristian,Terovan,Gheorghe-Cristian.Terovan@endava.com,1.5202777777777778
-1,Dava.X Academy - ETL Theory training session 1,Cosmin,Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,1.686388888888889
-1,Dava.X Academy - ETL Theory training session 1,Alexandra,Zamfir,Alexandra.Zamfir@endava.com,1.1188888888888888
-1,Dava.X Academy - ETL Theory training session 1,Costin,Manolescu,Costin.Manolescu@endava.com,1.6822222222222223
-1,Dava.X Academy - ETL Theory training session 1,Theodor,Cristian Gheorghe,Theodor-Cristian.Gheorghe@endava.com,1.6880555555555556
-1,Dava.X Academy - ETL Theory training session 1,Denis,Roca,Denis.Roca@endava.com,1.7227777777777777
-1,Dava.X Academy - ETL Theory training session 1,Alex,Rares Roman,Alex-Rares.Roman@endava.com,1.6769444444444443
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Toma,Alexandru.Toma@endava.com,1.676111111111111
-1,Dava.X Academy - ETL Theory training session 1,Iulia,Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,1.6758333333333333
-1,Dava.X Academy - ETL Theory training session 1,Catalin,Ursu,Catalin.Ursu@endava.com,1.521388888888889
-1,Dava.X Academy - ETL Theory training session 1,Maria,Madalina Olaru,Maria-Madalina.Olaru@endava.com,1.6733333333333333
-1,Dava.X Academy - ETL Theory training session 1,George,Stefan Bodogae,George-Stefan.Bodogae@endava.com,1.67
-1,Dava.X Academy - ETL Theory training session 1,Simona,Boicu,Simona.Boicu@endava.com,1.6705555555555556
-1,Dava.X Academy - ETL Theory training session 1,Timotei,Cristian Morar,Timotei-Cristian.Morar@endava.com,1.6688888888888889
-1,Dava.X Academy - ETL Theory training session 1,Silviu,Mihail Pavel,Silviu-Mihail.Pavel@endava.com,1.668611111111111
-1,Dava.X Academy - ETL Theory training session 1,Ana,Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,1.6672222222222222
-1,Dava.X Academy - ETL Theory training session 1,Cristian,Ghiuta,Cristian.Ghiuta@endava.com,1.666111111111111
-1,Dava.X Academy - ETL Theory training session 1,Constantin,Voicu,Constantin.Voicu@endava.com,1.6652777777777779
-1,Dava.X Academy - ETL Theory training session 1,Ioana,Botezatu,Ioana.Botezatu@endava.com,1.6622222222222223
-1,Dava.X Academy - ETL Theory training session 1,Razvan,Niculae,razvan.niculae@endava.com,1.6608333333333334
-1,Dava.X Academy - ETL Theory training session 1,Florin,Nita,Florin.Nita@endava.com,1.6130555555555555
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Octavian Minca,Andrei-Octavian.Minca@endava.com,1.091388888888889
-1,Dava.X Academy - ETL Theory training session 1,Liviu,Istrate,Liviu.Istrate2@endava.com,1.8919444444444444
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Mihnea,Andrei.Mihnea@endava.com,1.6533333333333333
-1,Dava.X Academy - ETL Theory training session 1,Robert-Cosmin,Tudorache,Robert-Cosmin.Tudorache@endava.com,1.6516666666666666
-1,Dava.X Academy - ETL Theory training session 1,Daria,Lupu Dima,Daria.Lupu@endava.com,1.4897222222222222
-1,Dava.X Academy - ETL Theory training session 1,Denisa,Lutic,Denisa.Lutic@endava.com,1.6505555555555556
-1,Dava.X Academy - ETL Theory training session 1,Oana-Maria,Danciu,Oana-Maria.Danciu@endava.com,1.6491666666666667
-1,Dava.X Academy - ETL Theory training session 1,Bogdan,Vasile Spilevoi,Bogdan-Vasile.Spilevoi@endava.com,1.5080555555555555
-1,Dava.X Academy - ETL Theory training session 1,Armin,Andrei Chanchian,Armin-Andrei.Chanchian@endava.com,1.5022222222222221
-1,Dava.X Academy - ETL Theory training session 1,Cosmin,Chirazi,Cosmin.Chirazi@endava.com,1.4805555555555556
-1,Dava.X Academy - ETL Theory training session 1,Gabriel,Firisar,Gabriel.Firisar@endava.com,1.6441666666666668
-1,Dava.X Academy - ETL Theory training session 1,David,Postolea,David.Postolea@endava.com,1.418611111111111
-1,Dava.X Academy - ETL Theory training session 1,Tiberiu,Gabriel Suditu,Tiberiu-Gabriel.Suditu@endava.com,1.6397222222222223
-1,Dava.X Academy - ETL Theory training session 1,Denisa,Elena Stolniceanu,Denisa-Elena.Stolniceanu@endava.com,1.6394444444444445
-1,Dava.X Academy - ETL Theory training session 1,Alina,Trincu,Alina.Trincu@endava.com,1.2375
-1,Dava.X Academy - ETL Theory training session 1,Adina,Denisa Horj,Adina-Denisa.Horj@endava.com,1.6358333333333333
-1,Dava.X Academy - ETL Theory training session 1,Darius,Fratila,Darius.Fratila@endava.com,1.6369444444444445
-1,Dava.X Academy - ETL Theory training session 1,Veronica,Caplea,Veronica.Caplea@endava.com,1.6352777777777778
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Tudor Grumazescu,Andrei-Tudor.Grumazescu@endava.com,1.3375
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,1.6308333333333334
-1,Dava.X Academy - ETL Theory training session 1,Reka,Katalin Darko,Reka-Katalin.Darko@endava.com,1.6288888888888888
-1,Dava.X Academy - ETL Theory training session 1,Delia,Tudor,Delia.Tudor@endava.com,1.6277777777777778
-1,Dava.X Academy - ETL Theory training session 1,Diandra,Fechita,Diandra.Fechita@endava.com,1.6269444444444445
-1,Dava.X Academy - ETL Theory training session 1,Bogdan,Nicolae Cotta,Bogdan-Nicolae.Cotta@endava.com,1.6272222222222221
-1,Dava.X Academy - ETL Theory training session 1,Tudor,Mihai,Tudor.Mihai@endava.com,1.625
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Baranceanu,Vlad.Baranceanu@endava.com,1.6258333333333332
-1,Dava.X Academy - ETL Theory training session 1,Eric,Marian Dascalu,Eric-Marian.Dascalu@endava.com,1.6283333333333334
-1,Dava.X Academy - ETL Theory training session 1,Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,1.6255555555555556
-1,Dava.X Academy - ETL Theory training session 1,Eduard,George Stan,Eduard-George.Stan@endava.com,1.6263888888888889
-1,Dava.X Academy - ETL Theory training session 1,Rafael,Ionut Stefanache,Rafael-Ionut.Stefanache@endava.com,1.2355555555555555
-1,Dava.X Academy - ETL Theory training session 1,Remus,Mihai Prodan,Remus-Mihai.Prodan@endava.com,1.6244444444444444
-1,Dava.X Academy - ETL Theory training session 1,Vlad,V Muresan,Vlad.Muresan2@endava.com,1.6233333333333333
-1,Dava.X Academy - ETL Theory training session 1,Patricia,Costras,Patricia.Costras@endava.com,1.6225
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Badulescu,Vlad.Badulescu@endava.com,1.2338888888888888
-1,Dava.X Academy - ETL Theory training session 1,Calin,Ciobanu,Calin.Ciobanu@endava.com,1.6188888888888888
-1,Dava.X Academy - ETL Theory training session 1,Andrei,L Popovici,Andrei.Popovici2@endava.com,1.618611111111111
-1,Dava.X Academy - ETL Theory training session 1,Daria,Alexia Irimie,Daria-Alexia.Irimie@endava.com,1.62
-1,Dava.X Academy - ETL Theory training session 1,Stefan,Stescu,Stefan.Stescu@endava.com,1.6177777777777778
-1,Dava.X Academy - ETL Theory training session 1,Ioana,Marc,Ioana.Marc2@endava.com,1.6172222222222221
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Topan-Farcau,Alexandru.Topan@endava.com,1.615
-1,Dava.X Academy - ETL Theory training session 1,Daria,Craciun,Daria.Craciun@endava.com,1.6133333333333333
-1,Dava.X Academy - ETL Theory training session 1,Andreea,Cront,Andreea.Cront@endava.com,1.6125
-1,Dava.X Academy - ETL Theory training session 1,Andrada,Maria Tinta,Andrada-Maria.Tinta@endava.com,1.6116666666666666
-1,Dava.X Academy - ETL Theory training session 1,Raul,Mihai Rusu,Raul-Mihai.Rusu@endava.com,1.6133333333333333
-1,Dava.X Academy - ETL Theory training session 1,Carmen-Gabriela,Nadragea,Carmen-Gabriela.Nadragea@endava.com,1.611388888888889
-1,Dava.X Academy - ETL Theory training session 1,Claudiu,Marinescu,Claudiu.Marinescu@endava.com,1.4605555555555556
-1,Dava.X Academy - ETL Theory training session 1,Gabriel,Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,1.6111111111111112
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Dumitru Ionita,Alex.Ionita@endava.com,1.6072222222222223
-1,Dava.X Academy - ETL Theory training session 1,Robert,Negre,Robert.Negre@endava.com,1.6097222222222223
-1,Dava.X Academy - ETL Theory training session 1,Dragos,Ionut Talaba,Dragos-Ionut.Talaba@endava.com,1.6066666666666667
-1,Dava.X Academy - ETL Theory training session 1,Mihai,Negrea,Mihai.Negrea@endava.com,1.6063888888888889
-1,Dava.X Academy - ETL Theory training session 1,Miruna,Curduman,Miruna.Curduman@endava.com,1.6044444444444443
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,1.6044444444444443
-1,Dava.X Academy - ETL Theory training session 1,Irina,Morosanu,Irina.Morosanu@endava.com,1.6033333333333333
-1,Dava.X Academy - ETL Theory training session 1,George-Catalin,Ghiold,George-Catalin.Ghiold@endava.com,1.6027777777777779
-1,Dava.X Academy - ETL Theory training session 1,Luka,Popovici,Luka.Popovici@endava.com,1.8397222222222223
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Panainte,Alexandru.Panainte@endava.com,1.6019444444444444
-1,Dava.X Academy - ETL Theory training session 1,Andrei-Alexandru,Midus,Andrei-Alexandru.Midus@endava.com,1.5997222222222223
-1,Dava.X Academy - ETL Theory training session 1,George,Eduard Achiriloaei,George-Eduard.Achiriloaei@endava.com,1.4327777777777777
-1,Dava.X Academy - ETL Theory training session 1,Ariana,Casandra Olaru,Ariana-Casandra.Olaru@endava.com,1.5944444444444446
-1,Dava.X Academy - ETL Theory training session 1,Raul,Gabriel Chiorean,Raul-Gabriel.Chiorean@endava.com,1.5955555555555556
-1,Dava.X Academy - ETL Theory training session 1,Daniel-Ionel,Beg,Daniel-Ionel.Beg@endava.com,1.4494444444444445
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Cojocaru,Vlad.Cojocaru@endava.com,1.5944444444444446
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Cristian Brinzas,Vlad-Cristian.Brinzas@endava.com,1.593611111111111
-1,Dava.X Academy - ETL Theory training session 1,Octavian,Cojocariu,Octavian.Cojocariu@endava.com,1.628611111111111
-1,Dava.X Academy - ETL Theory training session 1,Rodica,Elena Rosca,Rodica-Elena.Rosca@endava.com,1.5927777777777778
-1,Dava.X Academy - ETL Theory training session 1,Andreea-Raluca,Neagu,Andreea-Raluca.Neagu@endava.com,1.5911111111111111
-1,Dava.X Academy - ETL Theory training session 1,Sergiu,Ungureanu,Sergiu.Ungureanu2@endava.com,1.5888888888888888
-1,Dava.X Academy - ETL Theory training session 1,Darius-Cristian,Gherle,Darius-Cristian.Gherle@endava.com,1.4483333333333333
-1,Dava.X Academy - ETL Theory training session 1,Anton,Calin Stroia,Anton-Calin.Stroia@endava.com,1.5447222222222223
-1,Dava.X Academy - ETL Theory training session 1,Darius,Dinu,Darius.Dinu@endava.com,1.5886111111111112
-1,Dava.X Academy - ETL Theory training session 1,Andrei,George Avram,Andrei-George.Avram@endava.com,1.5866666666666667
-1,Dava.X Academy - ETL Theory training session 1,Iuliana,Raluca Butnariu,Iuliana-Raluca.Butnariu@endava.com,1.4197222222222223
-1,Dava.X Academy - ETL Theory training session 1,Denis-Mihai,Mateas,Denis-Mihai.Mateas@endava.com,1.5855555555555556
-1,Dava.X Academy - ETL Theory training session 1,George,Andrei Necula,George-Andrei.Necula@endava.com,1.5866666666666667
-1,Dava.X Academy - ETL Theory training session 1,Daniela,Maria Pascan,Daniela-Maria.Pascan@endava.com,1.5863888888888888
-1,Dava.X Academy - ETL Theory training session 1,Rares,Stefan Cazan,Rares-Stefan.Cazan@endava.com,1.5933333333333333
-1,Dava.X Academy - ETL Theory training session 1,Teodor,Leahu,Teodor.Leahu@endava.com,1.1883333333333332
-1,Dava.X Academy - ETL Theory training session 1,Denisa,Maria Gorea,Denisa-Maria.Gorea@endava.com,1.2805555555555554
-1,Dava.X Academy - ETL Theory training session 1,Virgil,Cimpean,Virgil.Cimpean@endava.com,1.583888888888889
-1,Dava.X Academy - ETL Theory training session 1,Mihnea-Alexandru,Pele,Mihnea-Alexandru.Pele@endava.com,1.1905555555555556
-1,Dava.X Academy - ETL Theory training session 1,Manuel,Lazar,Manuel.Lazar@endava.com,1.4308333333333334
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Alin Socoteala,Andrei-Alin.Socoteala@endava.com,1.5816666666666668
-1,Dava.X Academy - ETL Theory training session 1,Robert,Erno Eminovici,Robert-Erno.Eminovici@endava.com,1.5808333333333333
-1,Dava.X Academy - ETL Theory training session 1,Mihnea,Daniel Popescu,Mihnea-Daniel.Popescu@endava.com,1.4225
-1,Dava.X Academy - ETL Theory training session 1,Iustin-Mihai,Stanciu,Iustin-Mihai.Stanciu@endava.com,1.5822222222222222
-1,Dava.X Academy - ETL Theory training session 1,Stefan,Daniel Ionita,StefanDaniel.Ionita@endava.com,1.5819444444444444
-1,Dava.X Academy - ETL Theory training session 1,Flora,Balogh,Flora.Balogh@endava.com,0.5305555555555556
-1,Dava.X Academy - ETL Theory training session 1,Adriana,Maria Vadean,Adriana-Maria.Vadean@endava.com,1.58
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Cinipa,Alexandru.Cinipa@endava.com,1.5780555555555555
-1,Dava.X Academy - ETL Theory training session 1,Fabian,Iordache,Fabian.Iordache@endava.com,1.5786111111111112
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Mirea,Alexandru.Mirea@endava.com,1.5769444444444445
-1,Dava.X Academy - ETL Theory training session 1,Robert,Cristian,Robert.Cristian@endava.com,1.576111111111111
-1,Dava.X Academy - ETL Theory training session 1,Nicola-Diana,Sincaru,Nicola-Diana.Sincaru@endava.com,1.5752777777777778
-1,Dava.X Academy - ETL Theory training session 1,Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,1.5419444444444443
-1,Dava.X Academy - ETL Theory training session 1,Ioan,Sebastian Muresan,Ioan-Sebastian.Muresan@endava.com,1.5755555555555556
-1,Dava.X Academy - ETL Theory training session 1,Ioan,Agape,Ioan.Agape@endava.com,1.5755555555555556
-1,Dava.X Academy - ETL Theory training session 1,Raluca,Roiban,Raluca.Roiban@endava.com,1.4436111111111112
-1,Dava.X Academy - ETL Theory training session 1,Ana,Ciobanu,Ana.Ciobanu@endava.com,1.573888888888889
-1,Dava.X Academy - ETL Theory training session 1,Alessia-Elena,Rados,Alessia-Elena.Rados@endava.com,1.5719444444444444
-1,Dava.X Academy - ETL Theory training session 1,Rares,Ciprian Balan,Rares-Ciprian.Balan@endava.com,1.4111111111111112
-1,Dava.X Academy - ETL Theory training session 1,Lorena,Maria Buzea,Lorena-Maria.Buzea@endava.com,1.5702777777777779
-1,Dava.X Academy - ETL Theory training session 1,Robert-Viorel,Lazarov,Robert-Viorel.Lazarov@endava.com,1.5252777777777777
-1,Dava.X Academy - ETL Theory training session 1,Luigi,Emanuel Arama,Luigi-Emanuel.Arama@endava.com,1.5694444444444444
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Cristian Grajdeanu,Alexandru-Cristian.Grajdeanu@endava.com,1.5677777777777777
-1,Dava.X Academy - ETL Theory training session 1,Mozes,Csaszar,Mozes.Csaszar@endava.com,1.5686111111111112
-1,Dava.X Academy - ETL Theory training session 1,Catalin,George Adrian Otet,Catalin-George-Adrian.Otet@endava.com,1.4091666666666667
-1,Dava.X Academy - ETL Theory training session 1,Eduard,Stefan Mariniuc,Eduard-Stefan.Mariniuc@endava.com,1.4013888888888888
-1,Dava.X Academy - ETL Theory training session 1,Valentin,Alexe,Valentin.Alexe@endava.com,1.5683333333333334
-1,Dava.X Academy - ETL Theory training session 1,Dragos,Badarau,Dragos.Badarau@endava.com,1.5683333333333334
-1,Dava.X Academy - ETL Theory training session 1,Vasile,Tudorel Arion,Tudor.Arion@endava.com,1.5675
-1,Dava.X Academy - ETL Theory training session 1,Vasile,Meghesan,Vasile.Meghesan@endava.com,1.5658333333333334
-1,Dava.X Academy - ETL Theory training session 1,Rares,Gabriel Margarint,Rares-Gabriel.Margarint@endava.com,1.5633333333333332
-1,Dava.X Academy - ETL Theory training session 1,Cerasela,Nicola Soare,Cerasela-Nicola.Soare@endava.com,1.7944444444444445
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Andrei Groza,Vlad-Andrei.Groza@endava.com,1.5658333333333334
-1,Dava.X Academy - ETL Theory training session 1,Denis,Ivan,Denis.Ivan@endava.com,1.5666666666666667
-1,Dava.X Academy - ETL Theory training session 1,Felix,Cosmin Orga,Felix-Cosmin.Orga@endava.com,1.5638888888888889
-1,Dava.X Academy - ETL Theory training session 1,Ionut,Birsan,Ionut.Birsan@endava.com,1.5655555555555556
-1,Dava.X Academy - ETL Theory training session 1,Beniamin,Cioban,Beniamin.Cioban@endava.com,1.5644444444444445
-1,Dava.X Academy - ETL Theory training session 1,Radu,Branici,Radu.Branici@endava.com,1.5658333333333334
-1,Dava.X Academy - ETL Theory training session 1,Stefan,Cotos,Stefan.Cotos@endava.com,1.5633333333333332
-1,Dava.X Academy - ETL Theory training session 1,Vlad,Marian Pitariu,Vlad-Marian.Pitariu@endava.com,1.331388888888889
-1,Dava.X Academy - ETL Theory training session 1,Celia,Ciurchil-Giurgiu,Celia.Ciurchil@endava.com,1.5625
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Bogdan Aluculesei,Andrei-Bogdan.Aluculesei@endava.com,1.5616666666666668
-1,Dava.X Academy - ETL Theory training session 1,Lucian,Vatamanu,Lucian.Vatamanu@endava.com,1.5622222222222222
-1,Dava.X Academy - ETL Theory training session 1,Vlad-Stefan,Sas,Vlad-Stefan.Sas@endava.com,1.5622222222222222
-1,Dava.X Academy - ETL Theory training session 1,Lavinia,Avram,Lavinia.Avram@endava.com,1.521111111111111
-1,Dava.X Academy - ETL Theory training session 1,Silviu,Vasilica Luta,Silviu-Vasilica.Luta@endava.com,1.5605555555555555
-1,Dava.X Academy - ETL Theory training session 1,Stefania,Diana Stirbu,Stefania-Diana.Stirbu@endava.com,1.5611111111111111
-1,Dava.X Academy - ETL Theory training session 1,Ionut,Popescu,Ionut.Popescu@endava.com,1.4719444444444445
-1,Dava.X Academy - ETL Theory training session 1,Ionut,Vlad Cira,Ionut-Vlad.Cira@endava.com,1.5608333333333333
-1,Dava.X Academy - ETL Theory training session 1,Robert,Fedus,Robert.Fedus@endava.com,1.5608333333333333
-1,Dava.X Academy - ETL Theory training session 1,George,Nicolae Botos,George-Nicolae.Botos@endava.com,1.4069444444444446
-1,Dava.X Academy - ETL Theory training session 1,Emanuela,Lupancu,Emanuela.Lupancu@endava.com,1.5591666666666666
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Titus Pavel,andrei-titus.pavel@endava.com,1.795
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Baba,Alexandru.Baba@endava.com,1.6966666666666668
-1,Dava.X Academy - ETL Theory training session 1,Gabriela,Casandra Pitu,Gabriela-Casandra.Pitu@endava.com,1.558888888888889
-1,Dava.X Academy - ETL Theory training session 1,Tudor,Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,1.5580555555555555
-1,Dava.X Academy - ETL Theory training session 1,Constantin,Bogdan Moga,Constantin-Bogdan.Moga@endava.com,1.5572222222222223
-1,Dava.X Academy - ETL Theory training session 1,Dragos,Vatra,Dragos.Vatra@endava.com,1.4122222222222223
-1,Dava.X Academy - ETL Theory training session 1,Cristian,Valentin Alexa,Cristian-Valentin.Alexa@endava.com,1.5566666666666666
-1,Dava.X Academy - ETL Theory training session 1,Iuliana,Elena Rusu,Iuliana-Elena.Rusu@endava.com,1.553611111111111
-1,Dava.X Academy - ETL Theory training session 1,Robert,Alexandru Badea,Robert-Alexandru.Badea@endava.com,1.555
-1,Dava.X Academy - ETL Theory training session 1,Mihnea,Amihailesei,Mihnea.Amihailesei@endava.com,1.41
-1,Dava.X Academy - ETL Theory training session 1,Teodor,Badarcea,Teodor.Badarcea@endava.com,1.5527777777777778
-1,Dava.X Academy - ETL Theory training session 1,Serafim,Uliuliuc,Serafim.Uliuliuc@endava.com,1.5505555555555555
-1,Dava.X Academy - ETL Theory training session 1,Ilinca,Maria Popovici,Ilinca-Maria.Popovici@endava.com,1.551388888888889
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Gabriel Cazan,Alexandru.Cazan@endava.com,1.5502777777777779
-1,Dava.X Academy - ETL Theory training session 1,Patric,Caliman,Patric.Caliman@endava.com,1.3891666666666667
-1,Dava.X Academy - ETL Theory training session 1,Victor,Valentin Vladulescu,Victor-Valentin.Vladulescu@endava.com,0.9894444444444445
-1,Dava.X Academy - ETL Theory training session 1,Cornel,Adrian Pop,Cornel-Adrian.Pop@endava.com,1.5502777777777779
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Serban,Alexandru.Serban2@endava.com,1.55
-1,Dava.X Academy - ETL Theory training session 1,Andreea,Maria Monete,Andreea-Maria.Monete@endava.com,0.9819444444444444
-1,Dava.X Academy - ETL Theory training session 1,George,Patrasc,George.Patrasc@endava.com,1.2580555555555555
-1,Dava.X Academy - ETL Theory training session 1,Daniel,Rosu,Daniel.Rosu@endava.com,1.5538888888888889
-1,Dava.X Academy - ETL Theory training session 1,Tudor,Leonte,Tudor.Leonte@endava.com,1.548888888888889
-1,Dava.X Academy - ETL Theory training session 1,Rares,Dascalu,Rares.Dascalu@endava.com,1.3505555555555555
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Tudor Mirza,Andrei-Tudor.Mirza@endava.com,1.548888888888889
-1,Dava.X Academy - ETL Theory training session 1,Rares,Alexandru Iancu,Rares-Alexandru.Iancu@endava.com,0.9461111111111111
-1,Dava.X Academy - ETL Theory training session 1,Laura,Rusanescu,Laura.Rusanescu@endava.com,1.5486111111111112
-1,Dava.X Academy - ETL Theory training session 1,Madalina,Daiana Gligan,Madalina-Daiana.Gligan@endava.com,1.5475
-1,Dava.X Academy - ETL Theory training session 1,Cezara,Teofana Aprofirei,Cezara-Teofana.Aprofirei@endava.com,1.5458333333333334
-1,Dava.X Academy - ETL Theory training session 1,Maria,Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,1.5463888888888888
-1,Dava.X Academy - ETL Theory training session 1,Emma,Simina Muresan,Emma-Simina.Muresan@endava.com,1.5461111111111112
-1,Dava.X Academy - ETL Theory training session 1,Cornelia,Cojocari,Cornelia.Cojocari@endava.com,1.545
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Zagan,Alexandru.Zagan@endava.com,1.5483333333333333
-1,Dava.X Academy - ETL Theory training session 1,Matei,Tatar,Matei.Tatar@endava.com,1.5455555555555556
-1,Dava.X Academy - ETL Theory training session 1,Sabin,Andrei Popa,Sabin-Andrei.Popa@endava.com,0.9547222222222222
-1,Dava.X Academy - ETL Theory training session 1,Laura,Andrada Ciobanu,Laura-Andrada.Ciobanu@endava.com,1.5444444444444445
-1,Dava.X Academy - ETL Theory training session 1,Darius,Margarit,Darius.Margarit@endava.com,1.5433333333333332
-1,Dava.X Academy - ETL Theory training session 1,Maria,Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,1.5427777777777778
-1,Dava.X Academy - ETL Theory training session 1,George,Iulian Stoian,George-Iulian.Stoian@endava.com,1.5430555555555556
-1,Dava.X Academy - ETL Theory training session 1,Irina,Vasilita,Irina.Vasilita@endava.com,1.5430555555555556
-1,Dava.X Academy - ETL Theory training session 1,Adrian,Visan,Adrian.Visan@endava.com,1.3694444444444445
-1,Dava.X Academy - ETL Theory training session 1,Tudor,Muntean,Tudor.Muntean@endava.com,1.54
-1,Dava.X Academy - ETL Theory training session 1,Iulius,Stefan Ambros,Iulius-Stefan.Ambros@endava.com,1.5408333333333333
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Vataselu,Andrei.Vataselu@endava.com,1.5405555555555555
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,1.5391666666666666
-1,Dava.X Academy - ETL Theory training session 1,Andrei,Apostol,Andrei.Apostol@endava.com,1.3777777777777778
-1,Dava.X Academy - ETL Theory training session 1,Cosmin,Gabriel Mirea,Cosmin-Gabriel.Mirea@endava.com,1.5391666666666666
-1,Dava.X Academy - ETL Theory training session 1,Bogdan,Gargu,Bogdan.Gargu@endava.com,1.3852777777777778
-1,Dava.X Academy - ETL Theory training session 1,Anca,Elena Ilie,Anca-Elena.Ilie@endava.com,1.5372222222222223
-1,Dava.X Academy - ETL Theory training session 1,David,Serban,David.Serban@endava.com,1.5377777777777777
-1,Dava.X Academy - ETL Theory training session 1,Bianca,Maria Lazar,Bianca-Maria.Lazar@endava.com,0.8725
-1,Dava.X Academy - ETL Theory training session 1,Tiberiu,Iatan,Tiberiu.Iatan@endava.com,1.5369444444444444
-1,Dava.X Academy - ETL Theory training session 1,Serban,Marian Precup,Serban-Marian.Precup@endava.com,1.1125
-1,Dava.X Academy - ETL Theory training session 1,Costina,Vanghele,Costina.Vanghele@endava.com,1.5352777777777777
-1,Dava.X Academy - ETL Theory training session 1,Matei,Micu,Matei-Mihai.Micu@endava.com,1.3891666666666667
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Duta,Alexandru.Duta2@endava.com,1.5341666666666667
-1,Dava.X Academy - ETL Theory training session 1,Adrian,Vasile Vladescu,Adrian-Vasile.Vladescu@endava.com,1.5347222222222223
-1,Dava.X Academy - ETL Theory training session 1,Bogdan,Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,1.5655555555555556
-1,Dava.X Academy - ETL Theory training session 1,Madalina,Birtu,Madalina.Birtu@endava.com,1.3794444444444445
-1,Dava.X Academy - ETL Theory training session 1,Denisa,Ibanescu,Denisa.Ibanescu@endava.com,1.5322222222222222
-1,Dava.X Academy - ETL Theory training session 1,Sebastian,Popa,Sebastian.Popa2@endava.com,1.3627777777777779
-1,Dava.X Academy - ETL Theory training session 1,Daniela,Munteanu,Daniela.Munteanu@endava.com,1.5322222222222222
-1,Dava.X Academy - ETL Theory training session 1,Nicolae,Vasile Veciunca,Nicolae-Vasile.Veciunca@endava.com,1.5325
-1,Dava.X Academy - ETL Theory training session 1,Catalin,Festeu,Catalin.Festeu@endava.com,1.531388888888889
-1,Dava.X Academy - ETL Theory training session 1,Tudor,Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,1.5316666666666667
-1,Dava.X Academy - ETL Theory training session 1,Cosmin,Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,0.9738888888888889
-1,Dava.X Academy - ETL Theory training session 1,Mirela-Magdalena,Catrina,Mirela-Magdalena.Catrina@endava.com,1.5291666666666666
-1,Dava.X Academy - ETL Theory training session 1,Adelina,Patlatii,Adelina.Patlatii@endava.com,1.5125
-1,Dava.X Academy - ETL Theory training session 1,Denis-Alexandru,Antonescu,Denis-Alexandru.Antonescu@endava.com,1.1205555555555555
-1,Dava.X Academy - ETL Theory training session 1,Rafael,Andries,Rafael.Andries@endava.com,1.5275
-1,Dava.X Academy - ETL Theory training session 1,Mihaly,Richard Teutsch,Mihaly-Richard.Teutsch@endava.com,1.5283333333333333
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Edves,Alexandru.Edves@endava.com,1.385
-1,Dava.X Academy - ETL Theory training session 1,Ruben,Daniel Pasca,Ruben-Daniel.Pasca@endava.com,1.5247222222222223
-1,Dava.X Academy - ETL Theory training session 1,Robert,Catalin Franciuc,Robert-Catalin.Franciuc@endava.com,1.5244444444444445
-1,Dava.X Academy - ETL Theory training session 1,Botond,Ors Solyom,Botond-Ors.Solyom@endava.com,1.5263888888888888
-1,Dava.X Academy - ETL Theory training session 1,Stefan-Daniel,Ochian,Stefan-Daniel.Ochian@endava.com,1.368611111111111
-1,Dava.X Academy - ETL Theory training session 1,Rita,Timea Torok,Rita-Timea.Torok@endava.com,1.3816666666666666
-1,Dava.X Academy - ETL Theory training session 1,Gabriela-Sidonia,Ciontolac,Gabriela-Sidonia.Ciontolac@endava.com,1.7427777777777778
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Alin Potanga,Alexandru-Alin.Potanga@endava.com,1.5247222222222223
-1,Dava.X Academy - ETL Theory training session 1,Diana,Cristina Mocan,Diana-Cristina.Mocan@endava.com,1.308888888888889
-1,Dava.X Academy - ETL Theory training session 1,Stefan-Claudiu,Bulintis,Stefan-Claudiu.Bulintis@endava.com,1.4455555555555555
-1,Dava.X Academy - ETL Theory training session 1,Octavian,Paul Ilies,Octavian-Paul.Ilies@endava.com,1.5225
-1,Dava.X Academy - ETL Theory training session 1,Razvan,Azoitei,Razvan.Azoitei@endava.com,1.2758333333333334
-1,Dava.X Academy - ETL Theory training session 1,Csilla,Boglarka Nagy,Csilla-Boglarka.Nagy@endava.com,1.5202777777777778
-1,Dava.X Academy - ETL Theory training session 1,Cosmin,Felecanu,Cosmin.Felecanu@endava.com,1.3725
-1,Dava.X Academy - ETL Theory training session 1,Tiberiu,Rabi,Tiberiu.Rabi@endava.com,1.353888888888889
-1,Dava.X Academy - ETL Theory training session 1,Mihai,Maciuc,Mihai.Maciuc@endava.com,1.5180555555555555
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Pestritu,Alexandru.Pestritu@endava.com,1.5180555555555555
-1,Dava.X Academy - ETL Theory training session 1,Anca,Vasilica Iacob,Anca-Vasilica.Iacob@endava.com,1.5183333333333333
-1,Dava.X Academy - ETL Theory training session 1,Raluca,Elisa Butiurca,Raluca-Elisa.Butiurca@endava.com,1.5163888888888888
-1,Dava.X Academy - ETL Theory training session 1,Dragos,Alexandru Ion,Dragos-Alexandru.Ion@endava.com,1.5161111111111112
-1,Dava.X Academy - ETL Theory training session 1,Ioana,Alexa,Ioana.Alexa@endava.com,1.3655555555555556
-1,Dava.X Academy - ETL Theory training session 1,Mihai,Alexandru Militaru,Mihai-Alexandru.Militaru@endava.com,1.1972222222222222
-1,Dava.X Academy - ETL Theory training session 1,Alexandru,Tarcan,Alexandru.Tarcan@endava.com,1.5119444444444445
-1,Dava.X Academy - ETL Theory training session 1,Sebastian,Ionel Filipovici,Sebastian-Ionel.Filipovici@endava.com,1.5122222222222221
-1,Dava.X Academy - ETL Theory training session 1,Filip,Craciun,Filip.Craciun@endava.com,1.3525
-1,Dava.X Academy - ETL Theory training session 1,Daniel,Kewin Chifa,Daniel-Kewin.Chifa@endava.com,1.511388888888889
-1,Dava.X Academy - ETL Theory training session 1,Andreea,Marina Son,Andreea-Marina.Son@endava.com,1.5097222222222222
-1,Dava.X Academy - ETL Theory training session 1,Huba,Nemet,Huba.Nemet@endava.com,1.5080555555555555
-1,Dava.X Academy - ETL Theory training session 1,Radu,Ioan Stoica,Radu-Ioan.Stoica@endava.com,0.4963888888888889
-1,Dava.X Academy - ETL Theory training session 1,Cosmin,Carp,Cosmin.Carp@endava.com,1.5041666666666667
-1,Dava.X Academy - ETL Theory training session 1,Laszlo,Carlos Fodor,Laszlo-Carlos.Fodor@endava.com,1.331388888888889
-1,Dava.X Academy - ETL Theory training session 1,Stefan,Nicolae Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,1.4905555555555556
-1,Dava.X Academy - ETL Theory training session 1,Aron,Domokos Telegdy,Aron.Telegdy@endava.com,1.5002777777777778
-1,Dava.X Academy - ETL Theory training session 1,Alin,Avram,Alin.Avram@endava.com,1.1694444444444445
-1,Dava.X Academy - ETL Theory training session 1,Maria,Camelia Raicu,Maria-Camelia.Raicu@endava.com,1.4802777777777778
-1,Dava.X Academy - ETL Theory training session 1,Andreea,Gabriela Pop,Andreea-Gabriela.Pop@endava.com,1.4644444444444444
-1,Dava.X Academy - ETL Theory training session 1,Laurentiu,Fratila,Laurentiu.Fratila@endava.com,1.4480555555555557
-1,Dava.X Academy - ETL Theory training session 1,Maria-Ioana,Fuerea,Maria-Ioana.Fuerea@endava.com,1.2922222222222222
-1,Dava.X Academy - ETL Theory training session 1,Zoltan,Balint,Zoltan.Balint2@endava.com,1.4327777777777777
-1,Dava.X Academy - ETL Theory training session 1,Alin,Constantin Florescu,Alin-Constantin.Florescu@endava.com,1.426388888888889
-1,Dava.X Academy - ETL Theory training session 1,Raul,Birsan,Raul.Birsan@endava.com,1.3927777777777777
-1,Dava.X Academy - ETL Theory training session 1,Angel,David Palihovici,Angel-David.Palihovici@endava.com,1.3766666666666667
-1,Dava.X Academy - ETL Theory training session 1,Ciprian,Serbu,Ciprian.Serbu@endava.com,0.36333333333333334
-1,Dava.X Academy - ETL Theory training session 1,Rares,Agachi,Rares.Agachi@endava.com,1.0725
-1,Dava.X Academy - ETL Theory training session 1,Bianca,Popescu,Bianca.Popescu@endava.com,1.0358333333333334
-1,Dava.X Academy - ETL Theory training session 1,Marius,Beschieru,Marius.Beschieru@endava.com,1.1536111111111111
-1,Dava.X Academy - ETL Theory training session 1,Noemi,Szidonia Szilagyi,Noemi-Szidonia.Csegezi@endava.com,0.3377777777777778
-2,Dava.X Academy - ETL Theory training session 2,Alice,Tache,Alice.Tache@endava.com,2.1530555555555555
-2,Dava.X Academy - ETL Theory training session 2,Virgil,Cimpean,Virgil.Cimpean@endava.com,2.1925
-2,Dava.X Academy - ETL Theory training session 2,Ferdinand,Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,2.188888888888889
-2,Dava.X Academy - ETL Theory training session 2,Stefan,Liute,Stefan.Liute@endava.com,2.1955555555555555
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Marian Pitariu,Vlad-Marian.Pitariu@endava.com,2.0844444444444443
-2,Dava.X Academy - ETL Theory training session 2,Simona,Boicu,Simona.Boicu@endava.com,2.191388888888889
-2,Dava.X Academy - ETL Theory training session 2,Rares,Anton Brezeanu,Rares-Anton.Brezeanu@endava.com,1.8355555555555556
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Muresan,Vlad.Muresan3@endava.com,2.1805555555555554
-2,Dava.X Academy - ETL Theory training session 2,Bogdan,Patrania,Bogdan.Patrania@endava.com,2.178611111111111
-2,Dava.X Academy - ETL Theory training session 2,Razvan,Petru Leonte,Razvan-Petru.Leonte@endava.com,2.1766666666666667
-2,Dava.X Academy - ETL Theory training session 2,Daniela,Maria Pascan,Daniela-Maria.Pascan@endava.com,2.173888888888889
-2,Dava.X Academy - ETL Theory training session 2,Cosmin-Nicusor,Brumariu,Cosmin-Nicusor.Brumariu@endava.com,2.1794444444444445
-2,Dava.X Academy - ETL Theory training session 2,Rares,Muresan,Rares.Muresan@endava.com,2.513333333333333
-2,Dava.X Academy - ETL Theory training session 2,Anton,Calin Stroia,Anton-Calin.Stroia@endava.com,2.1544444444444446
-2,Dava.X Academy - ETL Theory training session 2,Radu,Nicolae,Radu-Mihai.Nicoale@endava.com,2.1533333333333333
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Mihai Matei,Alexandru-Mihai.Matei@endava.com,2.15
-2,Dava.X Academy - ETL Theory training session 2,Ionut,Vlad Cira,Ionut-Vlad.Cira@endava.com,2.14
-2,Dava.X Academy - ETL Theory training session 2,Andreea,Cront,Andreea.Cront@endava.com,2.141388888888889
-2,Dava.X Academy - ETL Theory training session 2,Arthur,Negosanu,Arthur.Negosanu@endava.com,2.1486111111111112
-2,Dava.X Academy - ETL Theory training session 2,Andrei-Alexandru,Midus,Andrei-Alexandru.Midus@endava.com,2.136111111111111
-2,Dava.X Academy - ETL Theory training session 2,Carmen-Gabriela,Nadragea,Carmen-Gabriela.Nadragea@endava.com,2.1366666666666667
-2,Dava.X Academy - ETL Theory training session 2,Rita,Timea Torok,Rita-Timea.Torok@endava.com,1.7213888888888889
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Octavian Minca,Andrei-Octavian.Minca@endava.com,2.0416666666666665
-2,Dava.X Academy - ETL Theory training session 2,Robert-Viorel,Lazarov,Robert-Viorel.Lazarov@endava.com,2.4341666666666666
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Zagan,Alexandru.Zagan@endava.com,2.1419444444444444
-2,Dava.X Academy - ETL Theory training session 2,Razvan,Dumitru,Razvan.Dumitru@endava.com,2.1325
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Topan-Farcau,Alexandru.Topan@endava.com,2.1180555555555554
-2,Dava.X Academy - ETL Theory training session 2,Ariana,Casandra Olaru,Ariana-Casandra.Olaru@endava.com,2.112222222222222
-2,Dava.X Academy - ETL Theory training session 2,Dragos,Vatra,Dragos.Vatra@endava.com,2.106388888888889
-2,Dava.X Academy - ETL Theory training session 2,Marcos,Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,1.9
-2,Dava.X Academy - ETL Theory training session 2,Gabriela-Sidonia,Ciontolac,Gabriela-Sidonia.Ciontolac@endava.com,2.1133333333333333
-2,Dava.X Academy - ETL Theory training session 2,Stefan,Tiberiu Paduraru,Stefan-Tiberiu.Paduraru@endava.com,2.107222222222222
-2,Dava.X Academy - ETL Theory training session 2,Bogdan,Vasile Spilevoi,Bogdan-Vasile.Spilevoi@endava.com,2.1080555555555556
-2,Dava.X Academy - ETL Theory training session 2,Gabriela,Miruna Stan,Gabriela-Miruna.Stan@endava.com,2.1038888888888887
-2,Dava.X Academy - ETL Theory training session 2,Sergiu,Ungureanu,Sergiu.Ungureanu2@endava.com,2.0494444444444446
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Burlica,Alexandru.Burlica@endava.com,2.102777777777778
-2,Dava.X Academy - ETL Theory training session 2,Radu,Ioan Stoica,Radu-Ioan.Stoica@endava.com,1.9872222222222222
-2,Dava.X Academy - ETL Theory training session 2,Lavinia,Avram,Lavinia.Avram@endava.com,1.9211111111111112
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Baba,Alexandru.Baba@endava.com,2.1016666666666666
-2,Dava.X Academy - ETL Theory training session 2,Daniel,Rotaru,Daniel.Rotaru@endava.com,2.0922222222222224
-2,Dava.X Academy - ETL Theory training session 2,Adelina,Patlatii,Adelina.Patlatii@endava.com,2.091388888888889
-2,Dava.X Academy - ETL Theory training session 2,Bianca,Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,1.2438888888888888
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Ionut Guriuc,Vlad-Ionut.Guriuc@endava.com,2.0405555555555557
-2,Dava.X Academy - ETL Theory training session 2,Tudor,Mihai,Tudor.Mihai@endava.com,2.082222222222222
-2,Dava.X Academy - ETL Theory training session 2,David,Serban,David.Serban@endava.com,2.093888888888889
-2,Dava.X Academy - ETL Theory training session 2,Petru,Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,2.0944444444444446
-2,Dava.X Academy - ETL Theory training session 2,Denisa,Elena Stolniceanu,Denisa-Elena.Stolniceanu@endava.com,0.9727777777777777
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Tarcan,Alexandru.Tarcan@endava.com,2.0930555555555554
-2,Dava.X Academy - ETL Theory training session 2,Calin,Ciobanu,Calin.Ciobanu@endava.com,2.0791666666666666
-2,Dava.X Academy - ETL Theory training session 2,Constantin,Voicu,Constantin.Voicu@endava.com,2.087222222222222
-2,Dava.X Academy - ETL Theory training session 2,Emma,Simina Muresan,Emma-Simina.Muresan@endava.com,2.0858333333333334
-2,Dava.X Academy - ETL Theory training session 2,Emanuela,Lupancu,Emanuela.Lupancu@endava.com,2.117777777777778
-2,Dava.X Academy - ETL Theory training session 2,Maria,Madalina Olaru,Maria-Madalina.Olaru@endava.com,2.080277777777778
-2,Dava.X Academy - ETL Theory training session 2,Cosmin,Felecanu,Cosmin.Felecanu@endava.com,2.0722222222222224
-2,Dava.X Academy - ETL Theory training session 2,Mirela-Magdalena,Catrina,Mirela-Magdalena.Catrina@endava.com,2.0755555555555554
-2,Dava.X Academy - ETL Theory training session 2,Gabriela,Casandra Pitu,Gabriela-Casandra.Pitu@endava.com,2.08
-2,Dava.X Academy - ETL Theory training session 2,Andrei,George Avram,Andrei-George.Avram@endava.com,2.0316666666666667
-2,Dava.X Academy - ETL Theory training session 2,Sanda,Dobrenco,Sanda.Dobrenco@endava.com,2.0588888888888888
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Bogdan Aluculesei,Andrei-Bogdan.Aluculesei@endava.com,2.082222222222222
-2,Dava.X Academy - ETL Theory training session 2,Alexandra,Zamfir,Alexandra.Zamfir@endava.com,2.062777777777778
-2,Dava.X Academy - ETL Theory training session 2,Mircea,Stefan Pop,Mircea-Stefan.Pop@endava.com,1.505
-2,Dava.X Academy - ETL Theory training session 2,George,Patrasc,George.Patrasc@endava.com,2.0633333333333335
-2,Dava.X Academy - ETL Theory training session 2,Bogdan,Ionut Tibuleac,Bogdan-Ionut.Tibuleac@endava.com,2.0780555555555558
-2,Dava.X Academy - ETL Theory training session 2,Dumitru,Andrei Iroftei,Dumitru-Andrei.Iroftei@endava.com,2.0613888888888887
-2,Dava.X Academy - ETL Theory training session 2,Paul,Valentin Vela,Paul-Valentin.Vela@endava.com,2.4155555555555557
-2,Dava.X Academy - ETL Theory training session 2,Alexandra,Elena Pitaru,Alexandra-Elena.Pitaru@endava.com,2.1141666666666667
-2,Dava.X Academy - ETL Theory training session 2,Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,2.0727777777777776
-2,Dava.X Academy - ETL Theory training session 2,Silviu,Vasilica Luta,Silviu-Vasilica.Luta@endava.com,2.0308333333333333
-2,Dava.X Academy - ETL Theory training session 2,Timotei,Cristian Morar,Timotei-Cristian.Morar@endava.com,2.0130555555555554
-2,Dava.X Academy - ETL Theory training session 2,Costina,Vanghele,Costina.Vanghele@endava.com,1.8516666666666666
-2,Dava.X Academy - ETL Theory training session 2,Veronica,Caplea,Veronica.Caplea@endava.com,2.057777777777778
-2,Dava.X Academy - ETL Theory training session 2,Radu,Ioan Maris,Radu-Ioan.Maris@endava.com,2.0830555555555557
-2,Dava.X Academy - ETL Theory training session 2,Andreea,Gabriela Pop,Andreea-Gabriela.Pop@endava.com,2.055
-2,Dava.X Academy - ETL Theory training session 2,Daria,Lupu Dima,Daria.Lupu@endava.com,1.441111111111111
-2,Dava.X Academy - ETL Theory training session 2,Remus,Mihai Prodan,Remus-Mihai.Prodan@endava.com,2.0580555555555557
-2,Dava.X Academy - ETL Theory training session 2,George,Stefan Bodogae,George-Stefan.Bodogae@endava.com,2.0533333333333332
-2,Dava.X Academy - ETL Theory training session 2,Rodica,Elena Rosca,Rodica-Elena.Rosca@endava.com,2.0502777777777776
-2,Dava.X Academy - ETL Theory training session 2,Octavian,Cojocariu,Octavian.Cojocariu@endava.com,2.0519444444444446
-2,Dava.X Academy - ETL Theory training session 2,Beniamin,Cioban,Beniamin.Cioban@endava.com,2.0594444444444444
-2,Dava.X Academy - ETL Theory training session 2,Cornel,Adrian Pop,Cornel-Adrian.Pop@endava.com,2.053888888888889
-2,Dava.X Academy - ETL Theory training session 2,Rafael,Ionut Stefanache,Rafael-Ionut.Stefanache@endava.com,2.007222222222222
-2,Dava.X Academy - ETL Theory training session 2,Andrei,L Popovici,Andrei.Popovici2@endava.com,1.9602777777777778
-2,Dava.X Academy - ETL Theory training session 2,Alina,Trincu,Alina.Trincu@endava.com,1.8597222222222223
-2,Dava.X Academy - ETL Theory training session 2,Alexandra,Simona Danca,Alexandra-Simona.Danca@endava.com,2.046388888888889
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Tudor Mirza,Andrei-Tudor.Mirza@endava.com,2.055277777777778
-2,Dava.X Academy - ETL Theory training session 2,Madalina,Daiana Gligan,Madalina-Daiana.Gligan@endava.com,2.0555555555555554
-2,Dava.X Academy - ETL Theory training session 2,Iulia,Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,2.046388888888889
-2,Dava.X Academy - ETL Theory training session 2,Costin,Manolescu,Costin.Manolescu@endava.com,2.0541666666666667
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,2.0483333333333333
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Duta,Alexandru.Duta2@endava.com,2.055
-2,Dava.X Academy - ETL Theory training session 2,Lucian,Vatamanu,Lucian.Vatamanu@endava.com,2.0541666666666667
-2,Dava.X Academy - ETL Theory training session 2,Iulius,Stefan Ambros,Iulius-Stefan.Ambros@endava.com,2.046666666666667
-2,Dava.X Academy - ETL Theory training session 2,Sebastian,Popa,Sebastian.Popa2@endava.com,2.026666666666667
-2,Dava.X Academy - ETL Theory training session 2,Vasile,Tudorel Arion,Tudor.Arion@endava.com,2.053611111111111
-2,Dava.X Academy - ETL Theory training session 2,Adriana,Maria Vadean,Adriana-Maria.Vadean@endava.com,2.0519444444444446
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Andrei Groza,Vlad-Andrei.Groza@endava.com,2.042222222222222
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Madalin Diaconu,Andrei-Madalin.Diaconu@endava.com,2.0541666666666667
-2,Dava.X Academy - ETL Theory training session 2,Iuliana,Elena Rusu,Iuliana-Elena.Rusu@endava.com,2.048611111111111
-2,Dava.X Academy - ETL Theory training session 2,Reka,Katalin Darko,Reka-Katalin.Darko@endava.com,2.0477777777777777
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Mihnea,Andrei.Mihnea@endava.com,2.0483333333333333
-2,Dava.X Academy - ETL Theory training session 2,Teodora,Maximiuc,Teodora.Maximiuc@endava.com,2.0413888888888887
-2,Dava.X Academy - ETL Theory training session 2,Ionut,Popescu,Ionut.Popescu@endava.com,2.0169444444444444
-2,Dava.X Academy - ETL Theory training session 2,Laurentiu,Fratila,Laurentiu.Fratila@endava.com,2.0469444444444442
-2,Dava.X Academy - ETL Theory training session 2,Augustin,Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,2.0383333333333336
-2,Dava.X Academy - ETL Theory training session 2,Cristian,Valentin Alexa,Cristian-Valentin.Alexa@endava.com,2.0458333333333334
-2,Dava.X Academy - ETL Theory training session 2,Adina,Denisa Horj,Adina-Denisa.Horj@endava.com,2.0369444444444444
-2,Dava.X Academy - ETL Theory training session 2,George-Catalin,Ghiold,George-Catalin.Ghiold@endava.com,2.0405555555555557
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Mirea,Alexandru.Mirea@endava.com,2.0636111111111113
-2,Dava.X Academy - ETL Theory training session 2,Andreea-Raluca,Neagu,Andreea-Raluca.Neagu@endava.com,2.0425
-2,Dava.X Academy - ETL Theory training session 2,Ruben,Daniel Pasca,Ruben-Daniel.Pasca@endava.com,2.0416666666666665
-2,Dava.X Academy - ETL Theory training session 2,Sebastian,Cristian Sleam,Sebastian-Cristian.Sleam@endava.com,2.0308333333333333
-2,Dava.X Academy - ETL Theory training session 2,Raul,Mihai Rusu,Raul-Mihai.Rusu@endava.com,2.0408333333333335
-2,Dava.X Academy - ETL Theory training session 2,Stefan,Daniel Ionita,StefanDaniel.Ionita@endava.com,1.5627777777777778
-2,Dava.X Academy - ETL Theory training session 2,Dragos,Maxim,Dragos.Maxim@endava.com,2.0344444444444445
-2,Dava.X Academy - ETL Theory training session 2,Serban,Marian Precup,Serban-Marian.Precup@endava.com,2.0383333333333336
-2,Dava.X Academy - ETL Theory training session 2,Mozes,Csaszar,Mozes.Csaszar@endava.com,2.031111111111111
-2,Dava.X Academy - ETL Theory training session 2,Stefan-Daniel,Ochian,Stefan-Daniel.Ochian@endava.com,2.037777777777778
-2,Dava.X Academy - ETL Theory training session 2,Gheorghe-Cristian,Terovan,Gheorghe-Cristian.Terovan@endava.com,2.031388888888889
-2,Dava.X Academy - ETL Theory training session 2,Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,2.0344444444444445
-2,Dava.X Academy - ETL Theory training session 2,Gabriel,Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,1.9080555555555556
-2,Dava.X Academy - ETL Theory training session 2,Claudiu,Marinescu,Claudiu.Marinescu@endava.com,2.0297222222222224
-2,Dava.X Academy - ETL Theory training session 2,Vasile,Meghesan,Vasile.Meghesan@endava.com,2.0205555555555557
-2,Dava.X Academy - ETL Theory training session 2,Cristian,Ghiuta,Cristian.Ghiuta@endava.com,2.0308333333333333
-2,Dava.X Academy - ETL Theory training session 2,Vlad,V Muresan,Vlad.Muresan2@endava.com,2.028888888888889
-2,Dava.X Academy - ETL Theory training session 2,Eric,Marian Dascalu,Eric-Marian.Dascalu@endava.com,2.0275
-2,Dava.X Academy - ETL Theory training session 2,Constantin,Bogdan Moga,Constantin-Bogdan.Moga@endava.com,2.0305555555555554
-2,Dava.X Academy - ETL Theory training session 2,Luigi,Emanuel Arama,Luigi-Emanuel.Arama@endava.com,1.9175
-2,Dava.X Academy - ETL Theory training session 2,Ana,Ciobanu,Ana.Ciobanu@endava.com,2.027222222222222
-2,Dava.X Academy - ETL Theory training session 2,Bogdan,Nicolae Cotta,Bogdan-Nicolae.Cotta@endava.com,2.022222222222222
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Alin Potanga,Alexandru-Alin.Potanga@endava.com,2.0255555555555556
-2,Dava.X Academy - ETL Theory training session 2,Darius,Fratila,Darius.Fratila@endava.com,2.0208333333333335
-2,Dava.X Academy - ETL Theory training session 2,Andreea,Maria Monete,Andreea-Maria.Monete@endava.com,1.1575
-2,Dava.X Academy - ETL Theory training session 2,Valentin,Alexe,Valentin.Alexe@endava.com,2.024722222222222
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Alin Socoteala,Andrei-Alin.Socoteala@endava.com,2.017777777777778
-2,Dava.X Academy - ETL Theory training session 2,Diana,Cristina Mocan,Diana-Cristina.Mocan@endava.com,2.0125
-2,Dava.X Academy - ETL Theory training session 2,Alex,Rares Roman,Alex-Rares.Roman@endava.com,2.018611111111111
-2,Dava.X Academy - ETL Theory training session 2,Dragos,Badarau,Dragos.Badarau@endava.com,2.017777777777778
-2,Dava.X Academy - ETL Theory training session 2,Teodor,Badarcea,Teodor.Badarcea@endava.com,2.013333333333333
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Marian Armanu,Alexandru-Marian.Armanu@endava.com,2.0077777777777777
-2,Dava.X Academy - ETL Theory training session 2,Eduard,George Stan,Eduard-George.Stan@endava.com,2.0147222222222223
-2,Dava.X Academy - ETL Theory training session 2,Daniel-Ionel,Beg,Daniel-Ionel.Beg@endava.com,1.7127777777777777
-2,Dava.X Academy - ETL Theory training session 2,Laszlo,Carlos Fodor,Laszlo-Carlos.Fodor@endava.com,1.3038888888888889
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Cinipa,Alexandru.Cinipa@endava.com,2.0325
-2,Dava.X Academy - ETL Theory training session 2,Catalin,George Adrian Otet,Catalin-George-Adrian.Otet@endava.com,2.015833333333333
-2,Dava.X Academy - ETL Theory training session 2,Camelia,Stoica,Camelia.Stoica@endava.com,2.0175
-2,Dava.X Academy - ETL Theory training session 2,Rares,Dascalu,Rares.Dascalu@endava.com,1.7269444444444444
-2,Dava.X Academy - ETL Theory training session 2,Mihai,Alexandru Ionel,Mihai-Alexandru.Ionel@endava.com,2.013333333333333
-2,Dava.X Academy - ETL Theory training session 2,Mihnea-Alexandru,Pele,Mihnea-Alexandru.Pele@endava.com,2.0030555555555556
-2,Dava.X Academy - ETL Theory training session 2,Emanuel,Luculescu,Emanuel.Luculescu@endava.com,2.0097222222222224
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Panainte,Alexandru.Panainte@endava.com,2.006388888888889
-2,Dava.X Academy - ETL Theory training session 2,Tudor,Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,2.0027777777777778
-2,Dava.X Academy - ETL Theory training session 2,David,Postolea,David.Postolea@endava.com,1.3827777777777779
-2,Dava.X Academy - ETL Theory training session 2,Robert,Negre,Robert.Negre@endava.com,2.016111111111111
-2,Dava.X Academy - ETL Theory training session 2,Daria,Alexia Irimie,Daria-Alexia.Irimie@endava.com,2.0230555555555556
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Cristian Brinzas,Vlad-Cristian.Brinzas@endava.com,2.0011111111111113
-2,Dava.X Academy - ETL Theory training session 2,Mihnea,Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,2.0
-2,Dava.X Academy - ETL Theory training session 2,Luisa,Yi Qing Yang,Luisa-Yi-Qing.Yang@endava.com,1.9994444444444444
-2,Dava.X Academy - ETL Theory training session 2,Miruna,Curduman,Miruna.Curduman@endava.com,2.0094444444444446
-2,Dava.X Academy - ETL Theory training session 2,Ioana,Marc,Ioana.Marc2@endava.com,2.004166666666667
-2,Dava.X Academy - ETL Theory training session 2,Rafael,Andries,Rafael.Andries@endava.com,2.01
-2,Dava.X Academy - ETL Theory training session 2,Robert,Erno Eminovici,Robert-Erno.Eminovici@endava.com,1.9983333333333333
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Alexandru Gheorghe,Andrei-Alexandru.Gheorghe@endava.com,2.0075
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Baranceanu,Vlad.Baranceanu@endava.com,0.8325
-2,Dava.X Academy - ETL Theory training session 2,Darius,Dinu,Darius.Dinu@endava.com,2.0055555555555555
-2,Dava.X Academy - ETL Theory training session 2,Denis-Alexandru,Antonescu,Denis-Alexandru.Antonescu@endava.com,1.8144444444444445
-2,Dava.X Academy - ETL Theory training session 2,Daniel,Antoniu Dumitru,Daniel-Antoniu.Dumitru@endava.com,2.0052777777777777
-2,Dava.X Academy - ETL Theory training session 2,Alin,Constantin Florescu,Alin-Constantin.Florescu@endava.com,2.0055555555555555
-2,Dava.X Academy - ETL Theory training session 2,Alessia-Elena,Rados,Alessia-Elena.Rados@endava.com,2.0027777777777778
-2,Dava.X Academy - ETL Theory training session 2,Darius-Cristian,Gherle,Darius-Cristian.Gherle@endava.com,1.9930555555555556
-2,Dava.X Academy - ETL Theory training session 2,Ionut,Birsan,Ionut.Birsan@endava.com,2.003888888888889
-2,Dava.X Academy - ETL Theory training session 2,Eduard,Stefan Mariniuc,Eduard-Stefan.Mariniuc@endava.com,1.9822222222222223
-2,Dava.X Academy - ETL Theory training session 2,Flora,Balogh,Flora.Balogh@endava.com,1.9908333333333332
-2,Dava.X Academy - ETL Theory training session 2,Nicola-Diana,Sincaru,Nicola-Diana.Sincaru@endava.com,2.0016666666666665
-2,Dava.X Academy - ETL Theory training session 2,Nicolae,Vasile Veciunca,Nicolae-Vasile.Veciunca@endava.com,2.001388888888889
-2,Dava.X Academy - ETL Theory training session 2,Gabriel,Firisar,Gabriel.Firisar@endava.com,1.99
-2,Dava.X Academy - ETL Theory training session 2,Dan,Teodor Buzoianu,Dan-Teodor.Buzoianu@endava.com,1.995
-2,Dava.X Academy - ETL Theory training session 2,George,Iulian Stoian,George-Iulian.Stoian@endava.com,1.9894444444444443
-2,Dava.X Academy - ETL Theory training session 2,Zoltan,Balint,Zoltan.Balint2@endava.com,1.8441666666666667
-2,Dava.X Academy - ETL Theory training session 2,Anca,Elena Ilie,Anca-Elena.Ilie@endava.com,1.9961111111111112
-2,Dava.X Academy - ETL Theory training session 2,Iustin-Mihai,Stanciu,Iustin-Mihai.Stanciu@endava.com,1.9694444444444446
-2,Dava.X Academy - ETL Theory training session 2,Patricia,Costras,Patricia.Costras@endava.com,1.9916666666666667
-2,Dava.X Academy - ETL Theory training session 2,Robert,Catalin Franciuc,Robert-Catalin.Franciuc@endava.com,2.0025
-2,Dava.X Academy - ETL Theory training session 2,Stefan-Claudiu,Bulintis,Stefan-Claudiu.Bulintis@endava.com,1.9891666666666667
-2,Dava.X Academy - ETL Theory training session 2,Darius,Margarit,Darius.Margarit@endava.com,1.9991666666666668
-2,Dava.X Academy - ETL Theory training session 2,Cerasela,Nicola Soare,Cerasela-Nicola.Soare@endava.com,1.8691666666666666
-2,Dava.X Academy - ETL Theory training session 2,Cezara,Teofana Aprofirei,Cezara-Teofana.Aprofirei@endava.com,1.9772222222222222
-2,Dava.X Academy - ETL Theory training session 2,Irina,Vasilita,Irina.Vasilita@endava.com,1.9775
-2,Dava.X Academy - ETL Theory training session 2,Robert,Alexandru Badea,Robert-Alexandru.Badea@endava.com,1.9980555555555555
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Pestritu,Alexandru.Pestritu@endava.com,1.9902777777777778
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Andries,Andrei.Andries@endava.com,1.985
-2,Dava.X Academy - ETL Theory training session 2,Florina,Eugenia Hategan,Florina---Eugenia.Hategan@endava.com,1.996388888888889
-2,Dava.X Academy - ETL Theory training session 2,Denis,Ivan,Denis.Ivan@endava.com,2.069722222222222
-2,Dava.X Academy - ETL Theory training session 2,Andreea,Marina Son,Andreea-Marina.Son@endava.com,1.37
-2,Dava.X Academy - ETL Theory training session 2,Oana-Maria,Danciu,Oana-Maria.Danciu@endava.com,1.9844444444444445
-2,Dava.X Academy - ETL Theory training session 2,Tiberiu,Iatan,Tiberiu.Iatan@endava.com,1.84
-2,Dava.X Academy - ETL Theory training session 2,Rares,Stefan Cazan,Rares-Stefan.Cazan@endava.com,1.9930555555555556
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Catrinescu,Alexandru.Catrinescu@endava.com,1.9941666666666666
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Ionascu,Andrei.Ionascu@endava.com,1.513611111111111
-2,Dava.X Academy - ETL Theory training session 2,Delia,Tudor,Delia.Tudor@endava.com,1.991111111111111
-2,Dava.X Academy - ETL Theory training session 2,Mihai,Cristian Tabarcea,Mihai-Cristian.Tabarcea@endava.com,1.99
-2,Dava.X Academy - ETL Theory training session 2,Adrian,Vasile Vladescu,Adrian-Vasile.Vladescu@endava.com,2.0252777777777777
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Toma,Alexandru.Toma@endava.com,2.0027777777777778
-2,Dava.X Academy - ETL Theory training session 2,Tiberiu,Gabriel Suditu,Tiberiu-Gabriel.Suditu@endava.com,1.9947222222222223
-2,Dava.X Academy - ETL Theory training session 2,Matei,Micu,Matei-Mihai.Micu@endava.com,1.8091666666666666
-2,Dava.X Academy - ETL Theory training session 2,Tudor,Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,1.991111111111111
-2,Dava.X Academy - ETL Theory training session 2,Angel,David Palihovici,Angel-David.Palihovici@endava.com,1.6288888888888888
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Badulescu,Vlad.Badulescu@endava.com,1.9894444444444443
-2,Dava.X Academy - ETL Theory training session 2,Razvan,Niculae,razvan.niculae@endava.com,1.9897222222222222
-2,Dava.X Academy - ETL Theory training session 2,Robert,Cristian,Robert.Cristian@endava.com,2.3305555555555557
-2,Dava.X Academy - ETL Theory training session 2,Razvan,Azoitei,Razvan.Azoitei@endava.com,1.3244444444444445
-2,Dava.X Academy - ETL Theory training session 2,Filip,Craciun,Filip.Craciun@endava.com,1.9847222222222223
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Vataselu,Andrei.Vataselu@endava.com,1.9755555555555555
-2,Dava.X Academy - ETL Theory training session 2,Sabin,Chirila,Sabin.Chirila@endava.com,1.9758333333333333
-2,Dava.X Academy - ETL Theory training session 2,Bogdan,Gargu,Bogdan.Gargu@endava.com,1.99
-2,Dava.X Academy - ETL Theory training session 2,Denis-Mihai,Mateas,Denis-Mihai.Mateas@endava.com,1.9827777777777778
-2,Dava.X Academy - ETL Theory training session 2,Rares,Alexandru Iancu,Rares-Alexandru.Iancu@endava.com,1.7422222222222221
-2,Dava.X Academy - ETL Theory training session 2,Cristiana,Ioana Apastinei,Cristiana-Ioana.Apastinei@endava.com,1.9766666666666666
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Margelatu,Andrei.Margelatu@endava.com,1.986388888888889
-2,Dava.X Academy - ETL Theory training session 2,Rares,Ciprian Balan,Rares-Ciprian.Balan@endava.com,1.8191666666666666
-2,Dava.X Academy - ETL Theory training session 2,Manuel,Lazar,Manuel.Lazar@endava.com,1.9744444444444444
-2,Dava.X Academy - ETL Theory training session 2,Fabian,Iordache,Fabian.Iordache@endava.com,1.9861111111111112
-2,Dava.X Academy - ETL Theory training session 2,Theodor,Cristian Gheorghe,Theodor-Cristian.Gheorghe@endava.com,1.985
-2,Dava.X Academy - ETL Theory training session 2,Armin,Andrei Chanchian,Armin-Andrei.Chanchian@endava.com,1.9855555555555555
-2,Dava.X Academy - ETL Theory training session 2,George,Andrei Necula,George-Andrei.Necula@endava.com,1.9858333333333333
-2,Dava.X Academy - ETL Theory training session 2,Stefan,Nicolae Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,1.9805555555555556
-2,Dava.X Academy - ETL Theory training session 2,Mihai,Negrea,Mihai.Negrea@endava.com,2.251388888888889
-2,Dava.X Academy - ETL Theory training session 2,Maria,Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,1.9702777777777778
-2,Dava.X Academy - ETL Theory training session 2,Ioana,Alexa,Ioana.Alexa@endava.com,1.9822222222222223
-2,Dava.X Academy - ETL Theory training session 2,Matei,Tatar,Matei.Tatar@endava.com,1.9836111111111112
-2,Dava.X Academy - ETL Theory training session 2,Octavian,Paul Ilies,Octavian-Paul.Ilies@endava.com,1.9677777777777778
-2,Dava.X Academy - ETL Theory training session 2,Adrian,Matean,Adrian.Matean@endava.com,0.045
-2,Dava.X Academy - ETL Theory training session 2,Mihai,Maciuc,Mihai.Maciuc@endava.com,1.9761111111111112
-2,Dava.X Academy - ETL Theory training session 2,Mariana,Ionela Muntian,Mariana-Ionela.Muntian@endava.com,1.9702777777777778
-2,Dava.X Academy - ETL Theory training session 2,Felix,Cosmin Orga,Felix-Cosmin.Orga@endava.com,1.9683333333333333
-2,Dava.X Academy - ETL Theory training session 2,Silviu,Mihail Pavel,Silviu-Mihail.Pavel@endava.com,1.7561111111111112
-2,Dava.X Academy - ETL Theory training session 2,Luka,Popovici,Luka.Popovici@endava.com,1.9652777777777777
-2,Dava.X Academy - ETL Theory training session 2,Maria-Ioana,Fuerea,Maria-Ioana.Fuerea@endava.com,1.9533333333333334
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Munteanu,Alexandru.Munteanu@endava.com,2.026388888888889
-2,Dava.X Academy - ETL Theory training session 2,Laura,Andrada Ciobanu,Laura-Andrada.Ciobanu@endava.com,1.9661111111111111
-2,Dava.X Academy - ETL Theory training session 2,Florin,Nita,Florin.Nita@endava.com,1.9755555555555555
-2,Dava.X Academy - ETL Theory training session 2,Ana,Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,1.9733333333333334
-2,Dava.X Academy - ETL Theory training session 2,Robert-Cosmin,Tudorache,Robert-Cosmin.Tudorache@endava.com,1.9658333333333333
-2,Dava.X Academy - ETL Theory training session 2,Sabin,Andrei Popa,Sabin-Andrei.Popa@endava.com,1.7280555555555555
-2,Dava.X Academy - ETL Theory training session 2,Rares,Gabriel Margarint,Rares-Gabriel.Margarint@endava.com,1.9597222222222221
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,1.9613888888888888
-2,Dava.X Academy - ETL Theory training session 2,Madalina,Birtu,Madalina.Birtu@endava.com,1.968611111111111
-2,Dava.X Academy - ETL Theory training session 2,Daniela,Munteanu,Daniela.Munteanu@endava.com,1.965
-2,Dava.X Academy - ETL Theory training session 2,Irina,Morosanu,Irina.Morosanu@endava.com,1.9655555555555555
-2,Dava.X Academy - ETL Theory training session 2,Ioan,Agape,Ioan.Agape@endava.com,1.9647222222222223
-2,Dava.X Academy - ETL Theory training session 2,Iasmina,Pagu,Iasmina-Andra.Pagu@endava.com,1.9669444444444444
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,1.965
-2,Dava.X Academy - ETL Theory training session 2,Botond,Ors Solyom,Botond-Ors.Solyom@endava.com,1.9566666666666668
-2,Dava.X Academy - ETL Theory training session 2,Polina,Ciumac,Polina.Ciumac@endava.com,1.9655555555555555
-2,Dava.X Academy - ETL Theory training session 2,Mihnea,Amihailesei,Mihnea.Amihailesei@endava.com,1.9441666666666666
-2,Dava.X Academy - ETL Theory training session 2,Andreea,Grecu,Andreea.Grecu2@endava.com,1.8897222222222223
-2,Dava.X Academy - ETL Theory training session 2,Daniel,Kewin Chifa,Daniel-Kewin.Chifa@endava.com,1.9555555555555555
-2,Dava.X Academy - ETL Theory training session 2,Vlad-Stefan,Sas,Vlad-Stefan.Sas@endava.com,1.9638888888888888
-2,Dava.X Academy - ETL Theory training session 2,Denis,Roca,Denis.Roca@endava.com,1.9541666666666666
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Dumitru Ionita,Alex.Ionita@endava.com,1.9652777777777777
-2,Dava.X Academy - ETL Theory training session 2,Ilinca,Maria Popovici,Ilinca-Maria.Popovici@endava.com,1.9530555555555555
-2,Dava.X Academy - ETL Theory training session 2,Diandra,Fechita,Diandra.Fechita@endava.com,1.9522222222222223
-2,Dava.X Academy - ETL Theory training session 2,Adrian,Visan,Adrian.Visan@endava.com,1.9302777777777778
-2,Dava.X Academy - ETL Theory training session 2,Iuliana,Raluca Butnariu,Iuliana-Raluca.Butnariu@endava.com,1.9561111111111111
-2,Dava.X Academy - ETL Theory training session 2,Cornelia,Cojocari,Cornelia.Cojocari@endava.com,1.9419444444444445
-2,Dava.X Academy - ETL Theory training session 2,Sorin,Cristian Miron,Sorin-Cristian.Miron@endava.com,1.9630555555555556
-2,Dava.X Academy - ETL Theory training session 2,Tudor,Leonte,Tudor.Leonte@endava.com,1.9552777777777777
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Apostol,Andrei.Apostol@endava.com,1.9308333333333334
-2,Dava.X Academy - ETL Theory training session 2,Patric,Caliman,Patric.Caliman@endava.com,1.8041666666666667
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Tudor Grumazescu,Andrei-Tudor.Grumazescu@endava.com,1.9472222222222222
-2,Dava.X Academy - ETL Theory training session 2,Darius,Cosmin Vararean,Darius-Cosmin.Vararean@endava.com,1.9594444444444445
-2,Dava.X Academy - ETL Theory training session 2,Mihaly,Richard Teutsch,Mihaly-Richard.Teutsch@endava.com,1.9572222222222222
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Serban,Alexandru.Serban2@endava.com,1.951111111111111
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Cristian Grajdeanu,Alexandru-Cristian.Grajdeanu@endava.com,1.9222222222222223
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Zosin,Alexandru.Zosin@endava.com,1.9527777777777777
-2,Dava.X Academy - ETL Theory training session 2,Raluca,Roiban,Raluca.Roiban@endava.com,1.9380555555555556
-2,Dava.X Academy - ETL Theory training session 2,Anca,Vasilica Iacob,Anca-Vasilica.Iacob@endava.com,1.9419444444444445
-2,Dava.X Academy - ETL Theory training session 2,Csilla,Boglarka Nagy,Csilla-Boglarka.Nagy@endava.com,1.948611111111111
-2,Dava.X Academy - ETL Theory training session 2,Serafim,Uliuliuc,Serafim.Uliuliuc@endava.com,1.9413888888888888
-2,Dava.X Academy - ETL Theory training session 2,Denisa,Lutic,Denisa.Lutic@endava.com,1.9469444444444444
-2,Dava.X Academy - ETL Theory training session 2,Denisa,Ibanescu,Denisa.Ibanescu@endava.com,1.9475
-2,Dava.X Academy - ETL Theory training session 2,Stefania,Diana Stirbu,Stefania-Diana.Stirbu@endava.com,1.9466666666666668
-2,Dava.X Academy - ETL Theory training session 2,Liviu,Istrate,Liviu.Istrate2@endava.com,1.9477777777777778
-2,Dava.X Academy - ETL Theory training session 2,Madalina,Puia,Madalina.Puia@endava.com,1.95
-2,Dava.X Academy - ETL Theory training session 2,Andreea,Cacenschi,Andreea.Cacenschi@endava.com,1.4744444444444444
-2,Dava.X Academy - ETL Theory training session 2,Aron,Domokos Telegdy,Aron.Telegdy@endava.com,1.9372222222222222
-2,Dava.X Academy - ETL Theory training session 2,Radu,Branici,Radu.Branici@endava.com,1.9436111111111112
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Gabriel Cazan,Alexandru.Cazan@endava.com,1.9569444444444444
-2,Dava.X Academy - ETL Theory training session 2,Victor,Valentin Vladulescu,Victor-Valentin.Vladulescu@endava.com,1.6366666666666667
-2,Dava.X Academy - ETL Theory training session 2,Vlad,Cojocaru,Vlad.Cojocaru@endava.com,1.9491666666666667
-2,Dava.X Academy - ETL Theory training session 2,Mihai,Alexandru Militaru,Mihai-Alexandru.Militaru@endava.com,0.7238888888888889
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Edves,Alexandru.Edves@endava.com,1.8844444444444444
-2,Dava.X Academy - ETL Theory training session 2,Denisa,Maria Gorea,Denisa-Maria.Gorea@endava.com,1.5344444444444445
-2,Dava.X Academy - ETL Theory training session 2,George,Eduard Achiriloaei,George-Eduard.Achiriloaei@endava.com,1.9202777777777778
-2,Dava.X Academy - ETL Theory training session 2,Madalina,Demian,Madalina.Demian@endava.com,1.931111111111111
-2,Dava.X Academy - ETL Theory training session 2,Ioana,Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,1.9244444444444444
-2,Dava.X Academy - ETL Theory training session 2,Huba,Nemet,Huba.Nemet@endava.com,1.9344444444444444
-2,Dava.X Academy - ETL Theory training session 2,Andrei,Titus Pavel,andrei-titus.pavel@endava.com,1.9247222222222222
-2,Dava.X Academy - ETL Theory training session 2,Andrada,Maria Tinta,Andrada-Maria.Tinta@endava.com,1.9194444444444445
-2,Dava.X Academy - ETL Theory training session 2,Stefan,Cotos,Stefan.Cotos@endava.com,1.9222222222222223
-2,Dava.X Academy - ETL Theory training session 2,Mihnea,Daniel Popescu,Mihnea-Daniel.Popescu@endava.com,1.885
-2,Dava.X Academy - ETL Theory training session 2,Celia,Ciurchil-Giurgiu,Celia.Ciurchil@endava.com,1.9211111111111112
-2,Dava.X Academy - ETL Theory training session 2,Daria,Craciun,Daria.Craciun@endava.com,1.9083333333333334
-2,Dava.X Academy - ETL Theory training session 2,Raul,Birsan,Raul.Birsan@endava.com,1.9155555555555555
-2,Dava.X Academy - ETL Theory training session 2,George,Nicolae Botos,George-Nicolae.Botos@endava.com,1.7569444444444444
-2,Dava.X Academy - ETL Theory training session 2,Marius,Beschieru,Marius.Beschieru@endava.com,1.8988888888888888
-2,Dava.X Academy - ETL Theory training session 2,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,0.6005555555555555
-2,Dava.X Academy - ETL Theory training session 2,Catalin,Festeu,Catalin.Festeu@endava.com,1.7752777777777777
-2,Dava.X Academy - ETL Theory training session 2,Ioana,Alexia Popa,Ioana-Alexia.Popa@endava.com,1.9055555555555554
-2,Dava.X Academy - ETL Theory training session 2,Catalin,Ursu,Catalin.Ursu@endava.com,1.5975
-2,Dava.X Academy - ETL Theory training session 2,Bianca,Popescu,Bianca.Popescu@endava.com,1.5033333333333334
-2,Dava.X Academy - ETL Theory training session 2,Alexandru,Lazar,Alexandru.Lazar@endava.com,1.7322222222222223
-2,Dava.X Academy - ETL Theory training session 2,Maria,Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,1.85
-2,Dava.X Academy - ETL Theory training session 2,Rares,Agachi,Rares.Agachi@endava.com,0.6780555555555555
-2,Dava.X Academy - ETL Theory training session 2,Alin,Avram,Alin.Avram@endava.com,1.1713888888888888
-2,Dava.X Academy - ETL Theory training session 2,Stefan,Gabriel Verde,Stefan-Gabriel.Verde@endava.com,1.0308333333333333
-2,Dava.X Academy - ETL Theory training session 2,Laura,Rusanescu,Laura.Rusanescu@endava.com,1.4202777777777778
-2,Dava.X Academy - ETL Theory training session 2,Cosmin,Chirazi,Cosmin.Chirazi@endava.com,0.6736111111111112
-2,Dava.X Academy - ETL Theory training session 2,Stefan,Stescu,Stefan.Stescu@endava.com,1.1525
-2,Dava.X Academy - ETL Theory training session 2,Cosmin,Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,0.35583333333333333
+meeting_id,meeting_title,meeting_date,first_name,last_name,email,quantity
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alice,Tache,Alice.Tache@endava.com,1.7602777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Burlica,Alexandru.Burlica@endava.com,1.7466666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Emanuel,Luculescu,Emanuel.Luculescu@endava.com,1.7433333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Radu,Ioan Maris,Radu-Ioan.Maris@endava.com,1.7441666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daniel,Antoniu Dumitru,Daniel-Antoniu.Dumitru@endava.com,1.7444444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andreea,Grecu,Andreea.Grecu2@endava.com,1.7225
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Gabriela,Miruna Stan,Gabriela-Miruna.Stan@endava.com,1.9819444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Paul,Valentin Vela,Paul-Valentin.Vela@endava.com,1.5833333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandra,Simona Danca,Alexandra-Simona.Danca@endava.com,1.7419444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rares,Muresan,Rares.Muresan@endava.com,1.7430555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Florina,Eugenia Hategan,Florina---Eugenia.Hategan@endava.com,1.5994444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Darius,Cosmin Vararean,Darius-Cosmin.Vararean@endava.com,1.7455555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rares,Anton Brezeanu,Rares-Anton.Brezeanu@endava.com,1.603888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Radu,Nicolae,Radu-Mihai.Nicoale@endava.com,1.7402777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan,Gabriel Verde,Stefan-Gabriel.Verde@endava.com,1.5666666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan,Liute,Stefan.Liute@endava.com,1.9538888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cosmin-Nicusor,Brumariu,Cosmin-Nicusor.Brumariu@endava.com,1.74
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Arthur,Negosanu,Arthur.Negosanu@endava.com,1.7408333333333332
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Madalina,Puia,Madalina.Puia@endava.com,1.708888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Ionut Guriuc,Vlad-Ionut.Guriuc@endava.com,1.738611111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Sebastian,Cristian Sleam,Sebastian-Cristian.Sleam@endava.com,1.7377777777777779
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Margelatu,Andrei.Margelatu@endava.com,1.2933333333333332
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihnea,Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,1.738888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan,Tiberiu Paduraru,Stefan-Tiberiu.Paduraru@endava.com,1.7380555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ferdinand,Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,1.7344444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bianca,Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,1.7344444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Alexandru Gheorghe,Andrei-Alexandru.Gheorghe@endava.com,1.7338888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ioana,Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,1.7005555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Mihai Matei,Alexandru-Mihai.Matei@endava.com,1.6052777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Adelin,Andrei Fulop,Adelin-Andrei.Fulop@endava.com,1.5711111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Marcos,Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,1.7302777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Madalin Diaconu,Andrei-Madalin.Diaconu@endava.com,1.6358333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Sabin,Chirila,Sabin.Chirila@endava.com,1.7294444444444443
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Luisa,Yi Qing Yang,Luisa-Yi-Qing.Yang@endava.com,1.7241666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Andries,Andrei.Andries@endava.com,1.721111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Dan,Teodor Buzoianu,Dan-Teodor.Buzoianu@endava.com,1.5483333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Polina,Ciumac,Polina.Ciumac@endava.com,1.7208333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daniel,Rotaru,Daniel.Rotaru@endava.com,1.72
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Marian Armanu,Alexandru-Marian.Armanu@endava.com,1.7191666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihai,Alexandru Ionel,Mihai-Alexandru.Ionel@endava.com,1.5425
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ioana,Alexia Popa,Ioana-Alexia.Popa@endava.com,1.7138888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Sorin,Cristian Miron,Sorin-Cristian.Miron@endava.com,1.7136111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Ionascu,Andrei.Ionascu@endava.com,1.5522222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bogdan,Ionut Tibuleac,Bogdan-Ionut.Tibuleac@endava.com,1.7127777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Teodora,Maximiuc,Teodora.Maximiuc@endava.com,1.7116666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Sanda,Dobrenco,Sanda.Dobrenco@endava.com,1.6922222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandra,Elena Pitaru,Alexandra-Elena.Pitaru@endava.com,1.7047222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bogdan,Patrania,Bogdan.Patrania@endava.com,1.7013888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Catrinescu,Alexandru.Catrinescu@endava.com,1.6977777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Razvan,Dumitru,Razvan.Dumitru@endava.com,1.696388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Muresan,Vlad.Muresan3@endava.com,1.6961111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,1.5447222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Iasmina,Pagu,Iasmina-Andra.Pagu@endava.com,1.6908333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Madalina,Demian,Madalina.Demian@endava.com,1.2875
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Dumitru,Andrei Iroftei,Dumitru-Andrei.Iroftei@endava.com,1.6869444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Zosin,Alexandru.Zosin@endava.com,1.6866666666666668
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Gheorghe-Cristian,Terovan,Gheorghe-Cristian.Terovan@endava.com,1.5202777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cosmin,Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,1.686388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandra,Zamfir,Alexandra.Zamfir@endava.com,1.1188888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Costin,Manolescu,Costin.Manolescu@endava.com,1.6822222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Theodor,Cristian Gheorghe,Theodor-Cristian.Gheorghe@endava.com,1.6880555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Denis,Roca,Denis.Roca@endava.com,1.7227777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alex,Rares Roman,Alex-Rares.Roman@endava.com,1.6769444444444443
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Toma,Alexandru.Toma@endava.com,1.676111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Iulia,Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,1.6758333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Catalin,Ursu,Catalin.Ursu@endava.com,1.521388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Maria,Madalina Olaru,Maria-Madalina.Olaru@endava.com,1.6733333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,George,Stefan Bodogae,George-Stefan.Bodogae@endava.com,1.67
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Simona,Boicu,Simona.Boicu@endava.com,1.6705555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Timotei,Cristian Morar,Timotei-Cristian.Morar@endava.com,1.6688888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Silviu,Mihail Pavel,Silviu-Mihail.Pavel@endava.com,1.668611111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ana,Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,1.6672222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cristian,Ghiuta,Cristian.Ghiuta@endava.com,1.666111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Constantin,Voicu,Constantin.Voicu@endava.com,1.6652777777777779
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ioana,Botezatu,Ioana.Botezatu@endava.com,1.6622222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Razvan,Niculae,razvan.niculae@endava.com,1.6608333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Florin,Nita,Florin.Nita@endava.com,1.6130555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Octavian Minca,Andrei-Octavian.Minca@endava.com,1.091388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Liviu,Istrate,Liviu.Istrate2@endava.com,1.8919444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Mihnea,Andrei.Mihnea@endava.com,1.6533333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Robert-Cosmin,Tudorache,Robert-Cosmin.Tudorache@endava.com,1.6516666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daria,Lupu Dima,Daria.Lupu@endava.com,1.4897222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Denisa,Lutic,Denisa.Lutic@endava.com,1.6505555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Oana-Maria,Danciu,Oana-Maria.Danciu@endava.com,1.6491666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bogdan,Vasile Spilevoi,Bogdan-Vasile.Spilevoi@endava.com,1.5080555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Armin,Andrei Chanchian,Armin-Andrei.Chanchian@endava.com,1.5022222222222221
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cosmin,Chirazi,Cosmin.Chirazi@endava.com,1.4805555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Gabriel,Firisar,Gabriel.Firisar@endava.com,1.6441666666666668
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,David,Postolea,David.Postolea@endava.com,1.418611111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Tiberiu,Gabriel Suditu,Tiberiu-Gabriel.Suditu@endava.com,1.6397222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Denisa,Elena Stolniceanu,Denisa-Elena.Stolniceanu@endava.com,1.6394444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alina,Trincu,Alina.Trincu@endava.com,1.2375
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Adina,Denisa Horj,Adina-Denisa.Horj@endava.com,1.6358333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Darius,Fratila,Darius.Fratila@endava.com,1.6369444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Veronica,Caplea,Veronica.Caplea@endava.com,1.6352777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Tudor Grumazescu,Andrei-Tudor.Grumazescu@endava.com,1.3375
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,1.6308333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Reka,Katalin Darko,Reka-Katalin.Darko@endava.com,1.6288888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Delia,Tudor,Delia.Tudor@endava.com,1.6277777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Diandra,Fechita,Diandra.Fechita@endava.com,1.6269444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bogdan,Nicolae Cotta,Bogdan-Nicolae.Cotta@endava.com,1.6272222222222221
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Tudor,Mihai,Tudor.Mihai@endava.com,1.625
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Baranceanu,Vlad.Baranceanu@endava.com,1.6258333333333332
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Eric,Marian Dascalu,Eric-Marian.Dascalu@endava.com,1.6283333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,1.6255555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Eduard,George Stan,Eduard-George.Stan@endava.com,1.6263888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rafael,Ionut Stefanache,Rafael-Ionut.Stefanache@endava.com,1.2355555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Remus,Mihai Prodan,Remus-Mihai.Prodan@endava.com,1.6244444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,V Muresan,Vlad.Muresan2@endava.com,1.6233333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Patricia,Costras,Patricia.Costras@endava.com,1.6225
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Badulescu,Vlad.Badulescu@endava.com,1.2338888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Calin,Ciobanu,Calin.Ciobanu@endava.com,1.6188888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,L Popovici,Andrei.Popovici2@endava.com,1.618611111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daria,Alexia Irimie,Daria-Alexia.Irimie@endava.com,1.62
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan,Stescu,Stefan.Stescu@endava.com,1.6177777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ioana,Marc,Ioana.Marc2@endava.com,1.6172222222222221
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Topan-Farcau,Alexandru.Topan@endava.com,1.615
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daria,Craciun,Daria.Craciun@endava.com,1.6133333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andreea,Cront,Andreea.Cront@endava.com,1.6125
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrada,Maria Tinta,Andrada-Maria.Tinta@endava.com,1.6116666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Raul,Mihai Rusu,Raul-Mihai.Rusu@endava.com,1.6133333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Carmen-Gabriela,Nadragea,Carmen-Gabriela.Nadragea@endava.com,1.611388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Claudiu,Marinescu,Claudiu.Marinescu@endava.com,1.4605555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Gabriel,Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,1.6111111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Dumitru Ionita,Alex.Ionita@endava.com,1.6072222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Robert,Negre,Robert.Negre@endava.com,1.6097222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Dragos,Ionut Talaba,Dragos-Ionut.Talaba@endava.com,1.6066666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihai,Negrea,Mihai.Negrea@endava.com,1.6063888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Miruna,Curduman,Miruna.Curduman@endava.com,1.6044444444444443
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,1.6044444444444443
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Irina,Morosanu,Irina.Morosanu@endava.com,1.6033333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,George-Catalin,Ghiold,George-Catalin.Ghiold@endava.com,1.6027777777777779
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Luka,Popovici,Luka.Popovici@endava.com,1.8397222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Panainte,Alexandru.Panainte@endava.com,1.6019444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei-Alexandru,Midus,Andrei-Alexandru.Midus@endava.com,1.5997222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,George,Eduard Achiriloaei,George-Eduard.Achiriloaei@endava.com,1.4327777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ariana,Casandra Olaru,Ariana-Casandra.Olaru@endava.com,1.5944444444444446
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Raul,Gabriel Chiorean,Raul-Gabriel.Chiorean@endava.com,1.5955555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daniel-Ionel,Beg,Daniel-Ionel.Beg@endava.com,1.4494444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Cojocaru,Vlad.Cojocaru@endava.com,1.5944444444444446
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Cristian Brinzas,Vlad-Cristian.Brinzas@endava.com,1.593611111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Octavian,Cojocariu,Octavian.Cojocariu@endava.com,1.628611111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rodica,Elena Rosca,Rodica-Elena.Rosca@endava.com,1.5927777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andreea-Raluca,Neagu,Andreea-Raluca.Neagu@endava.com,1.5911111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Sergiu,Ungureanu,Sergiu.Ungureanu2@endava.com,1.5888888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Darius-Cristian,Gherle,Darius-Cristian.Gherle@endava.com,1.4483333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Anton,Calin Stroia,Anton-Calin.Stroia@endava.com,1.5447222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Darius,Dinu,Darius.Dinu@endava.com,1.5886111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,George Avram,Andrei-George.Avram@endava.com,1.5866666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Iuliana,Raluca Butnariu,Iuliana-Raluca.Butnariu@endava.com,1.4197222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Denis-Mihai,Mateas,Denis-Mihai.Mateas@endava.com,1.5855555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,George,Andrei Necula,George-Andrei.Necula@endava.com,1.5866666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daniela,Maria Pascan,Daniela-Maria.Pascan@endava.com,1.5863888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rares,Stefan Cazan,Rares-Stefan.Cazan@endava.com,1.5933333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Teodor,Leahu,Teodor.Leahu@endava.com,1.1883333333333332
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Denisa,Maria Gorea,Denisa-Maria.Gorea@endava.com,1.2805555555555554
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Virgil,Cimpean,Virgil.Cimpean@endava.com,1.583888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihnea-Alexandru,Pele,Mihnea-Alexandru.Pele@endava.com,1.1905555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Manuel,Lazar,Manuel.Lazar@endava.com,1.4308333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Alin Socoteala,Andrei-Alin.Socoteala@endava.com,1.5816666666666668
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Robert,Erno Eminovici,Robert-Erno.Eminovici@endava.com,1.5808333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihnea,Daniel Popescu,Mihnea-Daniel.Popescu@endava.com,1.4225
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Iustin-Mihai,Stanciu,Iustin-Mihai.Stanciu@endava.com,1.5822222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan,Daniel Ionita,StefanDaniel.Ionita@endava.com,1.5819444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Flora,Balogh,Flora.Balogh@endava.com,0.5305555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Adriana,Maria Vadean,Adriana-Maria.Vadean@endava.com,1.58
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Cinipa,Alexandru.Cinipa@endava.com,1.5780555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Fabian,Iordache,Fabian.Iordache@endava.com,1.5786111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Mirea,Alexandru.Mirea@endava.com,1.5769444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Robert,Cristian,Robert.Cristian@endava.com,1.576111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Nicola-Diana,Sincaru,Nicola-Diana.Sincaru@endava.com,1.5752777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,1.5419444444444443
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ioan,Sebastian Muresan,Ioan-Sebastian.Muresan@endava.com,1.5755555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ioan,Agape,Ioan.Agape@endava.com,1.5755555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Raluca,Roiban,Raluca.Roiban@endava.com,1.4436111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ana,Ciobanu,Ana.Ciobanu@endava.com,1.573888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alessia-Elena,Rados,Alessia-Elena.Rados@endava.com,1.5719444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rares,Ciprian Balan,Rares-Ciprian.Balan@endava.com,1.4111111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Lorena,Maria Buzea,Lorena-Maria.Buzea@endava.com,1.5702777777777779
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Robert-Viorel,Lazarov,Robert-Viorel.Lazarov@endava.com,1.5252777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Luigi,Emanuel Arama,Luigi-Emanuel.Arama@endava.com,1.5694444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Cristian Grajdeanu,Alexandru-Cristian.Grajdeanu@endava.com,1.5677777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mozes,Csaszar,Mozes.Csaszar@endava.com,1.5686111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Catalin,George Adrian Otet,Catalin-George-Adrian.Otet@endava.com,1.4091666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Eduard,Stefan Mariniuc,Eduard-Stefan.Mariniuc@endava.com,1.4013888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Valentin,Alexe,Valentin.Alexe@endava.com,1.5683333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Dragos,Badarau,Dragos.Badarau@endava.com,1.5683333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vasile,Tudorel Arion,Tudor.Arion@endava.com,1.5675
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vasile,Meghesan,Vasile.Meghesan@endava.com,1.5658333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rares,Gabriel Margarint,Rares-Gabriel.Margarint@endava.com,1.5633333333333332
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cerasela,Nicola Soare,Cerasela-Nicola.Soare@endava.com,1.7944444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Andrei Groza,Vlad-Andrei.Groza@endava.com,1.5658333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Denis,Ivan,Denis.Ivan@endava.com,1.5666666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Felix,Cosmin Orga,Felix-Cosmin.Orga@endava.com,1.5638888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ionut,Birsan,Ionut.Birsan@endava.com,1.5655555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Beniamin,Cioban,Beniamin.Cioban@endava.com,1.5644444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Radu,Branici,Radu.Branici@endava.com,1.5658333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan,Cotos,Stefan.Cotos@endava.com,1.5633333333333332
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad,Marian Pitariu,Vlad-Marian.Pitariu@endava.com,1.331388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Celia,Ciurchil-Giurgiu,Celia.Ciurchil@endava.com,1.5625
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Bogdan Aluculesei,Andrei-Bogdan.Aluculesei@endava.com,1.5616666666666668
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Lucian,Vatamanu,Lucian.Vatamanu@endava.com,1.5622222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Vlad-Stefan,Sas,Vlad-Stefan.Sas@endava.com,1.5622222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Lavinia,Avram,Lavinia.Avram@endava.com,1.521111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Silviu,Vasilica Luta,Silviu-Vasilica.Luta@endava.com,1.5605555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefania,Diana Stirbu,Stefania-Diana.Stirbu@endava.com,1.5611111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ionut,Popescu,Ionut.Popescu@endava.com,1.4719444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ionut,Vlad Cira,Ionut-Vlad.Cira@endava.com,1.5608333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Robert,Fedus,Robert.Fedus@endava.com,1.5608333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,George,Nicolae Botos,George-Nicolae.Botos@endava.com,1.4069444444444446
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Emanuela,Lupancu,Emanuela.Lupancu@endava.com,1.5591666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Titus Pavel,andrei-titus.pavel@endava.com,1.795
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Baba,Alexandru.Baba@endava.com,1.6966666666666668
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Gabriela,Casandra Pitu,Gabriela-Casandra.Pitu@endava.com,1.558888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Tudor,Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,1.5580555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Constantin,Bogdan Moga,Constantin-Bogdan.Moga@endava.com,1.5572222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Dragos,Vatra,Dragos.Vatra@endava.com,1.4122222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cristian,Valentin Alexa,Cristian-Valentin.Alexa@endava.com,1.5566666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Iuliana,Elena Rusu,Iuliana-Elena.Rusu@endava.com,1.553611111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Robert,Alexandru Badea,Robert-Alexandru.Badea@endava.com,1.555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihnea,Amihailesei,Mihnea.Amihailesei@endava.com,1.41
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Teodor,Badarcea,Teodor.Badarcea@endava.com,1.5527777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Serafim,Uliuliuc,Serafim.Uliuliuc@endava.com,1.5505555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ilinca,Maria Popovici,Ilinca-Maria.Popovici@endava.com,1.551388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Gabriel Cazan,Alexandru.Cazan@endava.com,1.5502777777777779
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Patric,Caliman,Patric.Caliman@endava.com,1.3891666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Victor,Valentin Vladulescu,Victor-Valentin.Vladulescu@endava.com,0.9894444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cornel,Adrian Pop,Cornel-Adrian.Pop@endava.com,1.5502777777777779
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Serban,Alexandru.Serban2@endava.com,1.55
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andreea,Maria Monete,Andreea-Maria.Monete@endava.com,0.9819444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,George,Patrasc,George.Patrasc@endava.com,1.2580555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daniel,Rosu,Daniel.Rosu@endava.com,1.5538888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Tudor,Leonte,Tudor.Leonte@endava.com,1.548888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rares,Dascalu,Rares.Dascalu@endava.com,1.3505555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Tudor Mirza,Andrei-Tudor.Mirza@endava.com,1.548888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rares,Alexandru Iancu,Rares-Alexandru.Iancu@endava.com,0.9461111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Laura,Rusanescu,Laura.Rusanescu@endava.com,1.5486111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Madalina,Daiana Gligan,Madalina-Daiana.Gligan@endava.com,1.5475
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cezara,Teofana Aprofirei,Cezara-Teofana.Aprofirei@endava.com,1.5458333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Maria,Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,1.5463888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Emma,Simina Muresan,Emma-Simina.Muresan@endava.com,1.5461111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cornelia,Cojocari,Cornelia.Cojocari@endava.com,1.545
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Zagan,Alexandru.Zagan@endava.com,1.5483333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Matei,Tatar,Matei.Tatar@endava.com,1.5455555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Sabin,Andrei Popa,Sabin-Andrei.Popa@endava.com,0.9547222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Laura,Andrada Ciobanu,Laura-Andrada.Ciobanu@endava.com,1.5444444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Darius,Margarit,Darius.Margarit@endava.com,1.5433333333333332
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Maria,Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,1.5427777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,George,Iulian Stoian,George-Iulian.Stoian@endava.com,1.5430555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Irina,Vasilita,Irina.Vasilita@endava.com,1.5430555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Adrian,Visan,Adrian.Visan@endava.com,1.3694444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Tudor,Muntean,Tudor.Muntean@endava.com,1.54
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Iulius,Stefan Ambros,Iulius-Stefan.Ambros@endava.com,1.5408333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Vataselu,Andrei.Vataselu@endava.com,1.5405555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,1.5391666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andrei,Apostol,Andrei.Apostol@endava.com,1.3777777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cosmin,Gabriel Mirea,Cosmin-Gabriel.Mirea@endava.com,1.5391666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bogdan,Gargu,Bogdan.Gargu@endava.com,1.3852777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Anca,Elena Ilie,Anca-Elena.Ilie@endava.com,1.5372222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,David,Serban,David.Serban@endava.com,1.5377777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bianca,Maria Lazar,Bianca-Maria.Lazar@endava.com,0.8725
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Tiberiu,Iatan,Tiberiu.Iatan@endava.com,1.5369444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Serban,Marian Precup,Serban-Marian.Precup@endava.com,1.1125
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Costina,Vanghele,Costina.Vanghele@endava.com,1.5352777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Matei,Micu,Matei-Mihai.Micu@endava.com,1.3891666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Duta,Alexandru.Duta2@endava.com,1.5341666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Adrian,Vasile Vladescu,Adrian-Vasile.Vladescu@endava.com,1.5347222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bogdan,Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,1.5655555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Madalina,Birtu,Madalina.Birtu@endava.com,1.3794444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Denisa,Ibanescu,Denisa.Ibanescu@endava.com,1.5322222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Sebastian,Popa,Sebastian.Popa2@endava.com,1.3627777777777779
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daniela,Munteanu,Daniela.Munteanu@endava.com,1.5322222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Nicolae,Vasile Veciunca,Nicolae-Vasile.Veciunca@endava.com,1.5325
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Catalin,Festeu,Catalin.Festeu@endava.com,1.531388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Tudor,Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,1.5316666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cosmin,Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,0.9738888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mirela-Magdalena,Catrina,Mirela-Magdalena.Catrina@endava.com,1.5291666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Adelina,Patlatii,Adelina.Patlatii@endava.com,1.5125
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Denis-Alexandru,Antonescu,Denis-Alexandru.Antonescu@endava.com,1.1205555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rafael,Andries,Rafael.Andries@endava.com,1.5275
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihaly,Richard Teutsch,Mihaly-Richard.Teutsch@endava.com,1.5283333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Edves,Alexandru.Edves@endava.com,1.385
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ruben,Daniel Pasca,Ruben-Daniel.Pasca@endava.com,1.5247222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Robert,Catalin Franciuc,Robert-Catalin.Franciuc@endava.com,1.5244444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Botond,Ors Solyom,Botond-Ors.Solyom@endava.com,1.5263888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan-Daniel,Ochian,Stefan-Daniel.Ochian@endava.com,1.368611111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rita,Timea Torok,Rita-Timea.Torok@endava.com,1.3816666666666666
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Gabriela-Sidonia,Ciontolac,Gabriela-Sidonia.Ciontolac@endava.com,1.7427777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Alin Potanga,Alexandru-Alin.Potanga@endava.com,1.5247222222222223
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Diana,Cristina Mocan,Diana-Cristina.Mocan@endava.com,1.308888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan-Claudiu,Bulintis,Stefan-Claudiu.Bulintis@endava.com,1.4455555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Octavian,Paul Ilies,Octavian-Paul.Ilies@endava.com,1.5225
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Razvan,Azoitei,Razvan.Azoitei@endava.com,1.2758333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Csilla,Boglarka Nagy,Csilla-Boglarka.Nagy@endava.com,1.5202777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cosmin,Felecanu,Cosmin.Felecanu@endava.com,1.3725
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Tiberiu,Rabi,Tiberiu.Rabi@endava.com,1.353888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihai,Maciuc,Mihai.Maciuc@endava.com,1.5180555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Pestritu,Alexandru.Pestritu@endava.com,1.5180555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Anca,Vasilica Iacob,Anca-Vasilica.Iacob@endava.com,1.5183333333333333
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Raluca,Elisa Butiurca,Raluca-Elisa.Butiurca@endava.com,1.5163888888888888
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Dragos,Alexandru Ion,Dragos-Alexandru.Ion@endava.com,1.5161111111111112
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ioana,Alexa,Ioana.Alexa@endava.com,1.3655555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Mihai,Alexandru Militaru,Mihai-Alexandru.Militaru@endava.com,1.1972222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Tarcan,Alexandru.Tarcan@endava.com,1.5119444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Sebastian,Ionel Filipovici,Sebastian-Ionel.Filipovici@endava.com,1.5122222222222221
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Filip,Craciun,Filip.Craciun@endava.com,1.3525
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Daniel,Kewin Chifa,Daniel-Kewin.Chifa@endava.com,1.511388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andreea,Marina Son,Andreea-Marina.Son@endava.com,1.5097222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Huba,Nemet,Huba.Nemet@endava.com,1.5080555555555555
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Radu,Ioan Stoica,Radu-Ioan.Stoica@endava.com,0.4963888888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Cosmin,Carp,Cosmin.Carp@endava.com,1.5041666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Laszlo,Carlos Fodor,Laszlo-Carlos.Fodor@endava.com,1.331388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Stefan,Nicolae Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,1.4905555555555556
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Aron,Domokos Telegdy,Aron.Telegdy@endava.com,1.5002777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alin,Avram,Alin.Avram@endava.com,1.1694444444444445
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Maria,Camelia Raicu,Maria-Camelia.Raicu@endava.com,1.4802777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Andreea,Gabriela Pop,Andreea-Gabriela.Pop@endava.com,1.4644444444444444
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Laurentiu,Fratila,Laurentiu.Fratila@endava.com,1.4480555555555557
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Maria-Ioana,Fuerea,Maria-Ioana.Fuerea@endava.com,1.2922222222222222
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Zoltan,Balint,Zoltan.Balint2@endava.com,1.4327777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alin,Constantin Florescu,Alin-Constantin.Florescu@endava.com,1.426388888888889
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Raul,Birsan,Raul.Birsan@endava.com,1.3927777777777777
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Angel,David Palihovici,Angel-David.Palihovici@endava.com,1.3766666666666667
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Ciprian,Serbu,Ciprian.Serbu@endava.com,0.36333333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Rares,Agachi,Rares.Agachi@endava.com,1.0725
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Bianca,Popescu,Bianca.Popescu@endava.com,1.0358333333333334
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Marius,Beschieru,Marius.Beschieru@endava.com,1.1536111111111111
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Noemi,Szidonia Szilagyi,Noemi-Szidonia.Csegezi@endava.com,0.3377777777777778
+1,Dava.X Academy - ETL Theory training session 1,2025-06-24,3.,In-Meeting Activities,,
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alice,Tache,Alice.Tache@endava.com,2.1530555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Virgil,Cimpean,Virgil.Cimpean@endava.com,2.1925
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ferdinand,Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,2.188888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan,Liute,Stefan.Liute@endava.com,2.1955555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Marian Pitariu,Vlad-Marian.Pitariu@endava.com,2.0844444444444443
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Simona,Boicu,Simona.Boicu@endava.com,2.191388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rares,Anton Brezeanu,Rares-Anton.Brezeanu@endava.com,1.8355555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Muresan,Vlad.Muresan3@endava.com,2.1805555555555554
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Bogdan,Patrania,Bogdan.Patrania@endava.com,2.178611111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Razvan,Petru Leonte,Razvan-Petru.Leonte@endava.com,2.1766666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daniela,Maria Pascan,Daniela-Maria.Pascan@endava.com,2.173888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cosmin-Nicusor,Brumariu,Cosmin-Nicusor.Brumariu@endava.com,2.1794444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rares,Muresan,Rares.Muresan@endava.com,2.513333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Anton,Calin Stroia,Anton-Calin.Stroia@endava.com,2.1544444444444446
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Radu,Nicolae,Radu-Mihai.Nicoale@endava.com,2.1533333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Mihai Matei,Alexandru-Mihai.Matei@endava.com,2.15
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ionut,Vlad Cira,Ionut-Vlad.Cira@endava.com,2.14
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andreea,Cront,Andreea.Cront@endava.com,2.141388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Arthur,Negosanu,Arthur.Negosanu@endava.com,2.1486111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei-Alexandru,Midus,Andrei-Alexandru.Midus@endava.com,2.136111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Carmen-Gabriela,Nadragea,Carmen-Gabriela.Nadragea@endava.com,2.1366666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rita,Timea Torok,Rita-Timea.Torok@endava.com,1.7213888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Octavian Minca,Andrei-Octavian.Minca@endava.com,2.0416666666666665
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Robert-Viorel,Lazarov,Robert-Viorel.Lazarov@endava.com,2.4341666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Zagan,Alexandru.Zagan@endava.com,2.1419444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Razvan,Dumitru,Razvan.Dumitru@endava.com,2.1325
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Topan-Farcau,Alexandru.Topan@endava.com,2.1180555555555554
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ariana,Casandra Olaru,Ariana-Casandra.Olaru@endava.com,2.112222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Dragos,Vatra,Dragos.Vatra@endava.com,2.106388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Marcos,Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,1.9
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Gabriela-Sidonia,Ciontolac,Gabriela-Sidonia.Ciontolac@endava.com,2.1133333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan,Tiberiu Paduraru,Stefan-Tiberiu.Paduraru@endava.com,2.107222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Bogdan,Vasile Spilevoi,Bogdan-Vasile.Spilevoi@endava.com,2.1080555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Gabriela,Miruna Stan,Gabriela-Miruna.Stan@endava.com,2.1038888888888887
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Sergiu,Ungureanu,Sergiu.Ungureanu2@endava.com,2.0494444444444446
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Burlica,Alexandru.Burlica@endava.com,2.102777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Radu,Ioan Stoica,Radu-Ioan.Stoica@endava.com,1.9872222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Lavinia,Avram,Lavinia.Avram@endava.com,1.9211111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Baba,Alexandru.Baba@endava.com,2.1016666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daniel,Rotaru,Daniel.Rotaru@endava.com,2.0922222222222224
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Adelina,Patlatii,Adelina.Patlatii@endava.com,2.091388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Bianca,Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,1.2438888888888888
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Ionut Guriuc,Vlad-Ionut.Guriuc@endava.com,2.0405555555555557
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Tudor,Mihai,Tudor.Mihai@endava.com,2.082222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,David,Serban,David.Serban@endava.com,2.093888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Petru,Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,2.0944444444444446
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Denisa,Elena Stolniceanu,Denisa-Elena.Stolniceanu@endava.com,0.9727777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Tarcan,Alexandru.Tarcan@endava.com,2.0930555555555554
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Calin,Ciobanu,Calin.Ciobanu@endava.com,2.0791666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Constantin,Voicu,Constantin.Voicu@endava.com,2.087222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Emma,Simina Muresan,Emma-Simina.Muresan@endava.com,2.0858333333333334
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Emanuela,Lupancu,Emanuela.Lupancu@endava.com,2.117777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Maria,Madalina Olaru,Maria-Madalina.Olaru@endava.com,2.080277777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cosmin,Felecanu,Cosmin.Felecanu@endava.com,2.0722222222222224
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mirela-Magdalena,Catrina,Mirela-Magdalena.Catrina@endava.com,2.0755555555555554
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Gabriela,Casandra Pitu,Gabriela-Casandra.Pitu@endava.com,2.08
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,George Avram,Andrei-George.Avram@endava.com,2.0316666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Sanda,Dobrenco,Sanda.Dobrenco@endava.com,2.0588888888888888
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Bogdan Aluculesei,Andrei-Bogdan.Aluculesei@endava.com,2.082222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandra,Zamfir,Alexandra.Zamfir@endava.com,2.062777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mircea,Stefan Pop,Mircea-Stefan.Pop@endava.com,1.505
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,George,Patrasc,George.Patrasc@endava.com,2.0633333333333335
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Bogdan,Ionut Tibuleac,Bogdan-Ionut.Tibuleac@endava.com,2.0780555555555558
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Dumitru,Andrei Iroftei,Dumitru-Andrei.Iroftei@endava.com,2.0613888888888887
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Paul,Valentin Vela,Paul-Valentin.Vela@endava.com,2.4155555555555557
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandra,Elena Pitaru,Alexandra-Elena.Pitaru@endava.com,2.1141666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihai-Alexandru,Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,2.0727777777777776
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Silviu,Vasilica Luta,Silviu-Vasilica.Luta@endava.com,2.0308333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Timotei,Cristian Morar,Timotei-Cristian.Morar@endava.com,2.0130555555555554
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Costina,Vanghele,Costina.Vanghele@endava.com,1.8516666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Veronica,Caplea,Veronica.Caplea@endava.com,2.057777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Radu,Ioan Maris,Radu-Ioan.Maris@endava.com,2.0830555555555557
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andreea,Gabriela Pop,Andreea-Gabriela.Pop@endava.com,2.055
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daria,Lupu Dima,Daria.Lupu@endava.com,1.441111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Remus,Mihai Prodan,Remus-Mihai.Prodan@endava.com,2.0580555555555557
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,George,Stefan Bodogae,George-Stefan.Bodogae@endava.com,2.0533333333333332
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rodica,Elena Rosca,Rodica-Elena.Rosca@endava.com,2.0502777777777776
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Octavian,Cojocariu,Octavian.Cojocariu@endava.com,2.0519444444444446
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Beniamin,Cioban,Beniamin.Cioban@endava.com,2.0594444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cornel,Adrian Pop,Cornel-Adrian.Pop@endava.com,2.053888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rafael,Ionut Stefanache,Rafael-Ionut.Stefanache@endava.com,2.007222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,L Popovici,Andrei.Popovici2@endava.com,1.9602777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alina,Trincu,Alina.Trincu@endava.com,1.8597222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandra,Simona Danca,Alexandra-Simona.Danca@endava.com,2.046388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Tudor Mirza,Andrei-Tudor.Mirza@endava.com,2.055277777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Madalina,Daiana Gligan,Madalina-Daiana.Gligan@endava.com,2.0555555555555554
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Iulia,Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,2.046388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Costin,Manolescu,Costin.Manolescu@endava.com,2.0541666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,2.0483333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Duta,Alexandru.Duta2@endava.com,2.055
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Lucian,Vatamanu,Lucian.Vatamanu@endava.com,2.0541666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Iulius,Stefan Ambros,Iulius-Stefan.Ambros@endava.com,2.046666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Sebastian,Popa,Sebastian.Popa2@endava.com,2.026666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vasile,Tudorel Arion,Tudor.Arion@endava.com,2.053611111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Adriana,Maria Vadean,Adriana-Maria.Vadean@endava.com,2.0519444444444446
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Andrei Groza,Vlad-Andrei.Groza@endava.com,2.042222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Madalin Diaconu,Andrei-Madalin.Diaconu@endava.com,2.0541666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Iuliana,Elena Rusu,Iuliana-Elena.Rusu@endava.com,2.048611111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Reka,Katalin Darko,Reka-Katalin.Darko@endava.com,2.0477777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Mihnea,Andrei.Mihnea@endava.com,2.0483333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Teodora,Maximiuc,Teodora.Maximiuc@endava.com,2.0413888888888887
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ionut,Popescu,Ionut.Popescu@endava.com,2.0169444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Laurentiu,Fratila,Laurentiu.Fratila@endava.com,2.0469444444444442
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Augustin,Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,2.0383333333333336
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cristian,Valentin Alexa,Cristian-Valentin.Alexa@endava.com,2.0458333333333334
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Adina,Denisa Horj,Adina-Denisa.Horj@endava.com,2.0369444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,George-Catalin,Ghiold,George-Catalin.Ghiold@endava.com,2.0405555555555557
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Mirea,Alexandru.Mirea@endava.com,2.0636111111111113
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andreea-Raluca,Neagu,Andreea-Raluca.Neagu@endava.com,2.0425
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ruben,Daniel Pasca,Ruben-Daniel.Pasca@endava.com,2.0416666666666665
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Sebastian,Cristian Sleam,Sebastian-Cristian.Sleam@endava.com,2.0308333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Raul,Mihai Rusu,Raul-Mihai.Rusu@endava.com,2.0408333333333335
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan,Daniel Ionita,StefanDaniel.Ionita@endava.com,1.5627777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Dragos,Maxim,Dragos.Maxim@endava.com,2.0344444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Serban,Marian Precup,Serban-Marian.Precup@endava.com,2.0383333333333336
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mozes,Csaszar,Mozes.Csaszar@endava.com,2.031111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan-Daniel,Ochian,Stefan-Daniel.Ochian@endava.com,2.037777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Gheorghe-Cristian,Terovan,Gheorghe-Cristian.Terovan@endava.com,2.031388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andra-Maria,Petcu,Andra-Maria.Petcu@endava.com,2.0344444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Gabriel,Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,1.9080555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Claudiu,Marinescu,Claudiu.Marinescu@endava.com,2.0297222222222224
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vasile,Meghesan,Vasile.Meghesan@endava.com,2.0205555555555557
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cristian,Ghiuta,Cristian.Ghiuta@endava.com,2.0308333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,V Muresan,Vlad.Muresan2@endava.com,2.028888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Eric,Marian Dascalu,Eric-Marian.Dascalu@endava.com,2.0275
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Constantin,Bogdan Moga,Constantin-Bogdan.Moga@endava.com,2.0305555555555554
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Luigi,Emanuel Arama,Luigi-Emanuel.Arama@endava.com,1.9175
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ana,Ciobanu,Ana.Ciobanu@endava.com,2.027222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Bogdan,Nicolae Cotta,Bogdan-Nicolae.Cotta@endava.com,2.022222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Alin Potanga,Alexandru-Alin.Potanga@endava.com,2.0255555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Darius,Fratila,Darius.Fratila@endava.com,2.0208333333333335
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andreea,Maria Monete,Andreea-Maria.Monete@endava.com,1.1575
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Valentin,Alexe,Valentin.Alexe@endava.com,2.024722222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Alin Socoteala,Andrei-Alin.Socoteala@endava.com,2.017777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Diana,Cristina Mocan,Diana-Cristina.Mocan@endava.com,2.0125
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alex,Rares Roman,Alex-Rares.Roman@endava.com,2.018611111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Dragos,Badarau,Dragos.Badarau@endava.com,2.017777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Teodor,Badarcea,Teodor.Badarcea@endava.com,2.013333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Marian Armanu,Alexandru-Marian.Armanu@endava.com,2.0077777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Eduard,George Stan,Eduard-George.Stan@endava.com,2.0147222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daniel-Ionel,Beg,Daniel-Ionel.Beg@endava.com,1.7127777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Laszlo,Carlos Fodor,Laszlo-Carlos.Fodor@endava.com,1.3038888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Cinipa,Alexandru.Cinipa@endava.com,2.0325
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Catalin,George Adrian Otet,Catalin-George-Adrian.Otet@endava.com,2.015833333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Camelia,Stoica,Camelia.Stoica@endava.com,2.0175
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rares,Dascalu,Rares.Dascalu@endava.com,1.7269444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihai,Alexandru Ionel,Mihai-Alexandru.Ionel@endava.com,2.013333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihnea-Alexandru,Pele,Mihnea-Alexandru.Pele@endava.com,2.0030555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Emanuel,Luculescu,Emanuel.Luculescu@endava.com,2.0097222222222224
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Panainte,Alexandru.Panainte@endava.com,2.006388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Tudor,Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,2.0027777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,David,Postolea,David.Postolea@endava.com,1.3827777777777779
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Robert,Negre,Robert.Negre@endava.com,2.016111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daria,Alexia Irimie,Daria-Alexia.Irimie@endava.com,2.0230555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Cristian Brinzas,Vlad-Cristian.Brinzas@endava.com,2.0011111111111113
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihnea,Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,2.0
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Luisa,Yi Qing Yang,Luisa-Yi-Qing.Yang@endava.com,1.9994444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Miruna,Curduman,Miruna.Curduman@endava.com,2.0094444444444446
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ioana,Marc,Ioana.Marc2@endava.com,2.004166666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rafael,Andries,Rafael.Andries@endava.com,2.01
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Robert,Erno Eminovici,Robert-Erno.Eminovici@endava.com,1.9983333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Alexandru Gheorghe,Andrei-Alexandru.Gheorghe@endava.com,2.0075
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Baranceanu,Vlad.Baranceanu@endava.com,0.8325
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Darius,Dinu,Darius.Dinu@endava.com,2.0055555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Denis-Alexandru,Antonescu,Denis-Alexandru.Antonescu@endava.com,1.8144444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daniel,Antoniu Dumitru,Daniel-Antoniu.Dumitru@endava.com,2.0052777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alin,Constantin Florescu,Alin-Constantin.Florescu@endava.com,2.0055555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alessia-Elena,Rados,Alessia-Elena.Rados@endava.com,2.0027777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Darius-Cristian,Gherle,Darius-Cristian.Gherle@endava.com,1.9930555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ionut,Birsan,Ionut.Birsan@endava.com,2.003888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Eduard,Stefan Mariniuc,Eduard-Stefan.Mariniuc@endava.com,1.9822222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Flora,Balogh,Flora.Balogh@endava.com,1.9908333333333332
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Nicola-Diana,Sincaru,Nicola-Diana.Sincaru@endava.com,2.0016666666666665
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Nicolae,Vasile Veciunca,Nicolae-Vasile.Veciunca@endava.com,2.001388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Gabriel,Firisar,Gabriel.Firisar@endava.com,1.99
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Dan,Teodor Buzoianu,Dan-Teodor.Buzoianu@endava.com,1.995
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,George,Iulian Stoian,George-Iulian.Stoian@endava.com,1.9894444444444443
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Zoltan,Balint,Zoltan.Balint2@endava.com,1.8441666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Anca,Elena Ilie,Anca-Elena.Ilie@endava.com,1.9961111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Iustin-Mihai,Stanciu,Iustin-Mihai.Stanciu@endava.com,1.9694444444444446
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Patricia,Costras,Patricia.Costras@endava.com,1.9916666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Robert,Catalin Franciuc,Robert-Catalin.Franciuc@endava.com,2.0025
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan-Claudiu,Bulintis,Stefan-Claudiu.Bulintis@endava.com,1.9891666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Darius,Margarit,Darius.Margarit@endava.com,1.9991666666666668
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cerasela,Nicola Soare,Cerasela-Nicola.Soare@endava.com,1.8691666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cezara,Teofana Aprofirei,Cezara-Teofana.Aprofirei@endava.com,1.9772222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Irina,Vasilita,Irina.Vasilita@endava.com,1.9775
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Robert,Alexandru Badea,Robert-Alexandru.Badea@endava.com,1.9980555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Pestritu,Alexandru.Pestritu@endava.com,1.9902777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Andries,Andrei.Andries@endava.com,1.985
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Florina,Eugenia Hategan,Florina---Eugenia.Hategan@endava.com,1.996388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Denis,Ivan,Denis.Ivan@endava.com,2.069722222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andreea,Marina Son,Andreea-Marina.Son@endava.com,1.37
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Oana-Maria,Danciu,Oana-Maria.Danciu@endava.com,1.9844444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Tiberiu,Iatan,Tiberiu.Iatan@endava.com,1.84
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rares,Stefan Cazan,Rares-Stefan.Cazan@endava.com,1.9930555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Catrinescu,Alexandru.Catrinescu@endava.com,1.9941666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Ionascu,Andrei.Ionascu@endava.com,1.513611111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Delia,Tudor,Delia.Tudor@endava.com,1.991111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihai,Cristian Tabarcea,Mihai-Cristian.Tabarcea@endava.com,1.99
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Adrian,Vasile Vladescu,Adrian-Vasile.Vladescu@endava.com,2.0252777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Toma,Alexandru.Toma@endava.com,2.0027777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Tiberiu,Gabriel Suditu,Tiberiu-Gabriel.Suditu@endava.com,1.9947222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Matei,Micu,Matei-Mihai.Micu@endava.com,1.8091666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Tudor,Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,1.991111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Angel,David Palihovici,Angel-David.Palihovici@endava.com,1.6288888888888888
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Badulescu,Vlad.Badulescu@endava.com,1.9894444444444443
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Razvan,Niculae,razvan.niculae@endava.com,1.9897222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Robert,Cristian,Robert.Cristian@endava.com,2.3305555555555557
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Razvan,Azoitei,Razvan.Azoitei@endava.com,1.3244444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Filip,Craciun,Filip.Craciun@endava.com,1.9847222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Vataselu,Andrei.Vataselu@endava.com,1.9755555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Sabin,Chirila,Sabin.Chirila@endava.com,1.9758333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Bogdan,Gargu,Bogdan.Gargu@endava.com,1.99
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Denis-Mihai,Mateas,Denis-Mihai.Mateas@endava.com,1.9827777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rares,Alexandru Iancu,Rares-Alexandru.Iancu@endava.com,1.7422222222222221
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cristiana,Ioana Apastinei,Cristiana-Ioana.Apastinei@endava.com,1.9766666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Margelatu,Andrei.Margelatu@endava.com,1.986388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rares,Ciprian Balan,Rares-Ciprian.Balan@endava.com,1.8191666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Manuel,Lazar,Manuel.Lazar@endava.com,1.9744444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Fabian,Iordache,Fabian.Iordache@endava.com,1.9861111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Theodor,Cristian Gheorghe,Theodor-Cristian.Gheorghe@endava.com,1.985
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Armin,Andrei Chanchian,Armin-Andrei.Chanchian@endava.com,1.9855555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,George,Andrei Necula,George-Andrei.Necula@endava.com,1.9858333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan,Nicolae Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,1.9805555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihai,Negrea,Mihai.Negrea@endava.com,2.251388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Maria,Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,1.9702777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ioana,Alexa,Ioana.Alexa@endava.com,1.9822222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Matei,Tatar,Matei.Tatar@endava.com,1.9836111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Octavian,Paul Ilies,Octavian-Paul.Ilies@endava.com,1.9677777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Adrian,Matean,Adrian.Matean@endava.com,0.045
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihai,Maciuc,Mihai.Maciuc@endava.com,1.9761111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mariana,Ionela Muntian,Mariana-Ionela.Muntian@endava.com,1.9702777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Felix,Cosmin Orga,Felix-Cosmin.Orga@endava.com,1.9683333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Silviu,Mihail Pavel,Silviu-Mihail.Pavel@endava.com,1.7561111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Luka,Popovici,Luka.Popovici@endava.com,1.9652777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Maria-Ioana,Fuerea,Maria-Ioana.Fuerea@endava.com,1.9533333333333334
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Munteanu,Alexandru.Munteanu@endava.com,2.026388888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Laura,Andrada Ciobanu,Laura-Andrada.Ciobanu@endava.com,1.9661111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Florin,Nita,Florin.Nita@endava.com,1.9755555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ana,Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,1.9733333333333334
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Robert-Cosmin,Tudorache,Robert-Cosmin.Tudorache@endava.com,1.9658333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Sabin,Andrei Popa,Sabin-Andrei.Popa@endava.com,1.7280555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rares,Gabriel Margarint,Rares-Gabriel.Margarint@endava.com,1.9597222222222221
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Bardasu,Alexandru.Bardasu@endava.com,1.9613888888888888
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Madalina,Birtu,Madalina.Birtu@endava.com,1.968611111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daniela,Munteanu,Daniela.Munteanu@endava.com,1.965
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Irina,Morosanu,Irina.Morosanu@endava.com,1.9655555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ioan,Agape,Ioan.Agape@endava.com,1.9647222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Iasmina,Pagu,Iasmina-Andra.Pagu@endava.com,1.9669444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Chelaru,Alexandru.Chelaru@endava.com,1.965
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Botond,Ors Solyom,Botond-Ors.Solyom@endava.com,1.9566666666666668
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Polina,Ciumac,Polina.Ciumac@endava.com,1.9655555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihnea,Amihailesei,Mihnea.Amihailesei@endava.com,1.9441666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andreea,Grecu,Andreea.Grecu2@endava.com,1.8897222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daniel,Kewin Chifa,Daniel-Kewin.Chifa@endava.com,1.9555555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad-Stefan,Sas,Vlad-Stefan.Sas@endava.com,1.9638888888888888
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Denis,Roca,Denis.Roca@endava.com,1.9541666666666666
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Dumitru Ionita,Alex.Ionita@endava.com,1.9652777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ilinca,Maria Popovici,Ilinca-Maria.Popovici@endava.com,1.9530555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Diandra,Fechita,Diandra.Fechita@endava.com,1.9522222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Adrian,Visan,Adrian.Visan@endava.com,1.9302777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Iuliana,Raluca Butnariu,Iuliana-Raluca.Butnariu@endava.com,1.9561111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cornelia,Cojocari,Cornelia.Cojocari@endava.com,1.9419444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Sorin,Cristian Miron,Sorin-Cristian.Miron@endava.com,1.9630555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Tudor,Leonte,Tudor.Leonte@endava.com,1.9552777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Apostol,Andrei.Apostol@endava.com,1.9308333333333334
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Patric,Caliman,Patric.Caliman@endava.com,1.8041666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Tudor Grumazescu,Andrei-Tudor.Grumazescu@endava.com,1.9472222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Darius,Cosmin Vararean,Darius-Cosmin.Vararean@endava.com,1.9594444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihaly,Richard Teutsch,Mihaly-Richard.Teutsch@endava.com,1.9572222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Serban,Alexandru.Serban2@endava.com,1.951111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Cristian Grajdeanu,Alexandru-Cristian.Grajdeanu@endava.com,1.9222222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Zosin,Alexandru.Zosin@endava.com,1.9527777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Raluca,Roiban,Raluca.Roiban@endava.com,1.9380555555555556
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Anca,Vasilica Iacob,Anca-Vasilica.Iacob@endava.com,1.9419444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Csilla,Boglarka Nagy,Csilla-Boglarka.Nagy@endava.com,1.948611111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Serafim,Uliuliuc,Serafim.Uliuliuc@endava.com,1.9413888888888888
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Denisa,Lutic,Denisa.Lutic@endava.com,1.9469444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Denisa,Ibanescu,Denisa.Ibanescu@endava.com,1.9475
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefania,Diana Stirbu,Stefania-Diana.Stirbu@endava.com,1.9466666666666668
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Liviu,Istrate,Liviu.Istrate2@endava.com,1.9477777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Madalina,Puia,Madalina.Puia@endava.com,1.95
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andreea,Cacenschi,Andreea.Cacenschi@endava.com,1.4744444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Aron,Domokos Telegdy,Aron.Telegdy@endava.com,1.9372222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Radu,Branici,Radu.Branici@endava.com,1.9436111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Gabriel Cazan,Alexandru.Cazan@endava.com,1.9569444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Victor,Valentin Vladulescu,Victor-Valentin.Vladulescu@endava.com,1.6366666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Vlad,Cojocaru,Vlad.Cojocaru@endava.com,1.9491666666666667
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihai,Alexandru Militaru,Mihai-Alexandru.Militaru@endava.com,0.7238888888888889
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Edves,Alexandru.Edves@endava.com,1.8844444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Denisa,Maria Gorea,Denisa-Maria.Gorea@endava.com,1.5344444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,George,Eduard Achiriloaei,George-Eduard.Achiriloaei@endava.com,1.9202777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Madalina,Demian,Madalina.Demian@endava.com,1.931111111111111
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ioana,Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,1.9244444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Huba,Nemet,Huba.Nemet@endava.com,1.9344444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrei,Titus Pavel,andrei-titus.pavel@endava.com,1.9247222222222222
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Andrada,Maria Tinta,Andrada-Maria.Tinta@endava.com,1.9194444444444445
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan,Cotos,Stefan.Cotos@endava.com,1.9222222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Mihnea,Daniel Popescu,Mihnea-Daniel.Popescu@endava.com,1.885
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Celia,Ciurchil-Giurgiu,Celia.Ciurchil@endava.com,1.9211111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Daria,Craciun,Daria.Craciun@endava.com,1.9083333333333334
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Raul,Birsan,Raul.Birsan@endava.com,1.9155555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,George,Nicolae Botos,George-Nicolae.Botos@endava.com,1.7569444444444444
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Marius,Beschieru,Marius.Beschieru@endava.com,1.8988888888888888
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Adina,Gheorghevici,Adina.Gheorghevici@endava.com,0.6005555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Catalin,Festeu,Catalin.Festeu@endava.com,1.7752777777777777
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Ioana,Alexia Popa,Ioana-Alexia.Popa@endava.com,1.9055555555555554
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Catalin,Ursu,Catalin.Ursu@endava.com,1.5975
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Bianca,Popescu,Bianca.Popescu@endava.com,1.5033333333333334
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alexandru,Lazar,Alexandru.Lazar@endava.com,1.7322222222222223
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Maria,Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,1.85
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Rares,Agachi,Rares.Agachi@endava.com,0.6780555555555555
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Alin,Avram,Alin.Avram@endava.com,1.1713888888888888
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan,Gabriel Verde,Stefan-Gabriel.Verde@endava.com,1.0308333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Laura,Rusanescu,Laura.Rusanescu@endava.com,1.4202777777777778
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cosmin,Chirazi,Cosmin.Chirazi@endava.com,0.6736111111111112
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Stefan,Stescu,Stefan.Stescu@endava.com,1.1525
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,Cosmin,Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,0.35583333333333333
+2,Dava.X Academy - ETL Theory training session 2,2025-06-26,3.,In-Meeting Activities,,
