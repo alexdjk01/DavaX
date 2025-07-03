@@ -1,0 +1,112 @@
+last_name,first_name,subject,start_date,start_time,end_date,end_time,all_day_event
+Gheorghiu,Stefan Nicolae,UL,2025-05-29,12:00:00 PM,2025-05-29,3:00:00 PM,False
+Brezeanu,Rares Anton,UL,2025-06-06,5:00:00 PM,2025-06-06,7:00:00 PM,False
+Brezeanu,Rares Anton,UL,2025-06-10,1:00:00 PM,2025-06-10,3:00:00 PM,False
+Brezeanu,Rares Anton,UL,2025-06-13,1:00:00 PM,2025-06-13,3:00:00 PM,False
+Haliga,Daniela,UL,2025-05-27,7:00:00 PM,2025-05-27,9:00:00 PM,False
+Avram,Alin,UL,2025-05-29,2:40:00 PM,2025-05-29,6:00:00 PM,False
+Avram,Alin,UL,2025-06-02,2:00:00 PM,2025-06-02,3:40:00 PM,False
+Avram,Alin,UL,2025-06-03,12:00:00 PM,2025-06-03,1:00:00 PM,False
+Gheorghiu,Stefan Nicolae,UL,2025-06-02,4:30:00 PM,2025-06-02,6:00:00 PM,False
+Avram,Alin,UL,2025-06-10,7:00:00 PM,2025-06-10,9:00:00 PM,False
+Avram,Alin,UL,2025-06-13,7:30:00 PM,2025-06-13,9:30:00 PM,False
+Avram,Alin,UL,2025-06-17,1:30:00 PM,2025-06-17,3:30:00 PM,False
+Gheorghiu,Stefan Nicolae,UL,2025-06-06,3:00:00 PM,2025-06-06,4:30:00 PM,False
+Avram,Alin,UL,2025-06-20,1:30:00 PM,2025-06-20,3:30:00 PM,False
+Gheorghiu,Stefan Nicolae,UL,2025-06-13,4:30:00 PM,2025-06-13,6:30:00 PM,False
+Gheorghiu,Stefan Nicolae,UL,2025-06-16,12:00:00 PM,2025-06-16,2:00:00 PM,False
+Trincu,Alina,UL,2025-05-28,1:00:00 PM,2025-05-28,6:00:00 PM,False
+Trincu,Alina,UL,2025-05-29,3:30:00 PM,2025-05-29,6:30:00 PM,False
+Boicu,Simona,UL,2025-06-10,8:00:00 PM,2025-06-10,10:30:00 PM,False
+Chirazi,Cosmin,UL,2025-05-28,1:00:00 PM,2025-05-28,5:30:00 PM,False
+Dumitru,Razvan,UL,2025-05-28,1:00:00 PM,2025-05-28,4:15:00 PM,False
+Minca,Andrei Octavian,UL,2025-05-28,2:00:00 PM,2025-05-28,5:30:00 PM,False
+Margelatu,Andrei,UL,2025-05-28,4:30:00 PM,2025-05-28,7:30:00 PM,False
+Margelatu,Andrei,UL,2025-05-28,7:30:00 PM,2025-05-28,9:00:00 PM,False
+Boicu,Simona,UL,2025-06-13,8:00:00 PM,2025-06-13,10:30:00 PM,False
+Boicu,Simona,UL,2025-06-16,8:00:00 PM,2025-06-16,10:30:00 PM,False
+Boicu,Simona,UL,2025-06-18,8:00:00 PM,2025-06-18,10:30:00 PM,False
+Boicu,Simona,UL,2025-06-25,8:00:00 PM,2025-06-25,10:30:00 PM,False
+Manolescu,Costin,UL,2025-05-28,7:00:00 PM,2025-05-28,9:00:00 PM,False
+Postolea,David,UL,2025-05-29,10:30:00 AM,2025-05-29,12:00:00 PM,False
+Stan,Eduard George,UL,2025-05-29,4:00:00 PM,2025-05-29,5:00:00 PM,False
+Postolea,David,UL,2025-05-29,1:30:00 PM,2025-05-29,3:30:00 PM,False
+Leahu,Teodor,UL,2025-06-04,8:30:00 PM,2025-06-04,11:30:00 PM,False
+Leahu,Teodor,UL,2025-06-11,12:30:00 PM,2025-06-11,3:30:00 PM,False
+Leahu,Teodor,UL,2025-06-13,12:30:00 PM,2025-06-13,3:30:00 PM,False
+Leahu,Teodor,UL,2025-06-16,2:30:00 PM,2025-06-16,5:30:00 PM,False
+Leahu,Teodor,UL,2025-06-17,11:30:00 AM,2025-06-17,2:30:00 PM,False
+Leahu,Teodor,UL,2025-06-19,1:30:00 PM,2025-06-19,5:30:00 PM,False
+Leahu,Teodor,UL,2025-06-03,2:30:00 PM,2025-06-03,5:30:00 PM,False
+Badea,Robert Alexandru,UL,2025-05-29,2:30:00 PM,2025-05-29,5:30:00 PM,False
+Badea,Robert Alexandru,UL,2025-06-05,6:00:00 PM,2025-06-05,9:00:00 PM,False
+Margelatu,Andrei,UL,2025-05-29,4:00:00 PM,2025-05-29,6:00:00 PM,False
+Iancu,Rares Alexandru,UL,2025-06-23,12:00:00 PM,2025-06-23,1:00:00 PM,False
+Iancu,Rares Alexandru,UL,2025-06-30,11:30:00 AM,2025-06-30,3:30:00 PM,False
+Minca,Andrei Octavian,UL,2025-05-29,6:00:00 PM,2025-05-29,9:00:00 PM,False
+Zamfir,Alexandra,UL,2025-06-18,11:00:00 AM,2025-06-18,2:00:00 PM,False
+Cacenschi,Andreea,UL,2025-06-04,3:00:00 PM,2025-06-04,5:00:00 PM,False
+Ionascu,Andrei,UL,2025-06-11,9:30:00 AM,2025-06-11,12:30:00 PM,False
+Ionascu,Andrei,UL,2025-06-13,9:30:00 AM,2025-06-13,1:30:00 PM,False
+Ionascu,Andrei,UL,2025-06-16,11:30:00 AM,2025-06-16,3:30:00 PM,False
+Ionascu,Andrei,UL,2025-06-17,1:00:00 PM,2025-06-17,3:00:00 PM,False
+Ionascu,Andrei,UL,2025-06-02,8:35:00 AM,2025-06-02,9:05:00 AM,False
+Ionascu,Andrei,UL,2025-06-19,10:30:00 AM,2025-06-19,2:30:00 PM,False
+Boicu,Simona,UL,2025-06-10,1:30:00 PM,2025-06-10,4:00:00 PM,False
+Iancu,Rares Alexandru,UL,2025-06-19,2:30:00 PM,2025-06-19,6:30:00 PM,False
+Tudor,Delia,UL,2025-06-03,4:30:00 PM,2025-06-03,7:30:00 PM,False
+Visan,Adrian,UL,2025-06-06,7:00:00 PM,2025-06-06,8:00:00 PM,False
+Postolea,David,UL,2025-06-06,3:00:00 PM,2025-06-06,5:00:00 PM,False
+Postolea,David,UL,2025-06-10,7:00:00 PM,2025-06-10,9:00:00 PM,False
+Postolea,David,UL,2025-06-13,4:30:00 PM,2025-06-13,6:30:00 PM,False
+Postolea,David,UL,2025-06-16,12:00:00 PM,2025-06-16,2:00:00 PM,False
+Postolea,David,UL,2025-06-21,1:30:00 PM,2025-06-21,3:30:00 PM,False
+Postolea,David,UL,2025-06-05,12:00:00 PM,2025-06-05,1:30:00 PM,False
+Margelatu,Andrei,UL,2025-06-06,7:00:00 PM,2025-06-06,9:00:00 PM,False
+Toma,Alexandru,UL,2025-06-03,8:20:00 PM,2025-06-03,9:30:00 PM,False
+Visan,Adrian,UL,2025-06-10,7:00:00 PM,2025-06-10,9:00:00 PM,False
+Dumitru,Razvan,UL,2025-06-05,1:00:00 PM,2025-06-05,5:00:00 PM,False
+Iatan,Tiberiu,UL,2025-06-04,12:00:00 PM,2025-06-04,2:00:00 PM,False
+Iatan,Tiberiu,UL,2025-06-04,2:00:00 PM,2025-06-04,4:00:00 PM,False
+Militaru,Mihai Alexandru,UL,2025-06-04,11:00:00 AM,2025-06-04,4:00:00 PM,False
+Alexa,Cristian Valentin,UL,2025-06-04,7:30:00 PM,2025-06-04,9:00:00 PM,False
+Visan,Adrian,UL,2025-06-13,12:00:00 PM,2025-06-13,2:00:00 PM,False
+Son,Andreea Marina,UL,2025-06-06,7:00:00 PM,2025-06-06,9:00:00 PM,False
+Dumitru,Razvan,UL,2025-06-10,2:00:00 PM,2025-06-10,6:00:00 PM,False
+Dumitru,Razvan,UL,2025-06-11,4:00:00 PM,2025-06-11,6:00:00 PM,False
+Chirazi,Cosmin,UL,2025-06-10,11:00:00 AM,2025-06-10,3:00:00 PM,False
+Mirea,Alexandru,UL,2025-06-10,1:00:00 PM,2025-06-10,3:00:00 PM,False
+Badea,Robert Alexandru,UL,2025-06-10,4:00:00 PM,2025-06-10,7:00:00 PM,False
+Chiorean,Raul Gabriel,UL,2025-06-13,8:00:00 AM,2025-06-13,12:00:00 PM,False
+Pascan,Daniela Maria,UL,2025-07-01,12:00:00 AM,2025-07-02,12:00:00 AM,True
+Chirazi,Cosmin,UL,2025-06-12,12:00:00 PM,2025-06-12,3:00:00 PM,False
+Ilie,Anca Elena,UL,2025-06-17,2:30:00 PM,2025-06-17,3:30:00 PM,False
+Iatan,Tiberiu,UL,2025-06-13,6:00:00 PM,2025-06-13,9:00:00 PM,False
+Mirea,Alexandru,UL,2025-06-13,11:00:00 AM,2025-06-13,1:00:00 PM,False
+Gheorghe,Andrei Alexandru,UL,2025-06-16,2:00:00 PM,2025-06-16,4:00:00 PM,False
+Tudor,Delia,UL,2025-06-16,7:30:00 PM,2025-06-16,8:00:00 PM,False
+Militaru,Mihai Alexandru,UL,2025-06-17,12:00:00 PM,2025-06-17,3:00:00 PM,False
+Militaru,Mihai Alexandru,UL,2025-06-19,8:00:00 PM,2025-06-19,11:00:00 PM,False
+Visan,Adrian,UL,2025-06-17,12:00:00 PM,2025-06-17,2:00:00 PM,False
+Visan,Adrian,UL,2025-06-20,12:00:00 PM,2025-06-20,2:00:00 PM,False
+Chiorean,Raul Gabriel,UL,2025-06-18,3:00:00 PM,2025-06-18,6:00:00 PM,False
+Chiorean,Raul Gabriel,UL,2025-06-23,10:00:00 AM,2025-06-23,2:00:00 PM,False
+Iatan,Tiberiu,UL,2025-06-19,3:00:00 PM,2025-06-19,6:00:00 PM,False
+Manolescu,Costin,UL,2025-06-23,6:00:00 PM,2025-06-23,8:00:00 PM,False
+Mirea,Alexandru,UL,2025-06-23,7:00:00 PM,2025-06-23,9:00:00 PM,False
+Popescu,Bianca,UL,2025-07-01,12:00:00 PM,2025-07-01,4:30:00 PM,False
+Badea,Robert Alexandru,UL,2025-06-23,5:00:00 PM,2025-06-23,7:30:00 PM,False
+Ilie,Anca Elena,UL,2025-06-26,12:00:00 PM,2025-06-26,2:00:00 PM,False
+Cojocaru,Andreea,UL,2025-05-30,12:00:00 AM,2025-06-02,12:00:00 AM,True
+Cojocaru,Andreea,AL,2025-06-18,12:00:00 AM,2025-06-24,12:00:00 AM,True
+Trincu,Alina,UL,2025-06-27,12:00:00 AM,2025-06-28,12:00:00 AM,True
+Mirea,Cosmin Gabriel,AL,2025-06-27,12:00:00 AM,2025-06-28,12:00:00 AM,True
+Iatan,Tiberiu,AL,2025-06-25,12:00:00 AM,2025-06-26,12:00:00 AM,True
+Cacenschi,Andreea,UL,2025-06-05,6:00:00 PM,2025-06-05,8:00:00 PM,False
+Cacenschi,Andreea,UL,2025-06-10,12:00:00 PM,2025-06-10,2:00:00 PM,False
+Cacenschi,Andreea,UL,2025-06-12,1:00:00 PM,2025-06-12,4:00:00 PM,False
+Margelatu,Andrei,UL,2025-06-13,3:30:00 PM,2025-06-13,6:30:00 PM,False
+Margelatu,Andrei,UL,2025-06-17,3:00:00 PM,2025-06-17,6:00:00 PM,False
+Margelatu,Andrei,UL,2025-06-23,6:30:00 PM,2025-06-23,8:30:00 PM,False
+Margelatu,Andrei,UL,2025-06-24,6:30:00 PM,2025-06-24,8:30:00 PM,False
+Cacenschi,Andreea,UL,2025-06-24,4:00:00 PM,2025-06-24,6:00:00 PM,False

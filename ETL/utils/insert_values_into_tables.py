@@ -1,3 +1,6 @@
+import os
+import pandas as pd
+
 from datetime import datetime, timedelta
 
 from utils.utils import Utils
@@ -7,9 +10,8 @@ class InsertValuesIntoTables:
     """
     Class to handle the insertion of values into database tables.
     """
-
     @staticmethod
-    def populate_date_table():
+    def populate_dim_date_table():
         """
             Generates a SQL statement to populate a date dimension table with dates.
 
@@ -42,3 +44,77 @@ class InsertValuesIntoTables:
             current_date += timedelta(days=1)
 
         return data_values
+
+    @staticmethod
+    def insert_values_into_source_tables(cursor):
+        """
+        Inserts values into a specified source table using a cursor.
+
+        :param cursor: An Oracle database cursor to execute SQL commands.
+        :param table_name: The name of the table to insert data into.
+        """
+        pontaj_path = os.path.join(os.getcwd(), "files", "source_timesheet_pontaj.csv")
+        timesheet_absences_path = os.path.join(os.getcwd(), "files", "source_timesheet_absences.csv")
+        confluence_absences_path = os.path.join(os.getcwd(), "files", "source_confluence_absences.csv")
+
+        pontaj_data = Utils.process_csv(pontaj_path)
+        absences_data = Utils.process_csv(timesheet_absences_path)
+
+        confluence_absences_df = pd.read_csv(confluence_absences_path)
+
+        # merge start_date start_time into one timestamp. Same for end time and date
+        confluence_absences_df["start_timestamp"] = pd.to_datetime(
+            confluence_absences_df["start_date"] + " " + confluence_absences_df["start_time"],
+            format="%Y-%m-%d %I:%M:%S %p"  # 12-hour format with AM/PM
+        )
+        confluence_absences_df["end_timestamp"] = pd.to_datetime(
+            confluence_absences_df["end_date"] + " " + confluence_absences_df["end_time"],
+            format="%Y-%m-%d %I:%M:%S %p"
+        )
+
+        # add a calculated column quantity that calculates the difference between start and end time timestamp
+        confluence_absences_df["quantity"] = \
+            round((confluence_absences_df["end_timestamp"] - confluence_absences_df["start_timestamp"]).dt.total_seconds() / 3600, 2)
+
+        # --- Step 2: Insert data
+        insert_pontaj = """
+        INSERT INTO src_timesheet_pontaj (
+            first_name, last_name, email, project_name, current_date, quantity
+        ) VALUES (
+            :1, :2, :3, :4, :5, :6
+        )
+        """
+        cursor.execute("TRUNCATE TABLE src_timesheet_pontaj")
+        cursor.executemany(insert_pontaj, pontaj_data)
+        print(f"Inserted {cursor.rowcount} records into src_timesheet_pontaj")
+        # ===========================================================
+        insert_absences = """
+        INSERT INTO src_timesheet_absences (
+            first_name, last_name, email, absence_type, current_date, quantity
+        ) VALUES (
+            :1, :2, :3, :4, :5, :6
+        )
+        """
+        cursor.execute("TRUNCATE TABLE src_timesheet_absences")
+        cursor.executemany(insert_absences, absences_data)
+        print(f"Inserted {cursor.rowcount} records into src_timesheet_absences")
+        # ===========================================================
+        insert_confluence_absences = """
+        INSERT INTO src_confluence_absences (
+            last_name, first_name, absence_type, start_time, end_time, all_day_event, quantity
+        ) VALUES (
+            :1, :2, :3, :4, :5, :6, :7
+        )
+        """
+        # -- rename subject to absence_type as in the database table
+        if "subject" in confluence_absences_df.columns:
+            confluence_absences_df = confluence_absences_df.rename(columns={"subject": "absence_type"})
+        # -- ensure proper values to bo inserted into oracle db
+        confluence_absences_df["quantity"] = confluence_absences_df["quantity"].astype(int)
+        print(confluence_absences_df)
+        data_to_insert = list(confluence_absences_df[["last_name", "first_name", "absence_type","start_timestamp", "end_timestamp", "all_day_event", "quantity"]].itertuples(index=False, name=None))
+        cursor.execute("TRUNCATE TABLE src_confluence_absences")
+        cursor.executemany(insert_confluence_absences, data_to_insert)
+        print(f"Inserted {cursor.rowcount} records into src_confluence_absences")
+
+        print("Insert finished successfully.")
