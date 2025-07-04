@@ -126,15 +126,15 @@ class InsertValuesIntoTables:
         timesheet_absences_path = os.path.join(os.getcwd(), "files", "source_timesheet_absences.csv")
         confluence_absences_path = os.path.join(os.getcwd(), "files", "source_confluence_absences.csv")
         meetings_path = os.path.join(os.getcwd(), "files", "src_meetings.csv")
-        
+
         meetings_df = pd.read_csv(meetings_path)
 
-        pontaj_data = Utils.process_csv(pontaj_path)
-        absences_data = Utils.process_csv(timesheet_absences_path)
+        pontaj_data = Utils.process_csv(pontaj_path, "pontaj_date")
+        absences_data = Utils.process_csv(timesheet_absences_path, "absence_date")
 
         # rotunjește coloana quantity
         meetings_df["quantity"] = meetings_df["quantity"].astype(float).round(2)
-        meetings_df["current_date"] = pd.to_datetime(meetings_df["current_date"], errors="coerce").dt.date
+        meetings_df["meeting_date"] = pd.to_datetime(meetings_df["current_date"], errors="coerce").dt.date
         # pregătește datele pentru inserare (exclude meeting_id, se generează în DB)
         meetings_data = list(meetings_df[[
             "meeting_id","meeting_title", "current_date", "first_name", "last_name", "email", "quantity"

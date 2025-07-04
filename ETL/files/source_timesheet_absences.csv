@@ -1,4 +1,4 @@
-first_name,last_name,email,absence_type,current_date,quantity
+first_name,last_name,email,absence_type,absence_date,quantity
 Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-09,8
 Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-10,8
 Adina,Gheorghevici,Adina.Gheorghevici@endava.com,UL,2025-06-11,8
