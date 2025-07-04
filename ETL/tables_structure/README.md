@@ -16,7 +16,7 @@ The source tables are meant to store raw, unprocessed data coming from timesheet
     - `pontaj_id` – primary key
     - `first_name`, `last_name`, `email`
     - `project_name`
-    - `date`
+    - `pontaj_date`
     - `quantity` – hours worked
 
 - **`src_timesheet_absences`**
@@ -25,7 +25,7 @@ The source tables are meant to store raw, unprocessed data coming from timesheet
     - `absence_id` – primary key
     - `first_name`, `last_name`, `email`
     - `absence_type` – e.g., `UL`, `AL`, `SL`, etc.
-    - `date`
+    - `absence_date`
     - `quantity` – duration of absence
 
 Scripts automatically create and commit these tables using the `SourceTables` class.
@@ -52,7 +52,7 @@ These are cleaned and structured tables for analytics and reporting purposes.
 
 - **`dim_events`**
   - Events like meetings or absences
-  - Columns: `event_id`, `event_name`, `event_type`, `event_organizer`
+  - Columns: `event_id`, `event_name`, `event_type`, `event_date`
 
 - **`fact_timesheets`**
   - Central fact table that joins all dimensions
