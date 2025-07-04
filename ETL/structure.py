@@ -8,8 +8,8 @@ from utils.insert_values_into_tables import InsertValuesIntoTables
 
 if __name__ == "__main__":
     connection = oracledb.connect(
-        user='dan',
-        password='davax_pass',
+        user='mada',
+        password='madalin2001',
         dsn='localhost:1521/XEPDB1'
     )
 
@@ -18,3 +18,8 @@ if __name__ == "__main__":
 
     dim_tables.create_tables()
     source_tables.create_tables()
+
+    # Populate the dimension tables with data from source tables
+    InsertValuesIntoTables.populate_dim_employees(connection.cursor())  
+    InsertValuesIntoTables.populate_dim_projects(connection.cursor())
+    InsertValuesIntoTables.populate_dim_events(connection.cursor())

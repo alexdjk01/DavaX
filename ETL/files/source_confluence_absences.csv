@@ -1,4 +1,4 @@
-last_name,first_name,subject,start_date,start_time,end_date,end_time,all_day_event
+last_name,first_name,absence_type,start_date,start_time,end_date,end_time,all_day_event
 Gheorghiu,Stefan Nicolae,UL,2025-05-29,12:00:00 PM,2025-05-29,3:00:00 PM,False
 Brezeanu,Rares Anton,UL,2025-06-06,5:00:00 PM,2025-06-06,7:00:00 PM,False
 Brezeanu,Rares Anton,UL,2025-06-10,1:00:00 PM,2025-06-10,3:00:00 PM,False

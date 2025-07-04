@@ -59,6 +59,18 @@ class SourceTables:
                         ("all_day_event", "VARCHAR2(50)"),
                         ("quantity", "NUMBER")
                     ]
+                },
+                {
+                    "name": "src_meetings",
+                    "columns": [
+                        ("meeting_id", "NUMBER"),
+                        ("meeting_title", "VARCHAR2(50)"),
+                        ("current_date", "DATE"),
+                        ("first_name", "VARCHAR2(50)"),
+                        ("last_name", "VARCHAR2(50)"),
+                        ("email", "VARCHAR2(100)"),
+                        ("quantity", "NUMBER(3, 2)")
+                    ]
                 }
         ]
 
