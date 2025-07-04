@@ -1,4 +1,4 @@
-meeting_id,meeting_title,current_date,first_name,last_name,email,quantity
+meeting_id,meeting_title,meeting_date,first_name,last_name,email,quantity
 1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alice,Tache,Alice.Tache@endava.com,1.7602777777777778
 1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Alexandru,Burlica,Alexandru.Burlica@endava.com,1.7466666666666666
 1,Dava.X Academy - ETL Theory training session 1,2025-06-24,Emanuel,Luculescu,Emanuel.Luculescu@endava.com,1.7433333333333334

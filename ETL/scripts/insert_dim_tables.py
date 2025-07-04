@@ -43,7 +43,7 @@ def populate_dim_projects(cursor, pontaj_df):
 
 def populate_dim_events(cursor, absences_df, meetings_df, confluence_df):
     # src_timesheet_absences
-    events_1 = absences_df[['current_date', 'absence_type']].drop_duplicates().dropna()
+    events_1 = absences_df[['absence_date', 'absence_type']].drop_duplicates().dropna()
     events_1['event_name'] = 'absence'
     events_1.columns = ['event_date', 'event_name', 'event_type']
 
@@ -71,8 +71,8 @@ def populate_dim_events(cursor, absences_df, meetings_df, confluence_df):
 
 def main():
     connection = oracledb.connect(
-        user='mada',
-        password='madalin2001',
+        user='dariusdinu',
+        password='parolamea',
         dsn='localhost:1521/XEPDB1'
     )
     cursor = connection.cursor()

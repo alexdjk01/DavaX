@@ -31,7 +31,7 @@ class SourceTables:
                             ("last_name", "VARCHAR2(50)"),
                             ("email", "VARCHAR2(100)"),
                             ("project_name", "VARCHAR(100)"),
-                            ("current_date", "DATE"),
+                            ("pontaj_date", "DATE"),
                             ("quantity", "NUMBER")
                         ]
                 },
@@ -43,7 +43,7 @@ class SourceTables:
                         ("last_name", "VARCHAR2(50)"),
                         ("email", "VARCHAR2(100)"),
                         ("absence_type", "VARCHAR(10)"),
-                        ("current_date", "DATE"),
+                        ("absence_date", "DATE"),
                         ("quantity", "NUMBER")
                         ]
                 },
@@ -65,7 +65,7 @@ class SourceTables:
                     "columns": [
                         ("meeting_id", "NUMBER"),
                         ("meeting_title", "VARCHAR2(50)"),
-                        ("current_date", "DATE"),
+                        ("meeting_date", "DATE"),
                         ("first_name", "VARCHAR2(50)"),
                         ("last_name", "VARCHAR2(50)"),
                         ("email", "VARCHAR2(100)"),

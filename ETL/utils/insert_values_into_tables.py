@@ -76,22 +76,22 @@ class InsertValuesIntoTables:
     @staticmethod
     def populate_dim_events(cursor):
         queries = [
-            # meetings → current_date + meeting_title + 'meeting'
+            # meetings → event_date + meeting_title + 'meeting'
             """
             INSERT INTO dim_events (event_date, event_name, event_type)
-            SELECT DISTINCT current_date, meeting_title, 'meeting'
+            SELECT DISTINCT meeting_date, meeting_title, 'meeting'
             FROM src_meetings
-            WHERE (current_date, meeting_title, 'meeting') NOT IN (
+            WHERE (meeting_date, meeting_title, 'meeting') NOT IN (
                 SELECT event_date, event_name, event_type FROM dim_events
             )
             """,
 
-            # timesheet absences → current_date + 'absence' + absence_type
+            # timesheet absences → absence_date + 'absence' + absence_type
             """
             INSERT INTO dim_events (event_date, event_name, event_type)
-            SELECT DISTINCT current_date, 'absence', absence_type
+            SELECT DISTINCT absence_date, 'absence', absence_type
             FROM src_timesheet_absences
-            WHERE (current_date, 'absence', absence_type) NOT IN (
+            WHERE (absence_date, 'absence', absence_type) NOT IN (
                 SELECT event_date, event_name, event_type FROM dim_events
             )
             """,
@@ -129,15 +129,15 @@ class InsertValuesIntoTables:
         
         meetings_df = pd.read_csv(meetings_path)
 
-        pontaj_data = Utils.process_csv(pontaj_path)
-        absences_data = Utils.process_csv(timesheet_absences_path)
+        pontaj_data = Utils.process_csv(pontaj_path, "pontaj_date")
+        absences_data = Utils.process_csv(timesheet_absences_path, "absence_date")
 
         # rotunjește coloana quantity
         meetings_df["quantity"] = meetings_df["quantity"].astype(float).round(2)
-        meetings_df["current_date"] = pd.to_datetime(meetings_df["current_date"], errors="coerce").dt.date
+        meetings_df["meeting_date"] = pd.to_datetime(meetings_df["meeting_date"], errors="coerce").dt.date
         # pregătește datele pentru inserare (exclude meeting_id, se generează în DB)
         meetings_data = list(meetings_df[[
-            "meeting_id","meeting_title", "current_date", "first_name", "last_name", "email", "quantity"
+            "meeting_id","meeting_title", "meeting_date", "first_name", "last_name", "email", "quantity"
         ]].itertuples(index=False, name=None))
 
         confluence_absences_df = pd.read_csv(confluence_absences_path)
@@ -159,7 +159,7 @@ class InsertValuesIntoTables:
         # --- Step 2: Insert data
         insert_pontaj = """
         INSERT INTO src_timesheet_pontaj (
-            first_name, last_name, email, project_name, current_date, quantity
+            first_name, last_name, email, project_name, pontaj_date, quantity
         ) VALUES (
             :1, :2, :3, :4, :5, :6
         )
@@ -170,7 +170,7 @@ class InsertValuesIntoTables:
         # ===========================================================
         insert_absences = """
         INSERT INTO src_timesheet_absences (
-            first_name, last_name, email, absence_type, current_date, quantity
+            first_name, last_name, email, absence_type, absence_date, quantity
         ) VALUES (
             :1, :2, :3, :4, :5, :6
         )
@@ -181,7 +181,7 @@ class InsertValuesIntoTables:
         # ===========================================================
         insert_meetings = """
         INSERT INTO src_meetings (
-            meeting_id, meeting_title, current_date, first_name, last_name, email, quantity
+            meeting_id, meeting_title, meeting_date, first_name, last_name, email, quantity
         ) VALUES (
             :1, :2, :3, :4, :5, :6,:7
         )

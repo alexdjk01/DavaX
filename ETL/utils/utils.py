@@ -100,19 +100,20 @@ class Utils:
         # fetch all column names and return them as a list
         return [row[0] for row in cursor.fetchall()]
 
-    def process_csv(file_path):
+    def process_csv(file_path, date):
         """
         Reads a CSV file into a pandas DataFrame, processes it by dropping NaN values,
         and returns the DataFrame.
 
         params:
             file_path (str): The path to the CSV file.
+            date (str): The date column from CSV file
 
         return:
             pd.DataFrame: Processed DataFrame with NaN values dropped.
         """
         data_frame = pd.read_csv(file_path)
-        data_frame["current_date"] = pd.to_datetime(data_frame["current_date"]).dt.date
+        data_frame[date] = pd.to_datetime(data_frame[date]).dt.date
         data_frame = data_frame.where(pd.notnull(data_frame), None)
         data_frame = list(data_frame.itertuples(index=False, name=None))
 

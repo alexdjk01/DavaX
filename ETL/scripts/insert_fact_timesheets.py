@@ -42,7 +42,7 @@ def get_event_quantities(cursor, event_name, event_type, event_date):
               FROM src_meetings s
               JOIN dim_employees emp ON s.email = emp.email
              WHERE s.meeting_title = :event_name
-               AND TRUNC(s.current_date) = :event_date
+               AND TRUNC(s.meeting_date) = :event_date
         """
         params = {"event_name": event_name, "event_date": event_date}
     # Full-day absences from CSV
@@ -52,7 +52,7 @@ def get_event_quantities(cursor, event_name, event_type, event_date):
               FROM src_timesheet_absences s
               JOIN dim_employees emp ON s.email = emp.email
              WHERE s.absence_type = :event_type
-               AND TRUNC(s.current_date) = :event_date
+               AND TRUNC(s.absence_date) = :event_date
         """
         params = {"event_type": event_type, "event_date": event_date}
     # Partial absences from Confluence
