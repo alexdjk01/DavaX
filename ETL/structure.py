@@ -5,37 +5,37 @@ import matplotlib.pyplot as plt
 
 from tables_structure.dim_tables import DimTables
 from tables_structure.source_tables import SourceTables
+from tables_structure.fact_table import FactTable
 from utils.insert_values_into_tables import InsertValuesIntoTables
 from utils.queries import ReportQueries
-from scripts.insert_fact_timesheets import main as insert_fact_table_data
 
 if __name__ == "__main__":
-    # 1) Open connection & build schema
-    conn = oracledb.connect(
-        user='dariusdinu',
-        password='parolamea',
+    # 1) Open connectionection & build schema
+    connection = oracledb.connect(
+        user='dan',
+        password='davax_pass',
         dsn='localhost:1521/XEPDB1'
     )
 
-    dim_tables    = DimTables(conn)
-    source_tables = SourceTables(conn)
+    dim_tables = DimTables(connection)
+    source_tables = SourceTables(connection)
 
     dim_tables.create_tables()
     source_tables.create_tables()
 
-    InsertValuesIntoTables.populate_dim_employees(conn.cursor())
-    InsertValuesIntoTables.populate_dim_projects(conn.cursor())
-    InsertValuesIntoTables.populate_dim_events(conn.cursor())
+    InsertValuesIntoTables.populate_dim_employees(connection.cursor())
+    InsertValuesIntoTables.populate_dim_projects(connection.cursor())
+    InsertValuesIntoTables.populate_dim_events(connection.cursor())
 
-    insert_fact_table_data()
-
-     # ─────────── Run Reports ───────────
-    rq = ReportQueries(conn)
+    fact_table = FactTable(connection.cursor())
+    fact_table.populate_fact_timesheets()
+    # ─────────── Run Reports ───────────
+    report_queries = ReportQueries(connection)
 
     # Example 1: Net hours for June 1–14
-    print(f"========================================")
-    print(f"Example 1: Net hours for June 1–14")
-    net = rq.net_hours_for_period(date(2025,6,1), date(2025,6,14))
+    print("========================================")
+    print("Example 1: Net hours for June 1–14")
+    net = report_queries.net_hours_for_period(date(2025, 6, 1), date(2025, 6, 14))
     df_net = pd.DataFrame(net)
     print("Columns returned:", list(df_net.columns))
     print(df_net)
@@ -43,7 +43,7 @@ if __name__ == "__main__":
     if not df_net.empty:
         # Use whatever the actual column name is (uppercase vs lowercase)
         idx_col = 'EMPLOYEE_ID' if 'EMPLOYEE_ID' in df_net.columns else 'employee_id'
-        val_col = 'NET_HOURS'     if 'NET_HOURS'     in df_net.columns else 'net_hours'
+        val_col = 'NET_HOURS' if 'NET_HOURS' in df_net.columns else 'net_hours'
 
         df_net.set_index(idx_col, inplace=True)
         df_net[val_col].nlargest(10).plot.barh()
@@ -55,9 +55,9 @@ if __name__ == "__main__":
         print("No net‐hours data in that range.")
 
     # Example 2: Total meeting hours
-    print(f"========================================")
-    print(f"Example 2: Total meeting hours")
-    meet = rq.total_meeting_hours()
+    print("========================================")
+    print("Example 2: Total meeting hours")
+    meet = report_queries.total_meeting_hours()
     df_meet = pd.DataFrame(meet)
     print("\nMeeting hours per employee:")
     print(df_meet)
@@ -74,17 +74,17 @@ if __name__ == "__main__":
         plt.show()
 
     # Example 3: Absence summary for SL
-    print(f"========================================")
-    print(f"Example 3: Absence summary for SL")
-    absn = rq.total_absences('SL')
+    print("========================================")
+    print("Example 3: Absence summary for SL")
+    absn = report_queries.total_absences('SL')
     df_absn = pd.DataFrame(absn)
     print("\nSick‐leave summary:")
     print(df_absn)
 
     # Example 4: Percentages per month    
-    print(f"========================================")
-    print(f"Example 4: Percentages per month")
-    percs = rq.work_absence_percentages()
+    print("========================================")
+    print("Example 4: Percentages per month")
+    percs = report_queries.work_absence_percentages()
     df_percs = pd.DataFrame(percs)
     print("\nWork vs Absence %:")
     print(df_percs)
