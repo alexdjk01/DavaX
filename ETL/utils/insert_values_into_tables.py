@@ -202,7 +202,6 @@ class InsertValuesIntoTables:
             confluence_absences_df = confluence_absences_df.rename(columns={"subject": "absence_type"})
         # -- ensure proper values to bo inserted into oracle db
         confluence_absences_df["quantity"] = confluence_absences_df["quantity"].astype(int)
-        print(confluence_absences_df)
         data_to_insert = list(confluence_absences_df[["last_name", "first_name", "absence_type","start_timestamp", "end_timestamp", "all_day_event", "quantity"]].itertuples(index=False, name=None))
         cursor.execute("TRUNCATE TABLE src_confluence_absences")
         cursor.executemany(insert_confluence_absences, data_to_insert)
