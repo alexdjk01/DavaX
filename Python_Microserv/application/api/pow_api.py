@@ -10,12 +10,15 @@ from application.services.pow_service import calculate_power
 
 router = APIRouter()
 
+
 class PowRequest(BaseModel):
     base: float
     exponent: float
 
+
 class PowResponse(BaseModel):
     result: float
+
 
 def get_db():
     db = SessionLocal()
@@ -23,6 +26,7 @@ def get_db():
         yield db
     finally:
         db.close()
+
 
 @router.post("/pow", response_model=PowResponse)
 def compute_pow(request: PowRequest, db: Session = Depends(get_db)):
@@ -32,7 +36,7 @@ def compute_pow(request: PowRequest, db: Session = Depends(get_db)):
             operation="pow",
             input_data=json.dumps({"base": request.base, "exponent": request.exponent}),
             result=str(result),
-            status="success"
+            status="success",
         )
         db.add(operation)
         db.commit()
@@ -43,7 +47,7 @@ def compute_pow(request: PowRequest, db: Session = Depends(get_db)):
             operation="pow",
             input_data=json.dumps({"base": request.base, "exponent": request.exponent}),
             result=str(e),
-            status="error"
+            status="error",
         )
         db.add(operation)
         db.commit()

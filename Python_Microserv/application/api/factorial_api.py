@@ -8,11 +8,14 @@ import json
 
 router = APIRouter()
 
+
 class FactorialRequest(BaseModel):
     number: int
 
+
 class FactorialResponse(BaseModel):
     result: int
+
 
 def get_db():
     db = SessionLocal()
@@ -20,6 +23,7 @@ def get_db():
         yield db
     finally:
         db.close()
+
 
 @router.post("/factorial", response_model=FactorialResponse)
 def compute_factorial(request: FactorialRequest, db: Session = Depends(get_db)):
@@ -29,7 +33,7 @@ def compute_factorial(request: FactorialRequest, db: Session = Depends(get_db)):
             operation="factorial",
             input_data=json.dumps({"number": request.number}),
             result=str(result),
-            status="success"
+            status="success",
         )
         db.add(operation)
         db.commit()
@@ -40,7 +44,7 @@ def compute_factorial(request: FactorialRequest, db: Session = Depends(get_db)):
             operation="factorial",
             input_data=json.dumps({"number": request.number}),
             result=str(e),
-            status="error"
+            status="error",
         )
         db.add(operation)
         db.commit()
