@@ -1,21 +1,18 @@
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 from pydantic import BaseModel
-from typing import Any
-import json
-
+from application.services.fibonacci_service import calculate_fibonacci
 from application.db.session import SessionLocal
 from application.models.db_model import MathOperation
-from application.services.pow_service import calculate_power
+import json
 
 router = APIRouter()
 
-class PowRequest(BaseModel):
-    base: float
-    exponent: float
+class FibonacciRequest(BaseModel):
+    number: int
 
-class PowResponse(BaseModel):
-    result: float
+class FibonacciResponse(BaseModel):
+    result: int
 
 def get_db():
     db = SessionLocal()
@@ -24,13 +21,13 @@ def get_db():
     finally:
         db.close()
 
-@router.post("/pow", response_model=PowResponse)
-def compute_pow(request: PowRequest, db: Session = Depends(get_db)):
+@router.post("/fibonacci", response_model=FibonacciResponse)
+def compute_fibonacci(request: FibonacciRequest, db: Session = Depends(get_db)):
     try:
-        result = calculate_power(request.base, request.exponent)
+        result = calculate_fibonacci(request.number)
         operation = MathOperation(
-            operation="pow",
-            input_data=json.dumps({"base": request.base, "exponent": request.exponent}),
+            operation="fibonacci",
+            input_data=json.dumps({"number": request.number}),
             result=str(result),
             status="success"
         )
@@ -40,8 +37,8 @@ def compute_pow(request: PowRequest, db: Session = Depends(get_db)):
         return {"result": result}
     except Exception as e:
         operation = MathOperation(
-            operation="pow",
-            input_data=json.dumps({"base": request.base, "exponent": request.exponent}),
+            operation="fibonacci",
+            input_data=json.dumps({"number": request.number}),
             result=str(e),
             status="error"
         )

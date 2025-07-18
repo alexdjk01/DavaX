@@ -13,7 +13,7 @@ class OperationResponse(BaseModel):
     operation: str
     input_data: Any
     result: str
-    result: str
+    status: str
     created_at: datetime
 
 
