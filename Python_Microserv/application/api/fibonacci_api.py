@@ -5,6 +5,8 @@ from application.services.fibonacci_service import calculate_fibonacci
 from application.db.session import SessionLocal
 from application.models.db_model import MathOperation
 import json
+from application.utils.stream_writer import publish_to_stream
+
 
 router = APIRouter()
 
@@ -27,6 +29,10 @@ def get_db():
 
 @router.post("/fibonacci", response_model=FibonacciResponse)
 def compute_fibonacci(request: FibonacciRequest, db: Session = Depends(get_db)):
+    publish_to_stream({
+        "operation": "fibonacci",
+        "input": request.dict()
+    })
     try:
         result = calculate_fibonacci(request.number)
         operation = MathOperation(

@@ -5,20 +5,17 @@ import json
 
 from application.db.session import SessionLocal
 from application.models.db_model import MathOperation
-from application.services.pow_service import calculate_power
+from application.services.gcd_service import calculate_gcd
 from application.utils.stream_writer import publish_to_stream
 
 router = APIRouter()
 
+class GCDRequest(BaseModel):
+    a: int
+    b: int
 
-class PowRequest(BaseModel):
-    base: float
-    exponent: float
-
-
-class PowResponse(BaseModel):
-    result: float
-
+class GCDResponse(BaseModel):
+    result: int
 
 def get_db():
     db = SessionLocal()
@@ -27,32 +24,33 @@ def get_db():
     finally:
         db.close()
 
-
-@router.post("/pow", response_model=PowResponse)
-def compute_pow(request: PowRequest, db: Session = Depends(get_db)):
+@router.post("/gcd", response_model=GCDResponse)
+def compute_gcd(request: GCDRequest, db: Session = Depends(get_db)):
     publish_to_stream({
-        "operation": "pow",
+        "operation": "gcd",
         "input": request.dict()
     })
     try:
-        result = calculate_power(request.base, request.exponent)
+        result = calculate_gcd(request.a, request.b)
+
         operation = MathOperation(
-            operation="pow",
-            input_data=json.dumps({"base": request.base, "exponent": request.exponent}),
+            operation="gcd",
+            input_data=json.dumps({"a": request.a, "b": request.b}),
             result=str(result),
-            status="success",
+            status="success"
         )
         db.add(operation)
         db.commit()
         db.refresh(operation)
         return {"result": result}
+
     except Exception as e:
         operation = MathOperation(
-            operation="pow",
-            input_data=json.dumps({"base": request.base, "exponent": request.exponent}),
+            operation="gcd",
+            input_data=json.dumps({"a": request.a, "b": request.b}),
             result=str(e),
-            status="error",
+            status="error"
         )
         db.add(operation)
         db.commit()
-        return {"result": f"Error: {str(e)}"}
+        return {"result": -1}

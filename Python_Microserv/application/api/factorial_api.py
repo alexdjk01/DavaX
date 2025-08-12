@@ -5,6 +5,8 @@ from application.services.factorial_service import calculate_factorial
 from application.db.session import SessionLocal
 from application.models.db_model import MathOperation
 import json
+from application.utils.stream_writer import publish_to_stream
+
 
 router = APIRouter()
 
@@ -27,6 +29,10 @@ def get_db():
 
 @router.post("/factorial", response_model=FactorialResponse)
 def compute_factorial(request: FactorialRequest, db: Session = Depends(get_db)):
+    publish_to_stream({
+        "operation": "factorial",
+        "input": request.dict()
+    })
     try:
         result = calculate_factorial(request.number)
         operation = MathOperation(
