@@ -1,1 +1,499 @@
-[]
+[
+  {
+    "title": "1984",
+    "short_summary": "A dystopian society ruled by pervasive surveillance, propaganda, and thought control.\nWinston Smith quietly rebels against the Party while searching for truth and freedom.",
+    "themes": [
+      "surveillance",
+      "totalitarianism",
+      "individuality"
+    ]
+  },
+  {
+    "title": "The Hobbit",
+    "short_summary": "Bilbo Baggins leaves the Shire with a band of dwarves to reclaim a stolen treasure.\nA light‑hearted quest that grows into lessons on courage, friendship, and self‑discovery.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage",
+      "magic"
+    ]
+  },
+  {
+    "title": "Dune",
+    "short_summary": "On the desert planet Arrakis, noble houses fight over spice while a young heir faces destiny.\nPolitics, ecology, and religion intertwine in Paul Atreides’ transformation.",
+    "themes": [
+      "ecology",
+      "power",
+      "prophecy",
+      "politics"
+    ]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "short_summary": "In the American South, Scout Finch witnesses racial injustice as her father defends an innocent man.\nA coming‑of‑age story about empathy, courage, and moral integrity.",
+    "themes": [
+      "justice",
+      "empathy",
+      "racism",
+      "childhood"
+    ]
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "short_summary": "The Buendía family saga blends myth and reality in the town of Macondo across generations.\nLove, solitude, and the circularity of history shape their fates.",
+    "themes": [
+      "magical realism",
+      "solitude",
+      "family",
+      "memory"
+    ]
+  },
+  {
+    "title": "The Name of the Rose",
+    "short_summary": "A medieval abbey hides murders and forbidden knowledge as a friar investigates.\nA literary mystery about reason, power, and censorship.",
+    "themes": [
+      "mystery",
+      "knowledge",
+      "heresy",
+      "power"
+    ]
+  },
+  {
+    "title": "The Master and Margarita",
+    "short_summary": "The Devil visits Moscow, exposing hypocrisy through satire and the surreal.\nInterwoven tales of love, art, and freedom under oppression.",
+    "themes": [
+      "satire",
+      "freedom",
+      "love",
+      "tyranny"
+    ]
+  },
+  {
+    "title": "Crime and Punishment",
+    "short_summary": "A poor student commits murder to test a philosophy and faces psychological turmoil.\nGuilt, redemption, and morality collide in 19th‑century St. Petersburg.",
+    "themes": [
+      "guilt",
+      "redemption",
+      "morality",
+      "poverty"
+    ]
+  },
+  {
+    "title": "Solaris",
+    "short_summary": "Scientists on a space station confront an alien ocean that manifests their memories.\nAn introspective exploration of contact, grief, and the unknowable.",
+    "themes": [
+      "first contact",
+      "memory",
+      "grief",
+      "alien intelligence"
+    ]
+  },
+  {
+    "title": "The Little Prince",
+    "short_summary": "A pilot meets a wise child from another planet who questions adult assumptions.\nA poetic fable about friendship, innocence, and seeing with the heart.",
+    "themes": [
+      "friendship",
+      "innocence",
+      "meaning"
+    ]
+  },
+  {
+    "title": "Mara",
+    "short_summary": "A poor young woman seeks stability and love in a society marked by class differences.\nChoices, sacrifice, and dignity drive her path.",
+    "themes": [
+      "class",
+      "love",
+      "sacrifice",
+      "dignity"
+    ]
+  },
+  {
+    "title": "The Three‑Body Problem",
+    "short_summary": "Earth faces a distant civilization while scientists unravel a cosmic puzzle.\nA hard‑SF meditation on survival, cooperation, and scale.",
+    "themes": [
+      "first contact",
+      "science",
+      "survival",
+      "game theory"
+    ]
+  },
+  {
+    "title": "Brave New World",
+    "short_summary": "A seemingly happy society engineered through conditioning hides a loss of freedom and depth.\nPleasure replaces meaning, raising questions about what makes us human.",
+    "themes": [
+      "conformity",
+      "technology",
+      "freedom",
+      "consumerism"
+    ]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "short_summary": "Firemen burn books to suppress dissent, while one begins to question and seek knowledge.\nA warning about censorship and the numbing of curiosity.",
+    "themes": [
+      "censorship",
+      "knowledge",
+      "media",
+      "rebellion"
+    ]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "short_summary": "Holden Caulfield wanders New York wrestling with grief and alienation.\nA voice of adolescent honesty and contradiction.",
+    "themes": [
+      "alienation",
+      "adolescence",
+      "authenticity"
+    ]
+  },
+  {
+    "title": "The Once and Future King",
+    "short_summary": "Arthur’s rise explores power, education, and the tragedy of idealism.\nLegend retold with humor and melancholy.",
+    "themes": [
+      "leadership",
+      "education",
+      "myth",
+      "idealism"
+    ]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "short_summary": "Elizabeth Bennet and Mr. Darcy navigate class, misunderstanding, and personal growth.\nWit and sharp observation lead to love.",
+    "themes": [
+      "love",
+      "class",
+      "prejudice",
+      "growth"
+    ]
+  },
+  {
+    "title": "The Great Gatsby",
+    "short_summary": "Nick Carraway observes the opulent yet hollow world of Jay Gatsby, whose dream of love clashes with reality.\nA sharp critique of the American Dream in the Jazz Age.",
+    "themes": [
+      "wealth",
+      "illusion",
+      "love",
+      "American Dream"
+    ]
+  },
+  {
+    "title": "Moby-Dick",
+    "short_summary": "Captain Ahab’s obsession with a white whale drives his crew on a perilous oceanic quest.\nA novel of revenge, obsession, and humanity’s struggle against nature.",
+    "themes": [
+      "obsession",
+      "revenge",
+      "nature",
+      "fate"
+    ]
+  },
+  {
+    "title": "War and Peace",
+    "short_summary": "Tolstoy intertwines personal lives with the sweep of Napoleonic wars across Russia.\nEpic scope blending history, philosophy, and intimate human struggles.",
+    "themes": [
+      "war",
+      "history",
+      "family",
+      "destiny"
+    ]
+  },
+  {
+    "title": "Anna Karenina",
+    "short_summary": "A tragic romance where Anna’s search for love conflicts with rigid society and duty.\nExplores desire, morality, and the costs of breaking conventions.",
+    "themes": [
+      "love",
+      "society",
+      "tragedy",
+      "morality"
+    ]
+  },
+  {
+    "title": "Les Misérables",
+    "short_summary": "Jean Valjean seeks redemption amid revolution and injustice in 19th-century France.\nHugo’s sweeping story of justice, mercy, and resilience.",
+    "themes": [
+      "justice",
+      "redemption",
+      "poverty",
+      "revolution"
+    ]
+  },
+  {
+    "title": "Don Quixote",
+    "short_summary": "An aging nobleman imagines himself a knight, embarking on comic misadventures with Sancho Panza.\nA satire on chivalry that shaped the modern novel.",
+    "themes": [
+      "illusion",
+      "reality",
+      "heroism",
+      "satire"
+    ]
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "short_summary": "Three brothers grapple with faith, morality, and free will as a patricide unfolds.\nDostoevsky’s exploration of doubt, love, and responsibility.",
+    "themes": [
+      "faith",
+      "morality",
+      "family",
+      "free will"
+    ]
+  },
+  {
+    "title": "Jane Eyre",
+    "short_summary": "An orphaned governess finds love with the enigmatic Mr. Rochester, but secrets loom.\nA gothic romance about independence, morality, and resilience.",
+    "themes": [
+      "love",
+      "independence",
+      "morality",
+      "feminism"
+    ]
+  },
+  {
+    "title": "Wuthering Heights",
+    "short_summary": "Catherine and Heathcliff’s turbulent passion devastates families across generations.\nA haunting gothic novel of love, revenge, and obsession.",
+    "themes": [
+      "passion",
+      "revenge",
+      "obsession",
+      "class"
+    ]
+  },
+  {
+    "title": "Frankenstein",
+    "short_summary": "Victor Frankenstein creates life, only to recoil from his creature’s existence.\nA cautionary tale about ambition, science, and responsibility.",
+    "themes": [
+      "creation",
+      "ambition",
+      "isolation",
+      "science"
+    ]
+  },
+  {
+    "title": "Dracula",
+    "short_summary": "Count Dracula seeks new blood in England while Van Helsing and allies resist.\nA gothic horror classic of fear, desire, and immortality.",
+    "themes": [
+      "fear",
+      "evil",
+      "desire",
+      "immortality"
+    ]
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "short_summary": "A man’s portrait ages while he remains young, indulging in decadence without consequence.\nA philosophical tale about beauty, morality, and corruption.",
+    "themes": [
+      "beauty",
+      "morality",
+      "corruption",
+      "vanity"
+    ]
+  },
+  {
+    "title": "Lord of the Flies",
+    "short_summary": "Stranded boys descend into savagery on an uninhabited island.\nA stark allegory on civilization, power, and human nature.",
+    "themes": [
+      "civilization",
+      "power",
+      "innocence",
+      "violence"
+    ]
+  },
+  {
+    "title": "Catch-22",
+    "short_summary": "American bomber crews face absurdity and paradox during World War II.\nDark humor critiques war, bureaucracy, and survival.",
+    "themes": [
+      "war",
+      "absurdity",
+      "survival",
+      "bureaucracy"
+    ]
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "short_summary": "Billy Pilgrim becomes “unstuck in time,” reliving Dresden bombings and alien abductions.\nA postmodern novel about trauma and fate.",
+    "themes": [
+      "war",
+      "trauma",
+      "fate",
+      "free will"
+    ]
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "short_summary": "The Joad family migrates during the Dust Bowl, seeking survival in California.\nA powerful story of injustice, resilience, and community.",
+    "themes": [
+      "poverty",
+      "migration",
+      "family",
+      "injustice"
+    ]
+  },
+  {
+    "title": "East of Eden",
+    "short_summary": "Two families in California mirror the biblical story of Cain and Abel.\nExplores love, choice, and the struggle between good and evil.",
+    "themes": [
+      "good vs evil",
+      "family",
+      "choice",
+      "identity"
+    ]
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "short_summary": "An old fisherman battles a giant marlin on the open sea.\nA tale of endurance, pride, and humanity’s bond with nature.",
+    "themes": [
+      "perseverance",
+      "nature",
+      "dignity",
+      "struggle"
+    ]
+  },
+  {
+    "title": "Heart of Darkness",
+    "short_summary": "A steamboat journey into the Congo exposes imperial greed and human darkness.\nA critique of colonialism and the thin veneer of civilization.",
+    "themes": [
+      "colonialism",
+      "darkness",
+      "morality",
+      "power"
+    ]
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "short_summary": "Lives intertwine in London and Paris during the French Revolution.\nSacrifice and resurrection amid turmoil.",
+    "themes": [
+      "revolution",
+      "sacrifice",
+      "love",
+      "justice"
+    ]
+  },
+  {
+    "title": "The Odyssey",
+    "short_summary": "Odysseus struggles to return home after the Trojan War, facing gods and monsters.\nAn epic of endurance, cunning, and fate.",
+    "themes": [
+      "journey",
+      "fate",
+      "heroism",
+      "homecoming"
+    ]
+  },
+  {
+    "title": "The Iliad",
+    "short_summary": "Greek heroes clash before Troy as gods intervene in human affairs.\nA foundational epic of war, honor, and rage.",
+    "themes": [
+      "war",
+      "honor",
+      "fate",
+      "rage"
+    ]
+  },
+  {
+    "title": "Beowulf",
+    "short_summary": "A hero slays monsters and faces mortality in an Old English epic.\nA tale of heroism, community, and impermanence.",
+    "themes": [
+      "heroism",
+      "mortality",
+      "legacy",
+      "courage"
+    ]
+  },
+  {
+    "title": "The Divine Comedy",
+    "short_summary": "Dante journeys through Hell, Purgatory, and Paradise guided by Virgil and Beatrice.\nAn allegorical vision of justice, sin, and redemption.",
+    "themes": [
+      "sin",
+      "redemption",
+      "justice",
+      "spirituality"
+    ]
+  },
+  {
+    "title": "Paradise Lost",
+    "short_summary": "Milton reimagines the fall of man and Satan’s rebellion.\nA poetic epic about free will, ambition, and temptation.",
+    "themes": [
+      "ambition",
+      "temptation",
+      "free will",
+      "faith"
+    ]
+  },
+  {
+    "title": "The Road",
+    "short_summary": "A father and son traverse a bleak post-apocalyptic America.\nA stark story of survival and love amid desolation.",
+    "themes": [
+      "survival",
+      "love",
+      "apocalypse",
+      "hope"
+    ]
+  },
+  {
+    "title": "Beloved",
+    "short_summary": "A mother haunted by the ghost of her child confronts slavery’s trauma.\nA lyrical novel about memory, identity, and freedom.",
+    "themes": [
+      "slavery",
+      "trauma",
+      "memory",
+      "identity"
+    ]
+  },
+  {
+    "title": "Invisible Man",
+    "short_summary": "A young Black man struggles with identity and racism in America.\nA powerful exploration of invisibility and selfhood.",
+    "themes": [
+      "race",
+      "identity",
+      "society",
+      "invisibility"
+    ]
+  },
+  {
+    "title": "Things Fall Apart",
+    "short_summary": "Okonkwo’s world unravels as colonialism disrupts Igbo traditions in Nigeria.\nA classic on change, tradition, and resilience.",
+    "themes": [
+      "tradition",
+      "colonialism",
+      "masculinity",
+      "change"
+    ]
+  },
+  {
+    "title": "Midnight’s Children",
+    "short_summary": "Born at India’s independence, Saleem Sinai’s life mirrors the nation’s fate.\nA magical realist saga of identity and history.",
+    "themes": [
+      "identity",
+      "history",
+      "nation",
+      "magical realism"
+    ]
+  },
+  {
+    "title": "The Alchemist",
+    "short_summary": "A shepherd pursues his Personal Legend across deserts and mysteries.\nA parable about dreams, destiny, and listening to the heart.",
+    "themes": [
+      "destiny",
+      "dreams",
+      "spirituality",
+      "journey"
+    ]
+  },
+  {
+    "title": "The Kite Runner",
+    "short_summary": "A man recalls betrayal and redemption amid Afghanistan’s turmoil.\nA moving story of friendship, guilt, and forgiveness.",
+    "themes": [
+      "friendship",
+      "guilt",
+      "redemption",
+      "family"
+    ]
+  },
+  {
+    "title": "Life of Pi",
+    "short_summary": "A boy stranded on a lifeboat with a tiger explores faith and survival.\nA modern fable of resilience and storytelling.",
+    "themes": [
+      "survival",
+      "faith",
+      "storytelling",
+      "imagination"
+    ]
+  }
+]

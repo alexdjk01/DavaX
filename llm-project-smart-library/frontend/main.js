@@ -15,13 +15,17 @@ form.addEventListener('submit', async (e)=>{
   addMsg(text,false);
   addMsg('typing…',true);
   try{
-    const res = await fetch('http://localhost:8000/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:text,language:'ro',wantImage:false})});
+    const res = await fetch('http://localhost:8000/chat',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({message:text, language:'ro'})
+    });
     const data = await res.json();
     box.lastChild.remove();
-    addMsg(`${data.recommendation.title} — ${data.recommendation.why}`, true);
+    addMsg(`${data.title}`, true);
     addMsg(data.summary, true);
   }catch(err){
     box.lastChild.remove();
-    addMsg('Eroare de retea sau server.', true);
+    addMsg('Network or server error.', true);
   }
 });

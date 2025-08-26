@@ -1,12 +1,11 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
 from .models import ChatRequest, ChatResponse, Health
-from . import tools
+from . import rag
 
 app = FastAPI(title="Smart Librarian – Retro Terminal RAG")
 
-# CORS (poți restrânge la originile tale în production)
+# Permissive CORS for local dev
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -21,13 +20,14 @@ def health() -> Health:
 
 @app.post("/chat", response_model=ChatResponse)
 def chat(req: ChatRequest) -> ChatResponse:
-    # TODO: RAG + LLM + extrage titlul + tool-calling
-    # PENTRU ACUM: stub simplu care apelează tool-ul după un titlu „The Hobbit”
-    title = "The Hobbit"
-    full = tools.get_summary_by_title(title)
+    results = rag.search(req.message, k=1)
+    if not results:
+        return ChatResponse(
+            title="No match found",
+            summary="Try being more specific (themes, genres, author, period).",
+        )
+    top = results[0]
     return ChatResponse(
-        recommendation={"title": title, "why": "exemplu stub – înlocuiește cu scorul RAG"},
-        summary=full or "Rezumat indisponibil (încă).",
-        context=[],
-        imageUrl=None
+        title=top["title"],
+        summary=top["short_summary"],
     )
