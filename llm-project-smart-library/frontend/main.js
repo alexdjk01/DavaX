@@ -22,6 +22,6 @@ form.addEventListener('submit', async (e)=>{
     addMsg(data.summary, true);
   }catch(err){
     box.lastChild.remove();
-    addMsg('Eroare de rețea sau server.', true);
+    addMsg('Eroare de retea sau server.', true);
   }
 });

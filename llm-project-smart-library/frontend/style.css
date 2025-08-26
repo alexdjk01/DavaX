@@ -1,13 +1,87 @@
-:root{--green:#00ff66;--dark:#000;}
-*{box-sizing:border-box;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace}
-body{background:#000;color:var(--green);margin:0;}
-.crt{max-width:720px;margin:32px auto;padding:16px;border:1px solid #0a0;position:relative;background:#000}
-.crt::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,255,0,.05),rgba(0,255,0,.05) 1px,transparent 1px,transparent 3px);} 
-header{font-weight:700;margin-bottom:12px;text-shadow:0 0 8px #0f0}
-.panel{height:60vh;overflow:auto;border:1px solid #060;padding:8px;background:rgba(0,20,0,.5)}
-.msg{padding:6px 4px;border-bottom:1px dotted #060;}
-.msg.bot{color:#b2ffcc}
-form{display:flex;gap:8px;margin-top:8px}
-input{flex:1;background:#001900;color:var(--green);border:1px solid #060;padding:8px}
-button{background:#001900;color:var(--green);border:1px solid #060;padding:8px 12px;cursor:pointer}
-button:hover{filter:brightness(1.2)}
+:root {
+  --green: #00ff66;
+  --dark: #000;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+body {
+  background: #000;
+  color: var(--green);
+  margin: 0;
+}
+
+.crt {
+  max-width: 720px;
+  margin: 32px auto;
+  padding: 16px;
+  border: 1px solid #0a0;
+  position: relative;
+  background: #000;
+}
+
+.crt::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 255, 0, 0.05),
+    rgba(0, 255, 0, 0.05) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+}
+
+header {
+  font-weight: 700;
+  margin-bottom: 12px;
+  text-shadow: 0 0 8px #0f0;
+}
+
+.panel {
+  height: 60vh;
+  overflow: auto;
+  border: 1px solid #060;
+  padding: 8px;
+  background: rgba(0, 20, 0, 0.5);
+}
+
+.msg {
+  padding: 6px 4px;
+  border-bottom: 1px dotted #060;
+}
+
+.msg.bot {
+  color: #b2ffcc;
+}
+
+form {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+input {
+  flex: 1;
+  background: #001900;
+  color: var(--green);
+  border: 1px solid #060;
+  padding: 8px;
+}
+
+button {
+  background: #001900;
+  color: var(--green);
+  border: 1px solid #060;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  filter: brightness(1.2);
+}
