@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Math Microservice Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>Math Microservice Dashboard</h1>
+    <p class="subtitle">Left: inputs • Right: live operations console</p>
+  </header>
+
+  <main class="layout">
+    <!-- LEFT: INPUTS -->
+    <section class="left-panel">
+      <div class="card">
+        <h2>Power (x^y)</h2>
+        <div class="row">
+          <input type="number" id="pow-base" placeholder="Base (x)" step="any" />
+          <input type="number" id="pow-exp" placeholder="Exponent (y)" step="any" />
+        </div>
+        <button id="btn-pow">Compute</button>
+        <pre id="powResult" class="result"></pre>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h2>Factorial (n!)</h2>
+          <input type="number" id="fact-n" placeholder="n" step="1" />
+          <button id="btn-fact">Compute</button>
+          <pre id="factorialResult" class="result"></pre>
+        </div>
+
+        <div class="card">
+          <h2>Fibonacci (n)</h2>
+          <input type="number" id="fib-n" placeholder="n" step="1" />
+          <button id="btn-fib">Compute</button>
+          <pre id="fibonacciResult" class="result"></pre>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h2>GCD (a, b)</h2>
+          <div class="row">
+            <input type="number" id="gcd-a" placeholder="a" step="1" />
+            <input type="number" id="gcd-b" placeholder="b" step="1" />
+          </div>
+          <button id="btn-gcd">Compute</button>
+          <pre id="gcdResult" class="result"></pre>
+        </div>
+
+        <div class="card">
+          <h2>LCM (a, b)</h2>
+          <div class="row">
+            <input type="number" id="lcm-a" placeholder="a" step="1" />
+            <input type="number" id="lcm-b" placeholder="b" step="1" />
+          </div>
+          <button id="btn-lcm">Compute</button>
+          <pre id="lcmResult" class="result"></pre>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h2>Square Root</h2>
+          <input type="number" id="sqrt-n" placeholder="number" step="any" />
+          <button id="btn-sqrt">Compute</button>
+          <pre id="sqrtResult" class="result"></pre>
+        </div>
+
+        <div class="card">
+          <h2>Natural Log</h2>
+          <input type="number" id="log-n" placeholder="number > 0" step="any" />
+          <button id="btn-log">Compute</button>
+          <pre id="logResult" class="result"></pre>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>Export Operations History</h2>
+        <button id="btn-export">Download CSV</button>
+      </div>
+    </section>
+
+    <!-- RIGHT: CONSOLE -->
+    <aside class="right-panel">
+      <div class="card console-card">
+        <div class="console-header">
+          <h2>Live Operations Console</h2>
+          <div class="console-controls">
+            <label>Filter:
+              <select id="filter-op">
+                <option value="">All</option>
+                <option value="pow">pow</option>
+                <option value="factorial">factorial</option>
+                <option value="fibonacci">fibonacci</option>
+                <option value="gcd">gcd</option>
+                <option value="lcm">lcm</option>
+                <option value="sqrt">sqrt</option>
+                <option value="log">log</option>
+              </select>
+            </label>
+            <label>Status:
+              <select id="filter-status">
+                <option value="">All</option>
+                <option value="success">success</option>
+                <option value="error">error</option>
+                <option value="pending">pending</option>
+              </select>
+            </label>
+          </div>
+        </div>
+        <div id="console" class="console"></div>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="app-footer">
+    <small>Connected to FastAPI at <code id="base-url-text"></code></small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
