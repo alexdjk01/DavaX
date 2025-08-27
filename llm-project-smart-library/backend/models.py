@@ -11,3 +11,4 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     title: str
     summary: str
+    long_summary: Optional[str] = None  # detailed summary

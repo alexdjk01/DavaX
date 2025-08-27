@@ -19,3 +19,7 @@ demo questions:
 “Which book features a hero’s long journey home from war?” → (The Odyssey)
 “I want a magical realist novel about history and identity.” → (One Hundred Years of Solitude, Midnight’s Children)
 etc...
+
+
+TEXT TO SPEACH ENABLED
+SPEACH TO TEXT ENABLED

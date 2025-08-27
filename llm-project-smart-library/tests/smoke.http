@@ -1,14 +1,5 @@
-### Smoke requests (folosește extensia REST Client sau curl)
-
-# Health
-GET http://localhost:8000/health
-
-### Chat (stub)
+### Profanity blocked
 POST http://localhost:8000/chat
 Content-Type: application/json
 
-{
-  "message": "Vreau o carte despre prietenie și magie.",
-  "language": "ro",
-  "wantImage": false
-}
+{ "message": "Give me a fucking book", "language": "en" }

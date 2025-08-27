@@ -84,4 +84,60 @@ button {
 
 button:hover {
   filter: brightness(1.2);
+  background-color:red
+}
+
+/* Details toggle styling */
+.details-block {
+  border: 1px solid #060;
+  background: rgba(0, 20, 0, .35);
+  margin: 6px 0 10px;
+  padding: 6px 8px;
+}
+
+.details-block > summary {
+  cursor: pointer;
+  color: #b2ffcc;
+  outline: none;
+  user-select: none;
+  list-style: none; 
+}
+
+.details-block > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* custom marker */
+.details-block > summary::before {
+  content: "▸ ";
+  color: #0f0;
+}
+.details-block[open] > summary::before {
+  content: "▾ ";
+  color: #0f0;
+}
+
+/* long summary block */
+.long-summary {
+  margin-top: 6px;
+  white-space: pre-wrap; /* keep paragraphs nicely */
+}
+
+/* optional toggle styling */
+.crt-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  opacity: .85;
+  margin-top: 6px;
+}
+.crt-toggle input {
+  accent-color: #0f0;
+}
+
+.msg.bot strong {
+  color: rgb(248, 89, 214);        
+  text-shadow: 0 0 6px #0f0; 
+  font-weight: 700;
 }

@@ -8,12 +8,17 @@
 </head>
 <body>
   <div class="crt">
-    <header>SMART LIBRARIAN ⌁ v0.1</header>
+    <header>SMART LIBRARIAN ⌁ final version</header>
     <div id="messages" class="panel"></div>
     <form id="chat-form">
-      <input id="msg" type="text" placeholder="> scrie aici…" autocomplete="off" />
+      <input id="msg" type="text" placeholder="> write here…" autocomplete="off" />
       <button type="submit">SEND</button>
+      <button id="mic" type="button" title="Voice input (STT)">REC</button>
     </form>
+    <label class="crt-toggle">
+      <input id="toggle-tts" type="checkbox" />
+      Auto read answers
+    </label>
   </div>
   <script src="main.js"></script>
 </body>

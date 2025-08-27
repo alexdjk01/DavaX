@@ -10,7 +10,7 @@ from chromadb.utils import embedding_functions
 DATA_DIR = Path(__file__).parent / "data"
 VSTORE_DIR = Path(__file__).parent / "vectorstore" / "chroma"
 
-# Lazily initialized singletons
+# Lazy initialized singleton
 _client = None
 _collection = None
 
@@ -19,7 +19,6 @@ def _ensure_collection():
     if _client is None:
         _client = chromadb.PersistentClient(path=str(VSTORE_DIR))
     if _collection is None:
-        # Embedding function (OpenAI text-embedding-3-small by default)
         ef = embedding_functions.OpenAIEmbeddingFunction(
             api_key=os.getenv("OPENAI_API_KEY", ""),
             api_base=os.getenv("OPENAI_API_BASE") or None,
@@ -39,14 +38,14 @@ def search(query: str, k: int = 3):
     got = zip(res.get("documents", [[]])[0], res.get("metadatas", [[]])[0], res.get("distances", [[]])[0])
     for doc, meta, dist in got:
         score = 1.0 - float(dist) if dist is not None else 0.0
-        # Parse themes back to a list for display only (metadata must stay primitives)
+        # (metadata must stay primitives)
         themes_csv = meta.get("themes_csv", "") if isinstance(meta, dict) else meta["themes_csv"]
         themes = [t.strip() for t in themes_csv.split(",") if t.strip()]
 
         item = {
             "title": meta.get("title") if isinstance(meta, dict) else meta["title"],
             "short_summary": meta.get("short_summary") if isinstance(meta, dict) else meta["short_summary"],
-            "themes": themes,  # this is fine in Python response; it's not stored back into Chroma
+            "themes": themes,
             "score": score,
         }
         out.append(item)
