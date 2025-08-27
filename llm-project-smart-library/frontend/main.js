@@ -97,6 +97,45 @@ form.addEventListener('submit', async (e)=>{
       details.appendChild(content);
       box.appendChild(details);
       box.scrollTop = box.scrollHeight;
+
+           // === Cover generation button ===
+        const extras = document.getElementById('extras');
+        if (extras) {
+          const btn = document.createElement('button');
+          btn.className = 'cover-btn';
+          btn.textContent = '🎨 Generate cover';
+          extras.innerHTML = ''; // clear previous buttons
+          extras.appendChild(btn);
+
+          btn.addEventListener('click', async () => {
+            btn.disabled = true;
+            btn.textContent = 'Generating…';
+            try {
+              const res = await fetch('http://localhost:8000/cover', {
+                method: 'POST',
+                headers: {'Content-Type':'application/json'},
+                body: JSON.stringify({
+                  title: data.title,
+                  summary: data.long_summary || data.summary,
+                  style: 'vintage paperback, CRT palette (green/black), bold type'
+                })
+              });
+              const cov = await res.json();
+              // display image below the last bot message
+              const img = document.createElement('img');
+              img.className = 'cover-img';
+              img.alt = `${data.title} — AI cover`;
+              img.src = cov.data_url;
+              box.appendChild(img);
+              box.scrollTop = box.scrollHeight;
+            } catch (e) {
+              addMsg('Cover generation failed. Try again.', true);
+            } finally {
+              btn.textContent = '🎨 Generate cover';
+              btn.disabled = false;
+            }
+          });
+        }
     }
   }catch(err){
     box.lastChild.remove();

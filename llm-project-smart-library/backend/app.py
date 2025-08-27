@@ -1,11 +1,11 @@
 # backend/app.py
-import os, json
+import os, json, base64
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from .models import ChatRequest, ChatResponse, Health
 from . import rag, tools
 from . import safety_filter
-from openai import OpenAI
+from openai import OpenAI,  APIError, BadRequestError
+from .models import ChatRequest, ChatResponse, Health, BookCoverRequest, BookCoverResponse
 
 app = FastAPI(title="Smart Librarian – Retro Terminal RAG")
 
@@ -18,6 +18,56 @@ app.add_middleware(
 )
 
 client = OpenAI()  # picks up OPENAI_API_KEY/OPENAI_API_BASE from env
+
+_COVER_CACHE: dict[str, str] = {}
+
+
+
+@app.post("/cover", response_model=BookCoverResponse)
+def cover(req: BookCoverRequest) -> BookCoverResponse:
+    # simple cache by title to avoid regenerating during a session
+    if req.title in _COVER_CACHE:
+        return BookCoverResponse(data_url=_COVER_CACHE[req.title])
+
+    prompt = f"""
+Design an original, minimal book cover for the novel titled: "{req.title}".
+Retro CRT palette (dark background, green accents). Bold, readable typography.
+Simple geometric composition; no copyrighted logos or existing covers.
+{('Context: ' + req.summary) if req.summary else ''}
+Style hints: {req.style or 'vintage paperback, limited palette, high contrast'}.
+""".strip()
+
+    img_model = os.getenv("IMAGE_MODEL", "gpt-image-1")
+
+    try:
+        # Use a supported size: portrait 1024x1536 works nicely
+        result = client.images.generate(
+            model=img_model,
+            prompt=prompt,
+            size="1024x1536",
+            n=1
+            # NOTE: Do not pass response_format; SDK returns b64_json by default
+        )
+        b64 = result.data[0].b64_json
+        data_url = f"data:image/png;base64,{b64}"
+        _COVER_CACHE[req.title] = data_url
+        return BookCoverResponse(data_url=data_url)
+
+    except (BadRequestError, APIError) as e:
+        # Optional: print(e) to your logs
+        # Return a 1x1 transparent PNG so the UI doesn't break
+        transparent_png = (
+            "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGMA"
+            "AQAABQABDQottQAAAABJRU5ErkJggg=="
+        )
+        return BookCoverResponse(data_url=f"data:image/png;base64,{transparent_png}")
+    except Exception as e:
+        # Last-resort catch: same transparent fallback
+        transparent_png = (
+            "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGMA"
+            "AQAABQABDQottQAAAABJRU5ErkJggg=="
+        )
+        return BookCoverResponse(data_url=f"data:image/png;base64,{transparent_png}")
 
 @app.get("/health", response_model=Health)
 def health() -> Health:

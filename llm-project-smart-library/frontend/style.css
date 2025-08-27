@@ -141,3 +141,20 @@ button:hover {
   text-shadow: 0 0 6px #0f0; 
   font-weight: 700;
 }
+
+.extras-bar {
+  display: flex;
+  gap: 8px;
+  margin: 8px 0;
+}
+.cover-img {
+  display: block;
+  margin: 8px 0 2px;
+  max-width: 50%;
+  border: 1px solid #060;
+  box-shadow: 0 0 10px rgba(0,255,0,.2);
+}
+.cover-btn {
+  background: #021; border: 1px solid #060; color: #0f0; padding: 6px 10px; cursor: pointer;
+}
+.cover-btn:disabled { opacity: .5; cursor: not-allowed; }
