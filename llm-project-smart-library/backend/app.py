@@ -1,4 +1,3 @@
-# backend/app.py
 import os, json, base64
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -17,12 +16,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-client = OpenAI()  # picks up OPENAI_API_KEY/OPENAI_API_BASE from env
-
+client = OpenAI()  # picks up OPENAI_API_KEY  from env
 _COVER_CACHE: dict[str, str] = {}
 
-
-
+# Route to generate the cover picture
 @app.post("/cover", response_model=BookCoverResponse)
 def cover(req: BookCoverRequest) -> BookCoverResponse:
     # simple cache by title to avoid regenerating during a session
@@ -30,23 +27,22 @@ def cover(req: BookCoverRequest) -> BookCoverResponse:
         return BookCoverResponse(data_url=_COVER_CACHE[req.title])
 
     prompt = f"""
-Design an original, minimal book cover for the novel titled: "{req.title}".
-Retro CRT palette (dark background, green accents). Bold, readable typography.
-Simple geometric composition; no copyrighted logos or existing covers.
-{('Context: ' + req.summary) if req.summary else ''}
-Style hints: {req.style or 'vintage paperback, limited palette, high contrast'}.
-""".strip()
+    Design an original, minimal book cover for the novel titled: "{req.title}".
+    Get inspired form the book description. The text should be bold and readable.
+    Try to keep it quite simple; no copyrighted logos or existing covers.
+    {('Context: ' + req.summary) if req.summary else ''}
+    Style hints: {req.style or 'vintage paperback, limited palette, high contrast'}.
+    """.strip()
 
-    img_model = os.getenv("IMAGE_MODEL", "gpt-image-1")
+    img_model = os.getenv("IMAGE_MODEL", "gpt-image-1")  # for image generation
 
     try:
-        # Use a supported size: portrait 1024x1536 works nicely
+        # used a supported size: portrait 1024x1536 works fine
         result = client.images.generate(
             model=img_model,
             prompt=prompt,
             size="1024x1536",
             n=1
-            # NOTE: Do not pass response_format; SDK returns b64_json by default
         )
         b64 = result.data[0].b64_json
         data_url = f"data:image/png;base64,{b64}"
@@ -54,28 +50,29 @@ Style hints: {req.style or 'vintage paperback, limited palette, high contrast'}.
         return BookCoverResponse(data_url=data_url)
 
     except (BadRequestError, APIError) as e:
-        # Optional: print(e) to your logs
-        # Return a 1x1 transparent PNG so the UI doesn't break
+        # return a 1x1 transparent PNG so the UI doesn't break
         transparent_png = (
             "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGMA"
             "AQAABQABDQottQAAAABJRU5ErkJggg=="
         )
         return BookCoverResponse(data_url=f"data:image/png;base64,{transparent_png}")
     except Exception as e:
-        # Last-resort catch: same transparent fallback
+        # final catch: same transparent fallback same as before
         transparent_png = (
             "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGMA"
             "AQAABQABDQottQAAAABJRU5ErkJggg=="
         )
         return BookCoverResponse(data_url=f"data:image/png;base64,{transparent_png}")
 
+# Health route to check if the server is responding
 @app.get("/health", response_model=Health)
 def health() -> Health:
     return Health(status="ok")
 
+# The main route where the chatbot answers questions
 @app.post("/chat", response_model=ChatResponse)
 def chat(req: ChatRequest) -> ChatResponse:
-    # 0) Safety gate: block profanity before hitting retrieval/LLM
+    # step 0) block certain bad requests before hitting retrieval/LLM
     ok, bad = safety_filter.is_input_allowed(req.message or "")
     if not ok:
         return ChatResponse(
@@ -84,7 +81,7 @@ def chat(req: ChatRequest) -> ChatResponse:
             long_summary=None,
         )
 
-    # 1) Retrieve top candidates from vector store (no generation)
+    # 1) retrieve top candidates from vector store (no generation) - we get the best answer for the user input from the list
     candidates = rag.search(req.message, k=3)
     if not candidates:
         return ChatResponse(
@@ -93,7 +90,8 @@ def chat(req: ChatRequest) -> ChatResponse:
             long_summary=None,
         )
 
-    # 2) Prepare a minimal tool spec for function calling
+    # 2) prepare a minimal tool spec for function calling
+    # get the titles candidates
     candidate_titles = [c["title"] for c in candidates]
     tools_schema = [{
         "type": "function",
@@ -110,7 +108,7 @@ def chat(req: ChatRequest) -> ChatResponse:
         }
     }]
 
-    # 3) Ask GPT to pick ONE title from the candidates using tool calling
+    # 3) GPT will pick one title from the candidates using tool calling for the best match
     system_msg = {
         "role": "system",
         "content": (
@@ -132,7 +130,7 @@ def chat(req: ChatRequest) -> ChatResponse:
         tool_choice="auto",
     )
 
-    # 4) Execute the tool call locally and assemble the final response
+    # 4) execute the tool call locally and create the final response
     chosen_title = candidate_titles[0]
     long_summary = None
 
@@ -146,11 +144,11 @@ def chat(req: ChatRequest) -> ChatResponse:
                     long_summary = tools.get_summary_by_title(chosen_title)
                 break  # use the first valid tool call
 
-    # Fallback if no tool call (or invalid args)
+    # fallback if no tool call (or invalid args)
     if not long_summary:
         long_summary = tools.get_summary_by_title(chosen_title)
 
-    # 5) Return short summary (from RAG) + optional long summary (from tool)
+    # 5) Return short summary (from RAG)  long summary (from tool)
     short = next((c["short_summary"] for c in candidates if c["title"] == chosen_title), candidates[0]["short_summary"])
 
     return ChatResponse(

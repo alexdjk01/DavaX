@@ -1,12 +1,9 @@
-# backend/safety.py
-# Simple profanity gate with support for common inflections and light obfuscation.
-
 from __future__ import annotations
 import re
 import unicodedata
 from typing import Tuple
 
-# 1) Base patterns (handle common suffixes/variants)
+# 1) get some common english bad words (plus variants and derivatives)
 BASE_PATTERNS = [
     r"f(?:u|v)ck(?:ing|ed|er|ers|s)?",      # fuck, fucking, fvck, fucked, fucker(s), fucks
     r"mother\s*f(?:u|v)cker(?:s)?",         # motherfucker(s) with optional space
@@ -20,10 +17,10 @@ BASE_PATTERNS = [
     r"whore(?:s)?"                          # whore(s)
 ]
 
-# Token-wise detection (normal text)
+# token-wise detection (normal text)
 TOKEN_RE = re.compile(r"\b(" + "|".join(BASE_PATTERNS) + r")\b", re.IGNORECASE)
 
-# Spaced/obfuscated letters (e.g., "f u c k", "f*ck")
+# spaced or special character in between letters (e.g., "f u c k", "f*ck")
 SPACED_RE = re.compile(
     r"\b("
     r"m\s*o\s*t\s*h\s*e\s*r\s*f\s*(?:u|v)\s*c\s*k(?:\s*s)?"  # mother f u c k (ers optional)
@@ -33,7 +30,6 @@ SPACED_RE = re.compile(
 )
 
 def _normalize(text: str) -> str:
-    # Remove accents, keep spacing for spaced-letter detection
     t = unicodedata.normalize("NFKD", text)
     t = "".join(ch for ch in t if not unicodedata.combining(ch))
     return t
@@ -44,17 +40,17 @@ def is_input_allowed(user_text: str) -> Tuple[bool, str | None]:
     """
     t = _normalize(user_text or "")
 
-    # 1) Direct token match
+    # 1) direct token match
     m = TOKEN_RE.search(t)
     if m:
         return False, m.group(0)
 
-    # 2) Spaced/obfuscated letters
+    # 2) spaced/*** letters
     m = SPACED_RE.search(t)
     if m:
         return False, m.group(0)
 
-    # 3) Squeezed tokens (remove punctuation inside words like f*ck)
+    # 3) squeezed tokens
     squeezed_tokens = []
     for tok in t.split():
         squeezed_tokens.append(re.sub(r"[^A-Za-z0-9]+", "", tok))

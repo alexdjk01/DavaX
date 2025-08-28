@@ -1,9 +1,3 @@
-
-"""Build a ChromaDB index from `book_summaries.json` using OpenAI embeddings.
-Requirements:
-  - OPENAI_API_KEY in environment (.env)
-  - Optional: EMBEDDING_MODEL (default text-embedding-3-small)
-"""
 import os, json, uuid
 from pathlib import Path
 import chromadb
@@ -15,6 +9,7 @@ VSTORE = ROOT / "backend" / "vectorstore" / "chroma"
 
 def main():
     data = json.loads(DATA.read_text(encoding="utf-8"))
+    # connect the key to the client
     client = chromadb.PersistentClient(path=str(VSTORE))
     ef = embedding_functions.OpenAIEmbeddingFunction(
         api_key=os.getenv("OPENAI_API_KEY", ""),
@@ -23,7 +18,7 @@ def main():
     )
     col = client.get_or_create_collection(name="books", metadata={"hnsw:space": "cosine"}, embedding_function=ef)
 
-    # Clear existing docs to avoid duplicates during rebuilds.
+    # clear existing docs to avoid duplicates during rebuilds.
     try:
         col.delete(where={})
     except Exception:
@@ -37,7 +32,7 @@ def main():
         metas.append({
             "title": item["title"],
             "short_summary": item["short_summary"],
-            # CHANGED: store themes as CSV string, not list
+            # !!! CHANGED: store themes as CSV string, not list
             "themes_csv": ", ".join(item.get("themes", [])),
         })
 

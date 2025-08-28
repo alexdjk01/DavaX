@@ -1,8 +1,3 @@
-"""
-Validează/dedup-ează JSON-ul generat: câmpuri esențiale, lungimi, și duplicări.
-Rulare:
-  python scripts/validate_dataset.py
-"""
 from __future__ import annotations
 import json
 from pathlib import Path
@@ -25,7 +20,7 @@ def main():
     short_list = load_json(OUT_SHORT, [])
     long_map = load_json(OUT_LONG, {})
 
-    # dedup după (title, author)
+    # dedup on (title, author)
     seen = set()
     dedup_short = []
     for x in short_list:
@@ -49,7 +44,7 @@ def main():
         "no_themes_samples": no_themes[:10],
     }
 
-    # salvăm lista dedup
+    # save dedup list
     with OUT_SHORT.open("w", encoding="utf-8") as f:
         json.dump(dedup_short, f, ensure_ascii=False, indent=2)
 

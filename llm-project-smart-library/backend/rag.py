@@ -1,7 +1,6 @@
 
 from __future__ import annotations
-import os, json
-from typing import List, Dict, Any
+import os
 from pathlib import Path
 
 import chromadb
@@ -10,7 +9,7 @@ from chromadb.utils import embedding_functions
 DATA_DIR = Path(__file__).parent / "data"
 VSTORE_DIR = Path(__file__).parent / "vectorstore" / "chroma"
 
-# Lazy initialized singleton
+# lazy initialized singleton pattern
 _client = None
 _collection = None
 

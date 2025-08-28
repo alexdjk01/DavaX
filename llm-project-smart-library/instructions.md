@@ -10,6 +10,7 @@ Frontend is a retro green-on-black chat.
  - python scripts/build_index.py 
  - uvicorn backend.app:app --reload  
  - OPEN INDEX.HTML IN BROWSER AND ENJOY
+ - !!!!!!!!!!!!! SET THE OPENAI KEY IN TERMINAL  !!!!!!!!!!!!!!!!!!!!!!!!
 
 **What this project does**
 

@@ -32,7 +32,6 @@ function speak(text) {
   if (!canSpeak() || !text) return;
   window.speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
-  // Optional: choose an English voice if available
   const voices = window.speechSynthesis.getVoices();
   const en = voices.find(v => /en-/i.test(v.lang));
   if (en) u.voice = en;
@@ -63,16 +62,12 @@ form.addEventListener('submit', async (e)=>{
     });
     const data = await res.json();
     box.lastChild.remove();
-    // Title (make bold)
     const titleDiv = document.createElement('div');
     titleDiv.className = 'msg bot';
     titleDiv.innerHTML = `<strong>${data.title}</strong>`;
     box.appendChild(titleDiv);
     box.scrollTop = box.scrollHeight;
-    // Short summary (normal)
     addMsg(data.summary, true);
-    addMsg(data.summary, true);
-    // Auto TTS if enabled
     if (ttsToggle && ttsToggle.checked) {
        speak(`${data.title}. ${data.summary}`);
     }
@@ -98,7 +93,6 @@ form.addEventListener('submit', async (e)=>{
       box.appendChild(details);
       box.scrollTop = box.scrollHeight;
 
-           // === Cover generation button ===
         const extras = document.getElementById('extras');
         if (extras) {
           const btn = document.createElement('button');
@@ -121,7 +115,6 @@ form.addEventListener('submit', async (e)=>{
                 })
               });
               const cov = await res.json();
-              // display image below the last bot message
               const img = document.createElement('img');
               img.className = 'cover-img';
               img.alt = `${data.title} — AI cover`;
@@ -131,7 +124,7 @@ form.addEventListener('submit', async (e)=>{
             } catch (e) {
               addMsg('Cover generation failed. Try again.', true);
             } finally {
-              btn.textContent = '🎨 Generate cover';
+              btn.textContent = '! Generate cover !';
               btn.disabled = false;
             }
           });
@@ -165,18 +158,17 @@ if (micBtn) {
       }
       if (finalTrans) {
         input.value = finalTrans.trim();
-        // auto-submit on final result:
         form.requestSubmit();
       }
     };
     recognizer.onend = () => {
       listening = false;
-      micBtn.textContent = '🎤';
+      micBtn.textContent = 'Mic';
       micBtn.disabled = false;
     };
     recognizer.onerror = () => {
       listening = false;
-      micBtn.textContent = '🎤';
+      micBtn.textContent = 'Mic';
       micBtn.disabled = false;
     };
 
@@ -192,7 +184,7 @@ if (micBtn) {
         recognizer.start();
       } catch {
         listening = false;
-        micBtn.textContent = '🎤';
+        micBtn.textContent = 'Mic';
         micBtn.disabled = false;
       }
     });
